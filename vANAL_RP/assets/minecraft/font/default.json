@@ -1,0 +1,1007 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:headsanywhere.ttf",
+      "shift": [0, 0],
+      "size": 11.0,
+      "oversample": 2.0,
+      "skip": ""
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/vanilcalogo.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": ["\u01B1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/tps.png",
+      "ascent": 10,
+      "height": 11,
+      "chars": ["\u03E2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/players.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": ["\u0298"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ping.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": ["\u03E6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/time.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": ["\u02A8"]
+    },    
+	{
+      "type": "bitmap",
+      "file": "minecraft:font/speech.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/main_menu.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC00\uDB80\uDC01\uDB80\uDC02\uDB80\uDC03\uDB80\uDC04"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/options.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC08\uDB80\uDC09\uDB80\uDC0A\uDB80\uDC0B\uDB80\uDC0C\uDB80\uDC0D\uDB80\uDC0E\uDB80\uDC0F\uDB80\uDC10\uDB80\uDC11\uDB80\uDC12\uDB80\uDC13"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/skin_customization.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC18\uDB80\uDC19\uDB80\uDC1A\uDB80\uDC1B\uDB80\uDC1C\uDB80\uDC1D\uDB80\uDC1E\uDB80\uDC1F\uDB80\uDC20\uDB80\uDC21\uDB80\uDC22"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/online_options.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC28\uDB80\uDC29"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/skin_customization.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC2A\uDB80\uDC2B\uDB80\uDC2C\uDB80\uDC2D\uDB80\uDC2E\uDB80\uDC2F\uDB80\uDC30\uDB80\uDC31\uDB80\uDC32\uDB80\uDC33\uDB80\uDC34"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/music_sound_options.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC3A\uDB80\uDC3B\uDB80\uDC3C\uDB80\uDC3D\uDB80\uDC3E\uDB80\uDC3F\uDB80\uDC40\uDB80\uDC41\uDB80\uDC42\uDB80\uDC43\uDB80\uDC44\uDB80\uDC45\uDB80\uDC46"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/video_settings.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC48\uDB80\uDC49\uDB80\uDC4A\uDB80\uDC4B\uDB80\uDC4C\uDB80\uDC4D\uDB80\uDC4E\uDB80\uDC4F\uDB80\uDC50\uDB80\uDC51\uDB80\uDC52\uDB80\uDC53",
+        "\uDB80\uDC54\uDB80\uDC55\uDB80\uDC56\uDB80\uDC57\uDB80\uDC58\uDB80\uDC59\uDB80\uDC5A\uDB80\uDC5B\uDB80\uDC5C\uDB80\uDC5D\uDB80\uDC5E\uDB80\uDC5F",
+        "\uDB80\uDC60\uDB80\uDC61\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/controls.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC70\uDB80\uDC71"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/key_binds.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC72\uDB80\uDC73\uDB80\uDC74\uDB80\uDC75\uDB80\uDC76\uDB80\uDC77\uDB80\uDC78"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/chat_settings.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC79\uDB80\uDC7A\uDB80\uDC7B\uDB80\uDC7C\uDB80\uDC7D\uDB80\uDC7E\uDB80\uDC7F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/resource_packs.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC80\uDB80\uDC81\uDB80\uDC82"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/on_off.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC23\uDB80\uDC24"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/accessibility_settings.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC35\uDB80\uDC36\uDB80\uDC37\uDB80\uDC38\uDB80\uDC39"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/escape_menu.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC83\uDB80\uDC84\uDB80\uDC85\uDB80\uDC86\uDB80\uDC87\uDB80\uDC88\uDB80\uDC89"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/sleep.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC47"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/world_creation.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC62\uDB80\uDC63\uDB80\uDC64\uDB80\uDC65\uDB80\uDC66\uDB80\uDC67\uDB80\uDC68\uDB80\uDC69\uDB80\uDC6A\u0000\u0000\u0000",
+        "\uDB80\uDC6B\uDB80\uDC6C\uDB80\uDC6D\uDB80\uDC6E\uDB80\uDC6F\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/singleplayer.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC14\uDB80\uDC15\uDB80\uDC16\uDB80\uDC17"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/multiplayer.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC05\uDB80\uDC06"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/online_options.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\uDB80\uDC07"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/game_rules.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": [
+        "\uDB80\uDC8A\uDB80\uDC8B\uDB80\uDC8C\uDB80\uDC8D\uDB80\uDC8E\uDB80\uDC8F\uDB80\uDC90"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/gamemenulogo.png",
+      "ascent": 35,
+      "height": 60,
+      "chars": ["\uDB80\uDC25"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/attributes.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uDB80\uDCFD\uDB80\uDCFE\uDB80\uDCFF\uDB80\uDD00\uDB80\uDD01\uDB80\uDD02\uDB80\uDD03\uDB80\uDD04\uDB80\uDD05\uDB80\uDD06",
+        "\uDB80\uDD07\uDB80\uDD08\uDB80\uDD09\uDB80\uDD0A\uDB80\uDD0B\uDB80\uDD0C\uDB80\uDD0D\uDB80\uDD0E\uDB80\uDD0F\uDB80\uDD10"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/pattern.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uDB80\uDD45\uDB80\uDD46\uDB80\uDD47\uDB80\uDD48\uDB80\uDD49\uDB80\uDD4A"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/food.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uDB80\uDD51\uDB80\uDD52\uDB80\uDD53\uDB80\uDD54",
+        "\uDB80\uDD55\uDB80\uDD56\uDB80\uDD57\uDB80\uDD58",
+        "\uDB80\uDD59\uDB80\uDD5A\uDB80\uDD5B\uDB80\uDD5C",
+        "\uDB80\uDD5D\uDB80\uDD5E\uDB80\uDD5F\uDB80\uDD60",
+        "\uDB80\uDD61\uDB80\uDD62\uDB80\uDD63\uDB80\uDD64",
+        "\uDB80\uDD65\uDB80\uDD66\uDB80\uDD67\uDB80\uDD68",
+        "\uDB80\uDD69\uDB80\uDD6A\uDB80\uDD6B\uDB80\uDD6C",
+        "\uDB80\uDD6D\uDB80\uDD6E\uDB80\uDD6F\uDB80\uDD70",
+        "\uDB80\uDD71\uDB80\uDD72\uDB80\uDD73\uDB80\uDD74",
+        "\uDB80\uDD75\uDB80\uDD76\uDB80\uDD77\uDB80\uDD78",
+        "\uDB80\uDD79\uDB80\uDD7A\uDB80\uDD7B\uDB80\uDD7C",
+        "\uDB80\uDD7D\uDB80\uDD7E\uDB80\uDD7F\uDB80\uDD80",
+        "\uDB80\uDD81\uDB80\uDD82\uDB80\uDD83\uDB80\uDD84",
+        "\uDB80\uDD85\uDB80\uDD86\uDB80\uDD87\uDB80\uDD88"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/effects.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\uDB80\uDD89\uDB80\uDD8A\uDB80\uDD8B\uDB80\uDD8C\uDB80\uDD8D\uDB80\uDD8E\uDB80\uDD8F\uDB80\uDD90",
+        "\uDB80\uDD91\uDB80\uDD92\uDB80\uDD93\uDB80\uDD94\uDB80\uDD95\uDB80\uDD96\uDB80\uDD97\uDB80\uDD98",
+        "\uDB80\uDD99\uDB80\uDD9A\uDB80\uDD9B\uDB80\uDD9C\uDB80\uDD9D\uDB80\uDD9E\uDB80\uDD9F\uDB80\uDDA0",
+        "\uDB80\uDDA1\uDB80\uDDA2\uDB80\uDDA3\uDB80\uDDA4\uDB80\uDDA5\uDB80\uDDA6\uDB80\uDDA7\uDB80\uDDA8",
+        "\uDB80\uDDA9\uDB80\uDDAA\uDB80\uDDAB\uDB80\uDDAC\uDB80\uDDAD\uDB80\uDDAE\uDB80\uDDAF\uDB80\uDDB0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/music/discs.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\uDB80\uDDB1\uDB80\uDDB2\uDB80\uDDB3\uDB80\uDDB4\uDB80\uDDB5\uDB80\uDDB6\uDB80\uDDB7",
+        "\uDB80\uDDB8\uDB80\uDDB9\uDB80\uDDBA\uDB80\uDDBB\uDB80\uDDBC\uDB80\uDDBD\uDB80\uDDBE",
+        "\uDB80\uDDBF\uDB80\uDDC0\uDB80\uDDC1\uDB80\uDDC2\uDB80\uDDC3\uDB80\uDDC4\uDB80\uDDC5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:gui/item_groups.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "\uDB80\uDDC6\uDB80\uDDC7\uDB80\uDDC8\uDB80\uDDC9\uDB80\uDDCA\uDB80\uDDCB\uDB80\uDDCC",
+        "\uDB80\uDDCD\uDB80\uDDCE\uDB80\uDDCF\uDB80\uDDD0\uDB80\uDDD1\uDB80\uDDD2\uDB80\uDDD3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/firework/dye.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uDB80\uDDEC\uDB80\uDDED\uDB80\uDDEE\uDB80\uDDEF",
+        "\uDB80\uDDF0\uDB80\uDDF1\uDB80\uDDF2\uDB80\uDDF3",
+        "\uDB80\uDDF4\uDB80\uDDF5\uDB80\uDDF6\uDB80\uDDF7",
+        "\uDB80\uDDF8\uDB80\uDDF9\uDB80\uDDFA\uDB80\uDDFB"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/firework/shape.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uDB80\uDDFC\uDB80\uDDFD\uDB80\uDDFE\uDB80\uDDFF\uDB80\uDE00\uDB80\uDE01",
+        "\uDB80\uDE02\uDB80\uDE03\uDB80\uDE04\uDB80\uDE05\uDB80\uDE06\uDB80\uDE07"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chat/gamemodes.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uDB80\uDE0B\uDB80\uDE0C\uDB80\uDE0D\uDB80\uDE0E\uDB80\uDE0F\uDBC1\uDE69"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:gui/anvil_enchantingtable.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uDB80\uDE10\uDB80\uDE11\uDB80\uDE12\uDB80\uDE13"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:advancement/advancement_groups.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uDB80\uDE15\uDB80\uDE16\uDB80\uDE17\uDB80\uDE18\uDB80\uDE19"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:advancement/advancement_categories.png",
+      "ascent": 11,
+      "height": 15,
+      "chars": ["\uDB80\uDE1A\uDB80\uDE1B\uDB80\uDE1C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/levels.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        "\uDB80\uDE28\uDB80\uDE29\uDB80\uDE2A\uDB80\uDE2B\uDB80\uDE2C",
+        "\uDB80\uDE2D\uDB80\uDE2E\uDB80\uDE2F\uDB80\uDE30\uDB80\uDE31",
+        "\uDB80\uDE32\uDB80\uDE33\uDB80\uDE34\uDB80\uDE35\uDB80\uDE36",
+        "\uDB80\uDE37\uDB80\uDE38\uDB80\uDE39\uDB80\uDE3A\uDB80\uDE3B",
+        "\uDB80\uDE3C\uDB80\uDE3D\uDB80\uDE3E\uDB80\uDE3F\uDB80\uDE40",
+        "\uDB80\uDE41\uDB80\uDE42\uDB80\uDE43\uDB80\uDE44\uDB80\uDE45",
+        "\uDB80\uDE46\uDB80\uDE47\uDB80\uDE48\uDB80\uDE49\uDB80\uDE4A",
+        "\uDB80\uDE4B\uDB80\uDE4C\uDB80\uDE4D\uDB80\uDE4E\uDB80\uDE4F",
+        "\uDB80\uDE50\uDB80\uDE51\uDB80\uDE52\uDB80\uDE53\uDB80\uDE54",
+        "\uDB80\uDE55\uDB80\uDE56\uDB80\uDE57\uDB80\uDE58\uDB80\uDE59"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/biomes.png",
+      "ascent": 11,
+      "height": 16,
+      "chars": [
+        "\uDBD1\uDF7F\uDBD1\uDF80\uDBD1\uDF81\uDBD1\uDF82\uDBD1\uDF83\uDBD1\uDF84\uDBD1\uDF85\uDBD1\uDF86",
+        "\uDBD1\uDF87\uDBD1\uDF88\uDBD1\uDF89\uDBD1\uDF8A\uDBD1\uDF8B\uDBD1\uDF8C\uDBD1\uDF8D\uDBD1\uDF8E",
+        "\uDBD1\uDF8F\uDBD1\uDF90\uDBD1\uDF91\uDBD1\uDF92\uDBD1\uDF93\uDBD1\uDF94\uDBD1\uDF95\uDBD1\uDF96",
+        "\uDBD1\uDF97\uDBD1\uDF98\uDBD1\uDF99\uDBD1\uDF9A\uDBD1\uDF9B\uDBD1\uDF9C\uDBD1\uDF9D\uDBD1\uDF9E",
+        "\uDBD1\uDF9F\uDBD1\uDFA0\uDBD1\uDFA1\uDBD1\uDFA2\uDBD1\uDFA3\uDBD1\uDFA4\uDBD1\uDFA5\uDBD1\uDFA6",
+        "\uDBD1\uDFA7\uDBD1\uDFA8\uDBD1\uDFA9\uDBD1\uDFAA\uDBD1\uDFAB\uDBD1\uDFAC\uDBD1\uDFAD\uDBD1\uDFAE",
+        "\uDBD1\uDFAF\uDBD1\uDFB0\uDBD1\uDFB1\uDBD1\uDFB2\uDBD1\uDFB3\uDBD1\uDFB4\uDBD1\uDFB5\uDBD1\uDFB6",
+        "\uDBD1\uDFB7\uDBD1\uDFB8\uDBD1\uDFB9\uDBD1\uDFBA\uDBD1\uDFBB\uDBD1\uDFBC\uDBD1\uDFBD\uDBD1\uDFBE"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:menu/language.png",
+      "ascent": 10,
+      "height": 11,
+      "chars": [
+        "\uDBC0\uDC00\uDBC0\uDC01\uDBC0\uDC02\uDBC0\uDC03\uDBC0\uDC04\uDBC0\uDC05\uDBC0\uDC06\uDBC0\uDC07\uDBC0\uDC08\uDBC0\uDC09\uDBC0\uDC0A\uDBC0\uDC0B\uDBC0\uDC0C\uDBC0\uDC0D\uDBC0\uDC0E\uDBC0\uDC0F\uDBC0\uDC10\uDBC0\uDC11\uDBC0\uDC12\uDBC0\uDC13\uDBC0\uDC14\uDBC0\uDC15\uDBC0\uDC16\uDBC0\uDC17\uDBC0\uDC18\uDBC0\uDC19\uDBC0\uDC1A\uDBC0\uDC1B\uDBC0\uDC1C\uDBC0\uDC1D\uDBC0\uDC1E\uDBC0\uDC1F",
+        "\uDBC0\uDC20\uDBC0\uDC21\uDBC0\uDC22\uDBC0\uDC23\uDBC0\uDC24\uDBC0\uDC25\uDBC0\uDC26\uDBC0\uDC27\uDBC0\uDC28\uDBC0\uDC29\uDBC0\uDC2A\uDBC0\uDC2B\uDBC0\uDC2C\uDBC0\uDC2D\uDBC0\uDC2E\uDBC0\uDC2F\uDBC0\uDC30\uDBC0\uDC31\uDBC0\uDC32\uDBC0\uDC33\uDBC0\uDC34\uDBC0\uDC35\uDBC0\uDC36\uDBC0\uDC37\uDBC0\uDC38\uDBC0\uDC39\uDBC0\uDC3A\uDBC0\uDC3B\uDBC0\uDC3C\uDBC0\uDC3D\uDBC0\uDC3E\uDBC0\uDC3F",
+        "\uDBC0\uDC40\uDBC0\uDC41\uDBC0\uDC42\uDBC0\uDC43\uDBC0\uDC44\uDBC0\uDC45\uDBC0\uDC46\uDBC0\uDC47\uDBC0\uDC48\uDBC0\uDC49\uDBC0\uDC4A\uDBC0\uDC4B\uDBC0\uDC4C\uDBC0\uDC4D\uDBC0\uDC4E\uDBC0\uDC4F\uDBC0\uDC50\uDBC0\uDC51\uDBC0\uDC52\uDBC0\uDC53\uDBC0\uDC54\uDBC0\uDC55\uDBC0\uDC56\uDBC0\uDC57\uDBC0\uDC58\uDBC0\uDC59\uDBC0\uDC5A\uDBC0\uDC5B\uDBC0\uDC5C\uDBC0\uDC5D\uDBC0\uDC5E\uDBC0\uDC5F",
+        "\uDBC0\uDC60\uDBC0\uDC61\uDBC0\uDC62\uDBC0\uDC63\uDBC0\uDC64\uDBC0\uDC65\uDBC0\uDC66\uDBC0\uDC67\uDBC0\uDC68\uDBC0\uDC69\uDBC0\uDC6A\uDBC0\uDC6B\uDBC0\uDC6C\uDBC0\uDC6D\uDBC0\uDC6E\uDBC0\uDC6F\uDBC0\uDC70\uDBC0\uDC71\uDBC0\uDC72\uDBC0\uDC73\uDBC0\uDC74\uDBC0\uDC75\uDBC0\uDC76\uDBC0\uDC77\uDBC0\uDC78\uDBC0\uDC79\uDBC0\uDC7A\uDBC0\uDC7B\uDBC0\uDC7C\uDBC0\uDC7D\uDBC0\uDC7E\uDBC0\uDC7F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/spawneggs/mobs.png",
+      "ascent": 26,
+      "height": 26,
+      "chars": [
+        "\uDBC1\uDC10\uDBC1\uDC11\uDBC1\uDC12\uDBC1\uDC13\uDBC1\uDC14\uDBC1\uDC15\uDBC1\uDC16\uDBC1\uDC17\uDBC1\uDC18",
+        "\uDBC1\uDC19\uDBC1\uDC1A\uDBC1\uDC1B\uDBC1\uDC1C\uDBC1\uDC1D\uDBC1\uDC1E\uDBC1\uDC1F\uDBC1\uDC20\uDBC1\uDC21",
+        "\uDBC1\uDC22\uDBC1\uDC23\uDBC1\uDC24\uDBC1\uDC25\uDBC1\uDC26\uDBC1\uDC27\uDBC1\uDC28\uDBC1\uDC29\uDBC1\uDC2A",
+        "\uDBC1\uDC2B\uDBC1\uDC2C\uDBC1\uDC2D\uDBC1\uDC2E\uDBC1\uDC2F\uDBC1\uDC30\uDBC1\uDC31\uDBC1\uDC32\uDBC1\uDC33",
+        "\uDBC1\uDC34\uDBC1\uDC35\uDBC1\uDC36\uDBC1\uDC37\uDBC1\uDC38\uDBC1\uDC39\uDBC1\uDC3A\uDBC1\uDC3B\uDBC1\uDC3C",
+        "\uDBC1\uDC3D\uDBC1\uDC3E\uDBC1\uDC3F\uDBC1\uDC40\uDBC1\uDC41\uDBC1\uDC42\uDBC1\uDC43\uDBC1\uDC44\uDBC1\uDC45",
+        "\uDBC1\uDC46\uDBC1\uDC47\uDBC1\uDC48\uDBC1\uDC49\uDBC1\uDC4A\uDBC1\uDC4B\uDBC1\uDC4C\uDBC1\uDC4D\uDBC1\uDC4E",
+        "\uDBC1\uDC4F\uDBC1\uDC50\uDBC1\uDC51\uDBC1\uDC52\uDBC1\uDC53\uDBC1\uDC54\uDBC1\uDC55\uDBC1\uDC56\uDBC1\uDC57",
+        "\uDBC1\uDC58\uDBC1\uDC59\uDBC1\uDC5A\uDBC1\uDC5B\uDBC1\uDC5C\uDBC1\uDC5D\uDBC1\uDC5E\uDBC1\uDC5F\uDBC1\uDC60",
+        "\uDBC1\uDC61\uDBC1\uDC62\uDBC1\uDC63\uDBC1\uDC64\uDBC1\uDC65\uDBC1\uDC66\uDBC1\uDC67\uDBC1\uDC68\uDBC1\uDC69"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tropical_fish/type.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": [
+        "\uDBFF\uDFC6\uDBFF\uDFC7\uDBFF\uDFC8\uDBFF\uDFC9\uDBFF\uDFDA\uDBFF\uDFDB",
+        "\uDBFF\uDFDC\uDBFF\uDFDD\uDBFF\uDFDE\uDBFF\uDFDF\uDBFF\uDFD0\uDBFF\uDFD1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tropical_fish/predefined.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": [
+        "\uDBFF\uDFD2\uDBFF\uDFD3\uDBFF\uDFD4\uDBFF\uDFD5\uDBFF\uDFD6\uDBFF\uDFD7",
+        "\uDBFF\uDFD8\uDBFF\uDFD9\uDBFF\uDFEA\uDBFF\uDFEB\uDBFF\uDFEC\uDBFF\uDFED",
+        "\uDBFF\uDFEE\uDBFF\uDFEF\uDBFF\uDFE0\uDBFF\uDFE1\uDBFF\uDFE2\uDBFF\uDFE3",
+        "\uDBFF\uDFE4\uDBFF\uDFE5\uDBFF\uDFE6\uDBFF\uDFE7\uDBFF\uDFE8\uDBFF\uDFE9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/music/horn.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\uDBFF\uDFAB\uDBFF\uDFAC\uDBFF\uDFAD\uDBFF\uDFAE",
+        "\uDBFF\uDFAF\uDBFF\uDFA0\uDBFF\uDFA1\uDBFF\uDFA2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/map/info.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uDBFF\uDFA3\uDBFF\uDFA4", "\uDBFF\uDFA5\uDBFF\uDFA6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/trim_pattern.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "\uDBC7\uDF50\uDBC7\uDF51\uDBC7\uDF52\uDBC7\uDF53\uDBC7\uDF54\uDBC7\uDF55\uDBC7\uDF56\uDBC7\uDF57",
+        "\uDBC7\uDF58\uDBC7\uDF59\uDBC7\uDF5A\uDBC7\uDF5B\uDBC7\uDF5C\uDBC7\uDF5D\uDBC7\uDF5E\uDBC7\uDF5F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/trim_material.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "\uDBFF\uDFB2\uDBFF\uDFB3\uDBFF\uDFB4\uDBFF\uDFB5\uDBFF\uDFB6\uDBFF\uDFB7\uDBFF\uDFB8\uDBFF\uDFB9\uDBFF\uDFCA\uDBFF\uDFCB"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/smithing_upgrade.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uDBFF\uDFCC\uDBFF\uDFCD\uDBFF\uDFCE\uDBFF\uDFCF\uDBFF\uDFC0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/enchantment.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uDBA0\uDC00\uDBA0\uDC01\uDBA0\uDC02\uDBA0\uDC03\uDBA0\uDC04\uDBA0\uDC05\uDBA0\uDC06\uDBA0\uDC07",
+        "\uDBA0\uDC08\uDBA0\uDC09\uDBA0\uDC0A\uDBA0\uDC0B\uDBA0\uDC0C\uDBA0\uDC0D\uDBA0\uDC0E\uDBA0\uDC0F",
+        "\uDBA0\uDC10\uDBA0\uDC11\uDBA0\uDC12\uDBA0\uDC13\uDBA0\uDC14\uDBA0\uDC15\uDBA0\uDC16\uDBA0\uDC17",
+        "\uDBA0\uDC18\uDBA0\uDC19\uDBA0\uDC1A\uDBA0\uDC1B\uDBA0\uDC1C\uDBA0\uDC1D\uDBA0\uDC1E\uDBA0\uDC1F",
+        "\uDBA0\uDC20\uDBA0\uDC21\uDBA0\uDC22\uDBA0\uDC23\uDBA0\uDC24\uDBA0\uDC25\uDBA0\uDC26\uDBA0\uDC27"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/tooltip/armor.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uDBB8\uDF0A\uDBB8\uDF0B\uDBB8\uDF18\uDBB8\uDF19",
+        "\uDBB8\uDF0C\uDBB8\uDF0D\uDBB8\uDF1A\uDBB8\uDF1B",
+        "\uDBB8\uDF0E\uDBB8\uDF0F\uDBB8\uDF1C\uDBB8\uDF1D",
+        "\uDBB8\uDF10\uDBB8\uDF11\uDBB8\uDF1E\uDBB8\uDF1F",
+        "\uDBB8\uDF12\uDBB8\uDF13\uDBB8\uDF20\uDBB8\uDF21",
+        "\uDBB8\uDF14\uDBB8\uDF15\uDBB8\uDF22\uDBB8\uDF23",
+        "\uDBB8\uDF16\uDBB8\uDF17\uDBB8\uDF24\uDBB8\uDF25"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/painting/paintings.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": [
+        "\uDBDA\uDDD0\uDBDA\uDDD1\uDBDA\uDDD2\uDBDA\uDDD3\uDBDA\uDDD4\uDBDA\uDDD5\uDBDA\uDDD6\uDBDA\uDDD7\uDBDA\uDDD8\uDBDA\uDDD9",
+        "\uDBDA\uDDDA\uDBDA\uDDDB\uDBDA\uDDDC\uDBDA\uDDDD\uDBDA\uDDDE\uDBDA\uDDDF\uDBDA\uDDE0\uDBDA\uDDE1\uDBDA\uDDE2\uDBDA\uDDE3",
+        "\uDBDA\uDDE4\uDBDA\uDDE5\uDBDA\uDDE6\uDBDA\uDDE7\uDBDA\uDDE8\uDBDA\uDDE9\uDBDA\uDDEA\uDBDA\uDDEB\uDBDA\uDDEC\uDBDA\uDDED"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/music/disc_time.png",
+      "ascent": 5,
+      "height": 5,
+      "chars": [
+        "\uDBDA\uDF51",
+        "\uDBDA\uDF52",
+        "\uDBDA\uDF53",
+        "\uDBDA\uDF54",
+        "\uDBDA\uDF55",
+        "\uDBDA\uDF56",
+        "\uDBDA\uDF57",
+        "\uDBDA\uDF58",
+        "\uDBDA\uDF59",
+        "\uDBDA\uDF5A",
+        "\uDBDA\uDF5B",
+        "\uDBDA\uDF5C",
+        "\uDBDA\uDF5D",
+        "\uDBDA\uDF5E",
+        "\uDBDA\uDF5F",
+        "\uDBDA\uDF61"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:items/music/horn_time.png",
+      "ascent": 5,
+      "height": 5,
+      "chars": [
+        "\uDBDA\uDF49",
+        "\uDBDA\uDF4A",
+        "\uDBDA\uDF4B",
+        "\uDBDA\uDF4C",
+        "\uDBDA\uDF4D",
+        "\uDBDA\uDF4E",
+        "\uDBDA\uDF4F",
+        "\uDBDA\uDF50"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -3,
+      "chars": ["\uF801"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -4,
+      "chars": ["\uF802"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -5,
+      "chars": ["\uF803"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -6,
+      "chars": ["\uF804"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -7,
+      "chars": ["\uF805"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -8,
+      "chars": ["\uF806"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -9,
+      "chars": ["\uF807"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\uF808"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -18,
+      "chars": ["\uF809"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -34,
+      "chars": ["\uF80A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -66,
+      "chars": ["\uF80B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -130,
+      "chars": ["\uF80C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -258,
+      "chars": ["\uF80D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -514,
+      "chars": ["\uF80E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -1026,
+      "chars": ["\uF80F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -65536,
+      "height": -32770,
+      "chars": ["\uF800"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 0,
+      "chars": ["\uF821"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 1,
+      "chars": ["\uF822"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 2,
+      "chars": ["\uF823"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 3,
+      "chars": ["\uF824"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 4,
+      "chars": ["\uF825"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 5,
+      "chars": ["\uF826"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 6,
+      "chars": ["\uF827"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 7,
+      "chars": ["\uF828"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 15,
+      "chars": ["\uF829"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 31,
+      "chars": ["\uF82A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 63,
+      "chars": ["\uF82B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 127,
+      "chars": ["\uF82C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 255,
+      "chars": ["\uF82D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 511,
+      "chars": ["\uF82E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 1023,
+      "chars": ["\uF82F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -65536,
+      "height": 32767,
+      "chars": ["\uF820"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -3,
+      "chars": ["\uF811"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -4,
+      "chars": ["\uF812"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -5,
+      "chars": ["\uF813"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -6,
+      "chars": ["\uF814"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -7,
+      "chars": ["\uF815"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -8,
+      "chars": ["\uF816"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -9,
+      "chars": ["\uF817"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\uF818"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -18,
+      "chars": ["\uF819"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -34,
+      "chars": ["\uF81A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -66,
+      "chars": ["\uF81B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -130,
+      "chars": ["\uF81C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -258,
+      "chars": ["\uF81D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -514,
+      "chars": ["\uF81E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -1026,
+      "chars": ["\uF81F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -65536,
+      "height": -32770,
+      "chars": ["\uF810"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 0,
+      "chars": ["\uF831"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 1,
+      "chars": ["\uF832"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 2,
+      "chars": ["\uF833"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 3,
+      "chars": ["\uF834"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 4,
+      "chars": ["\uF835"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 5,
+      "chars": ["\uF836"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 6,
+      "chars": ["\uF837"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 7,
+      "chars": ["\uF838"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 15,
+      "chars": ["\uF839"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 31,
+      "chars": ["\uF83A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 63,
+      "chars": ["\uF83B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 127,
+      "chars": ["\uF83C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 255,
+      "chars": ["\uF83D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 511,
+      "chars": ["\uF83E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 1023,
+      "chars": ["\uF83F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_nosplit.png",
+      "ascent": -65536,
+      "height": 32767,
+      "chars": ["\uF830"]
+    }
+  ]
+}

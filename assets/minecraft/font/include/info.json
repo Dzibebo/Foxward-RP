@@ -1,0 +1,14 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:items/map/info.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+			"\uDBFF\uDFA3\uDBFF\uDFA4",
+			"\uDBFF\uDFA5\uDBFF\uDFA6"
+            ]
+        }
+    ]
+}

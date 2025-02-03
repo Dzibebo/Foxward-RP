@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:chat/gamemodes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDE0B\uDB80\uDE0C\uDB80\uDE0D\uDB80\uDE0E\uDB80\uDE0F\uDBC1\uDE69\uDBC1\uDE6A"	
+            ]
+        }	
+    ]
+}

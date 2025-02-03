@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:items/bee/count.png",
+         "ascent": 7,
+         "height": 8,
+         "chars": [
+            "\uDBEC\uDD2B\uDBEC\uDD2C"		
+            ]
+        }
+    ]
+}

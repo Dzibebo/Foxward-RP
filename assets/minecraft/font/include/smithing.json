@@ -1,0 +1,32 @@
+{
+    "providers": [ 
+        {
+         "type": "bitmap",
+         "file": "icons:items/trim/pattern.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"\uDBC7\uDF50\uDBC7\uDF51\uDBC7\uDF52\uDBC7\uDF53\uDBC7\uDF54\uDBC7\uDF55\uDBC7\uDF56\uDBC7\uDF57\uDBC7\uDF58\uDBC7\uDF59",
+			"\uDBC7\uDF5A\uDBC7\uDF5B\uDBC7\uDF5C\uDBC7\uDF5D\uDBC7\uDF5E\uDBC7\uDF5F\uDBC7\uDF60\uDBC7\uDF61\uDBC7\uDF62\uDBC7\uDF63"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/trim/material.png",
+         "ascent": 7,
+         "height": 8,
+         "chars": [
+			"\uDBFF\uDFB2\uDBFF\uDFB3\uDBFF\uDFB4\uDBFF\uDFB5\uDBFF\uDFB6\uDBFF\uDFB7\uDBFF\uDFB8\uDBFF\uDFB9\uDBFF\uDFCA\uDBFF\uDFCB"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/trim/smithing_upgrade.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"\uDBFF\uDFCC\uDBFF\uDFCD\uDBFF\uDFCE\uDBFF\uDFCF\uDBFF\uDFC0"
+            ]
+        }		
+    ]
+}

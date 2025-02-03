@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:gui/item_groups.png",
+         "ascent": 9,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDDC6\uDB80\uDDC7\uDB80\uDDC8\uDB80\uDDC9\uDB80\uDDCA\uDB80\uDDCB\uDB80\uDDCC",
+			"\uDB80\uDDCD\uDB80\uDDCE\uDB80\uDDCF\uDB80\uDDD0\uDB80\uDDD1\uDB80\uDDD2\uDB80\uDDD3"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:gui/anvil_enchantingtable.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDE10\uDB80\uDE11\uDB80\uDE12\uDB80\uDE13"	
+            ]
+        }		
+    ]
+}

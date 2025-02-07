@@ -163,6 +163,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:gui/items/bank.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\uA59E"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:gui/items/premium.png",
 			"ascent": 7,
 			"height": 9,

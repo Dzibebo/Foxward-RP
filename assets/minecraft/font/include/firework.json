@@ -1,0 +1,26 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:items/firework/dye.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDDEC\uDB80\uDDED\uDB80\uDDEE\uDB80\uDDEF",
+            "\uDB80\uDDF0\uDB80\uDDF1\uDB80\uDDF2\uDB80\uDDF3",
+            "\uDB80\uDDF4\uDB80\uDDF5\uDB80\uDDF6\uDB80\uDDF7",
+            "\uDB80\uDDF8\uDB80\uDDF9\uDB80\uDDFA\uDB80\uDDFB"			
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/firework/shape.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDDFC\uDB80\uDDFD\uDB80\uDDFE\uDB80\uDDFF\uDB80\uDE00\uDB80\uDE01",
+            "\uDB80\uDE02\uDB80\uDE03\uDB80\uDE04\uDB80\uDE05\uDB80\uDE06\uDB80\uDE07"		
+            ]
+        }
+    ]
+}

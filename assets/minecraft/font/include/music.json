@@ -1,0 +1,25 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:items/music/horn.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"\uDBFF\uDFAB\uDBFF\uDFAC\uDBFF\uDFAD\uDBFF\uDFAE",
+			"\uDBFF\uDFAF\uDBFF\uDFA0\uDBFF\uDFA1\uDBFF\uDFA2"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/music/discs.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDDB1\uDB80\uDDB2\uDB80\uDDB3\uDB80\uDDB4\uDB80\uDDB5\uDB80\uDDB6\uDB80\uDDB7",
+            "\uDB80\uDDB8\uDB80\uDDB9\uDB80\uDDBA\uDB80\uDDBB\uDB80\uDDBC\uDB80\uDDBD\uDB80\uDDBE",
+            "\uDB80\uDDBF\uDB80\uDDC0\uDB80\uDDC1\uDB80\uDDC2\uDB80\uDDC3\uDB80\uDDC4\uDB80\uDDC5"			
+            ]
+        }		
+    ]
+}

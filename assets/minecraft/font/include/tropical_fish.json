@@ -1,0 +1,26 @@
+{
+    "providers": [
+        {
+		 "type": "bitmap",
+		 "file": "icons:items/tropical_fish/type.png",
+		 "ascent": 16,
+		 "height": 16,
+		 "chars": [
+			"\uDBFF\uDFC6\uDBFF\uDFC7\uDBFF\uDFC8\uDBFF\uDFC9\uDBFF\uDFDA\uDBFF\uDFDB",
+		    "\uDBFF\uDFDC\uDBFF\uDFDD\uDBFF\uDFDE\uDBFF\uDFDF\uDBFF\uDFD0\uDBFF\uDFD1"
+			]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/tropical_fish/predefined.png",
+         "ascent": 16,
+         "height": 16,
+         "chars": [
+			"\uDBFF\uDFD2\uDBFF\uDFD3\uDBFF\uDFD4\uDBFF\uDFD5\uDBFF\uDFD6\uDBFF\uDFD7",
+			"\uDBFF\uDFD8\uDBFF\uDFD9\uDBFF\uDFEA\uDBFF\uDFEB\uDBFF\uDFEC\uDBFF\uDFED",
+			"\uDBFF\uDFEE\uDBFF\uDFEF\uDBFF\uDFE0\uDBFF\uDFE1\uDBFF\uDFE2\uDBFF\uDFE3",
+			"\uDBFF\uDFE4\uDBFF\uDFE5\uDBFF\uDFE6\uDBFF\uDFE7\uDBFF\uDFE8\uDBFF\uDFE9"
+            ]
+        }		
+    ]
+}

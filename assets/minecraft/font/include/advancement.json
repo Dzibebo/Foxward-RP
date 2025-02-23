@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/advancement_groups.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDE15\uDB80\uDE16\uDB80\uDE17\uDB80\uDE18\uDB80\uDE19"	
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/advancement_categories.png",
+         "ascent": 11,
+         "height": 15,
+         "chars": [
+            "\uDB80\uDE1A\uDB80\uDE1B\uDB80\uDE1C"	
+            ]
+        }
+    ]
+}

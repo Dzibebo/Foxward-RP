@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./ender",
-		"particle": "./ender"
+		"0": "ender",
+		"particle": "ender"
 	},
 	"elements": [
 		{
@@ -109,8 +109,7 @@
 		},
 		"gui": {
 			"rotation": [17, 135, 1],
-			"translation": [-1.25, 1.75, 0],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [-1.25, 2, 0]
 		},
 		"head": {
 			"translation": [0, 7.75, 0],

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./drowned_toy",
-		"particle": "./drowned_toy"
+		"0": "drowned_toy",
+		"particle": "drowned_toy"
 	},
 	"elements": [
 		{
@@ -173,8 +173,7 @@
 			"translation": [0, 4.25, 0]
 		},
 		"gui": {
-			"rotation": [-5, 160, 5],
-			"translation": [0.75, 2, 0]
+			"rotation": [-5, 160, 5]
 		},
 		"head": {
 			"translation": [0, 14.5, 0]

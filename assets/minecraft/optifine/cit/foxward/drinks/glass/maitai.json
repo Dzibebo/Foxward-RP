@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "./maitai"
+		"1": "maitai"
 	},
 	"elements": [
 		{
@@ -284,7 +284,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -14],
+			"translation": [0, 0, -16],
 			"scale": [2, 2, 2]
 		}
 	},

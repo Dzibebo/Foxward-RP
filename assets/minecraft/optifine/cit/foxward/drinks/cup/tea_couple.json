@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./cup",
-		"particle": "./cup"
+		"0": "cup",
+		"particle": "cup"
 	},
 	"elements": [
 		{
@@ -119,7 +119,7 @@
 		},
 		"fixed": {
 			"rotation": [-88, 0, 0],
-			"translation": [0, 0, -14],
+			"translation": [0, 0, -16],
 			"scale": [2, 2, 2]
 		}
 	}

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "./gray_espressomachine"
+		"1": "gray_espressomachine"
 	},
 	"elements": [
 		{
@@ -347,7 +347,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [74, -172, 0],
-			"translation": [-5.75, 5.25, 2]
+			"translation": [-5.75, 3, 4]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [74, -172, 0],
@@ -368,11 +368,11 @@
 		"gui": {
 			"rotation": [12, 150, 2],
 			"translation": [-0.25, 0, 0],
-			"scale": [0.54, 0.58, 0.8]
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -14],
+			"translation": [0, 0, -16],
 			"scale": [2, 2, 2]
 		}
 	},

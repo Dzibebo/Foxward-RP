@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "./stray_toy"
+		"1": "stray_toy"
 	},
 	"elements": [
 		{
@@ -167,7 +167,7 @@
 		},
 		"gui": {
 			"rotation": [17, 135, 1],
-			"translation": [1, 2, 0]
+			"translation": [-1.25, 2, 0]
 		},
 		"head": {
 			"translation": [0, 7.75, 0],

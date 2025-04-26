@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./husk_toy",
-		"particle": "./husk_toy"
+		"0": "husk_toy",
+		"particle": "husk_toy"
 	},
 	"elements": [
 		{
@@ -121,8 +121,7 @@
 			"translation": [0, 4.25, 0]
 		},
 		"gui": {
-			"rotation": [-5, 160, 5],
-			"translation": [0.75, 1.5, 0]
+			"rotation": [-5, 160, 5]
 		},
 		"head": {
 			"translation": [0, 14.5, 0]

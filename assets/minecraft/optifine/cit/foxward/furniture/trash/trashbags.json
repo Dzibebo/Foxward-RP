@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./bluetrashbag",
-		"1": "./trashbag",
-		"particle": "./bluetrashbag"
+		"0": "bluetrashbag",
+		"1": "trashbag",
+		"particle": "bluetrashbag"
 	},
 	"elements": [
 		{
@@ -174,8 +174,7 @@
 		},
 		"gui": {
 			"rotation": [23, 70, 0],
-			"translation": [0, -1.5, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
 			"translation": [0, 0.25, 0],

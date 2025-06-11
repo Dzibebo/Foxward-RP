@@ -57,5 +57,5 @@ def run(folder):
 
 
 if __name__ == '__main__':
-    target_folder = r"C:\Users\dzibebo\Desktop\Foxward-RP\assets\minecraft\optifine\cit"
+    target_folder = r"..."
     run(target_folder)

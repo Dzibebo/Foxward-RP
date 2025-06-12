@@ -1,0 +1,6 @@
+{
+	"parent": "item/iron_ingot/token",
+	"textures": {
+	  "4": "item/iron_ingot/chip100"
+	}
+  }

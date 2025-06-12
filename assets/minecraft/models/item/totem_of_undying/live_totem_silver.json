@@ -1,0 +1,6 @@
+{
+	"parent": "item/totem_of_undying/live_totem",
+	"textures": {
+	  "2": "item/totem_of_undying/live_totem_silver"
+	}
+  }

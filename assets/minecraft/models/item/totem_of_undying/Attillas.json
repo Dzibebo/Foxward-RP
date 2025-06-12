@@ -1,0 +1,6 @@
+{
+	"parent": "item/totem_of_undying/totem",
+	"textures": {
+	  "1": "item/totem_of_undying/Attillas"
+	}
+  }

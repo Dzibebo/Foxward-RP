@@ -1,0 +1,6 @@
+{
+	"parent": "item/iron_ingot/hacksaw",
+	"textures": {
+	  "0": "item/iron_ingot/netherite_hacksaw"
+	}
+  }

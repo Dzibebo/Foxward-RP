@@ -1,0 +1,41 @@
+{
+  "type": "custom_name",
+  "items": ["minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:gray_shulker_box", "minecraft:black_shulker_box", "minecraft:brown_shulker_box", "minecraft:red_shulker_box", "minecraft:orange_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:green_shulker_box", "minecraft:cyan_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:blue_shulker_box", "minecraft:purple_shulker_box", "minecraft:magenta_shulker_box", "minecraft:pink_shulker_box"],
+  "modelPrefix": "item/shulker_box/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "коробка с боеприпасами": "ammo_box",
+      "открытая коробка с боеприпасами": "ammo_box_left_hand",
+      "большой подарок": "big_present",
+      "портфель": "briefcase",
+      "кейс": "case",
+      "дипломат": "diplomat",
+      "наплечная сумка": "handbag",
+      "походная сумка": "hiking_backpack",
+      "аптечка": "medkit",
+      "сумка с медикаментами": "medpack",
+      "металлический кейс": "metal_case",
+      "посылка": "parsel",
+      "подарок": "present",
+      "чемодан": "suitcase",
+      "ящик для инструментов": "toolbox",
+      "Коробка с боеприпасами": "ammo_box",
+      "Открытая коробка с боеприпасами": "ammo_box_left_hand",
+      "Большой подарок": "big_present",
+      "Портфель": "briefcase",
+      "Кейс": "case",
+      "Дипломат": "diplomat",
+      "Наплечная сумка": "handbag",
+      "Походная сумка": "hiking_backpack",
+      "Аптечка": "medkit",
+      "Сумка с медикаментами": "medpack",
+      "Металлический кейс": "metal_case",
+      "Посылка": "parsel",
+      "Подарок": "present",
+      "Чемодан": "suitcase",
+      "Ящик для инструментов": "toolbox"
+    }
+  }
+}

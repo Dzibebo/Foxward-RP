@@ -1,0 +1,6 @@
+{
+  "parent": "item/source_models/2xgen",
+  "textures": {
+    "layer0": "item/stick/palette"
+  }
+}

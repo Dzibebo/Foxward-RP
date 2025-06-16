@@ -1,0 +1,13 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:blaze_rod",
+  "modelPrefix": "item/blaze_rod/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Дубинка": "dubinka",
+      "дубинка": "dubinka"
+    }
+  }
+}

@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"1": "smart",
-		"particle": "item/iron_ingot/texture"
+		"1": "item/iron_ingot/smart"
 	},
 	"elements": [
 		{

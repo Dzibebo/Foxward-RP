@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "rotten_tomato",
-		"particle": "rotten_tomato"
+		"0": "item/carved_pumpkin/rotten_tomato",
+		"particle": "item/carved_pumpkin/rotten_tomato"
 	},
 	"elements": [
 		{

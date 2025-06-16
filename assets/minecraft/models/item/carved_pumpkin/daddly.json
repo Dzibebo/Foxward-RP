@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "daddly",
-		"particle": "daddly"
+		"0": "item/carved_pumpkin/daddly",
+		"particle": "item/carved_pumpkin/daddly"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "stewie",
-		"particle": "stewie"
+		"0": "item/carved_pumpkin/stewie",
+		"particle": "item/carved_pumpkin/stewie"
 	},
 	"elements": [
 		{

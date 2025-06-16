@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "bluetrashbag",
-		"particle": "bluetrashbag"
+		"0": "item/iron_ingot/bluetrashbag",
+		"particle": "item/iron_ingot/bluetrashbag"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "switch",
-		"particle": "switch"
+		"0": "item/iron_ingot/switch",
+		"particle": "item/iron_ingot/switch"
 	},
 	"elements": [
 		{

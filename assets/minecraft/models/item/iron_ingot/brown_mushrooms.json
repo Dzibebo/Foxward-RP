@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "brown_mushrooms",
-		"particle": "brown_mushrooms"
+		"0": "item/iron_ingot/brown_mushrooms",
+		"particle": "item/iron_ingot/brown_mushrooms"
 	},
 	"elements": [
 		{

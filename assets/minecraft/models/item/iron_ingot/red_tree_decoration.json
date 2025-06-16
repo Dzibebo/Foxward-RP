@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "red_tree_decoration",
-		"particle": "red_tree_decoration"
+		"0": "item/iron_ingot/red_tree_decoration",
+		"particle": "item/iron_ingot/red_tree_decoration"
 	},
 	"elements": [
 		{

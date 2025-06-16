@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "item/iron_ingot/tv",
-		"particle": "item/iron_ingot/tv"
+		"0": "item/iron_ingot/tvs",
+		"particle": "item/iron_ingot/tvs"
 	},
 	"elements": [
 		{

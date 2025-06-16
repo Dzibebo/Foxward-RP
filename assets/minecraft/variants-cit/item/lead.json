@@ -1,0 +1,13 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:lead",
+  "modelPrefix": "item/lead/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Наручники": "kandal_icon",
+      "наручники": "kandal_icon"
+    }
+  }
+}

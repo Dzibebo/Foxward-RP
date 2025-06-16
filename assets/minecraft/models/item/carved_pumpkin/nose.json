@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "nose",
-		"particle": "nose"
+		"0": "item/carved_pumpkin/nose",
+		"particle": "item/carved_pumpkin/nose"
 	},
 	"elements": [
 		{

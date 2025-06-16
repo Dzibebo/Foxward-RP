@@ -1,0 +1,13 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:black_candle",
+  "modelPrefix": "item/black_candle/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Корсар": "firecracker",
+      "корсар": "firecracker"
+    }
+  }
+}

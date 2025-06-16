@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "small",
-		"particle": "small"
+		"0": "item/iron_ingot/small",
+		"particle": "item/iron_ingot/small"
 	},
 	"elements": [
 		{

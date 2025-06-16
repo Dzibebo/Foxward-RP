@@ -1,0 +1,43 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:painting",
+  "modelPrefix": "item/painting/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "братья": "brothers",
+      "карл Маркс": "carl_marx",
+      "настенный ковёр": "carpet",
+      "фюрер": "hitler",
+      "владимир Ленин": "lenin",
+      "вождь Октября": "megalenin",
+      "владимир Ленин 1x1": "minilenin",
+      "наполеон": "napoleonpaint",
+      "поле": "pole",
+      "революция": "revolut",
+      "иосиф Сталин": "stalin",
+      "троцкий, Ленин и Дзержинский": "tld",
+      "лев Троцкий": "trozkiy",
+      "плакат \"Ты!\"": "tzd",
+      "плакат \"Жители наш оплот!\"": "vod",
+      "сталин и Ворошилов": "walk",
+      "Братья": "brothers",
+      "Карл Маркс": "carl_marx",
+      "Настенный ковёр": "carpet",
+      "Фюрер": "hitler",
+      "Владимир Ленин": "lenin",
+      "Вождь Октября": "megalenin",
+      "Владимир Ленин 1x1": "minilenin",
+      "Наполеон": "napoleonpaint",
+      "Поле": "pole",
+      "Революция": "revolut",
+      "Иосиф Сталин": "stalin",
+      "Троцкий, Ленин и Дзержинский": "tld",
+      "Лев Троцкий": "trozkiy",
+      "Плакат \"Ты!\"": "tzd",
+      "Плакат \"Жители наш оплот!\"": "vod",
+      "Сталин и Ворошилов": "walk"
+    }
+  }
+}

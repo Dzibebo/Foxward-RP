@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "brown_espressomachine"
+		"1": "item/iron_ingot/brown_espressomachine"
 	},
 	"elements": [
 		{

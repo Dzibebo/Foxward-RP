@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "sparkler",
-		"particle": "sparkler"
+		"0": "item/iron_ingot/sparkler",
+		"particle": "item/iron_ingot/sparkler"
 	},
 	"elements": [
 		{

@@ -1,0 +1,14 @@
+  { 
+  "model": { 
+   "type": "minecraft:condition", 
+    "on_false": { 
+ "type": "minecraft:model", 
+  "model": "item/shield/shield_balzam" 
+    }, 
+  "on_true": { 
+  "type": "minecraft:model", 
+ "model": "item/shieldblock/shield_balzam_block" 
+  }, 
+   "property": "minecraft:using_item" 
+  } 
+} 

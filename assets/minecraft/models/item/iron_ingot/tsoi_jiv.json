@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tsoi_jiv",
-		"particle": "tsoi_jiv"
+		"0": "item/iron_ingot/tsoi_jiv",
+		"particle": "item/iron_ingot/tsoi_jiv"
 	},
 	"elements": [
 		{

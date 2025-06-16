@@ -1,0 +1,13 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:snowball",
+  "modelPrefix": "item/snowball/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Камень": "stone",
+      "камень": "stone"
+    }
+  }
+}

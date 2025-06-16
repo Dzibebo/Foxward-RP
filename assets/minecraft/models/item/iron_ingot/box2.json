@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "box2",
-		"particle": "box2"
+		"0": "item/iron_ingot/box2",
+		"particle": "item/iron_ingot/box2"
 	},
 	"elements": [
 		{

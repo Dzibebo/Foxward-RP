@@ -1,0 +1,17 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:goat_horn",
+  "modelPrefix": "item/goat_horn/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Поддержка батальона": "battalion_backup",
+      "Фанфара": "fanfare",
+      "Мегафон": "megaphone",
+      "поддержка батальона": "battalion_backup",
+      "фанфара": "fanfare",
+      "мегафон": "megaphone"
+    }
+  }
+}

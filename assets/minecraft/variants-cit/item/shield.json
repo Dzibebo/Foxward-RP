@@ -1,0 +1,43 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:shield",
+  "modelPrefix": "item/shield/",
+  "modelParent": "item/source_models/gen_shield",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "щит Кэпа": "cap_shield",
+      "штурмовой щит": "charging_tire",
+      "выбитая дверь": "door_shield",
+      "выбитая сетчатая дверь": "door_shield_setka",
+      "шелленбаум": "d_musik",
+      "геральдический щит": "gerald",
+      "роскошное прикрытие": "great_shield",
+      "крышка кастрюли": "kastrkrish",
+      "энергетический щит": "med_shield",
+      "полицейский щит": "police_shield",
+      "козий щит": "rogatiy_shield",
+      "вьетнамская оборона": "shield_balzam",
+      "ручной щиток": "shield_hand",
+      "щит свиночеловека": "shield_piglin",
+      "бывалый рулевой": "shield_wheel",
+      "верный штурвал": "shield_wheel_2",
+      "Щит Кэпа": "cap_shield",
+      "Штурмовой щит": "charging_tire",
+      "Выбитая дверь": "door_shield",
+      "Выбитая сетчатая дверь": "door_shield_setka",
+      "Шелленбаум": "d_musik",
+      "Геральдический щит": "gerald",
+      "Роскошное прикрытие": "great_shield",
+      "Крышка кастрюли": "kastrkrish",
+      "Энергетический щит": "med_shield",
+      "Полицейский щит": "police_shield",
+      "Козий щит": "rogatiy_shield",
+      "Вьетнамская оборона": "shield_balzam",
+      "Ручной щиток": "shield_hand",
+      "Щит свиночеловека": "shield_piglin",
+      "Бывалый рулевой": "shield_wheel",
+      "Верный штурвал": "shield_wheel_2"
+    }
+  }
+}

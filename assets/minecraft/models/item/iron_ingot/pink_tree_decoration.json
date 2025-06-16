@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "pink_tree_decoration",
-		"particle": "pink_tree_decoration"
+		"2": "item/iron_ingot/pink_tree_decoration",
+		"particle": "item/iron_ingot/pink_tree_decoration"
 	},
 	"elements": [
 		{

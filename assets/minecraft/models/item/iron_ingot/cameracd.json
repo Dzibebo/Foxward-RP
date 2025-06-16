@@ -1,0 +1,6 @@
+{
+	"parent": "item/iron_ingot/camerac",
+	"textures": {
+	  "0": "item/iron_ingot/dark1"
+	}
+  }

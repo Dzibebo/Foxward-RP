@@ -1,0 +1,6 @@
+{
+	"parent": "item/iron_ingot/camera_right",
+	"textures": {
+	  "0": "item/iron_ingot/banana"
+	}
+  }

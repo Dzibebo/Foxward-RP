@@ -1,0 +1,41 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:flint_and_steel",
+  "modelPrefix": "item/flint_and_steel/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "аметистовое огниво": "amethyst_flint_and_steel",
+      "дешёвая зажигалка": "cheap_lighter",
+      "угольное огниво": "coal_flint_and_steel",
+      "медное огниво": "copper_flint_and_steel",
+      "алмазное огниво": "diamond_flint_and_steel",
+      "изумрудное огниво": "emerald_flint_and_steel",
+      "золотое огниво": "golden_flint_and_steel",
+      "золотая зажигалка": "golden_lighter",
+      "лазуритовое огниво": "lapis_lazuli_flint_and_steel",
+      "зажигалка": "lighter",
+      "спички": "matches",
+      "незеритовое огниво": "netherite_flint_and_steel",
+      "канистра с бензином": "petrol_canister",
+      "кварцевое огниво": "quartz_flint_and_steel",
+      "редстоуновое огниво": "redstone_flint_and_steel",
+      "Аметистовое огниво": "amethyst_flint_and_steel",
+      "Дешёвая зажигалка": "cheap_lighter",
+      "Угольное огниво": "coal_flint_and_steel",
+      "Медное огниво": "copper_flint_and_steel",
+      "Алмазное огниво": "diamond_flint_and_steel",
+      "Изумрудное огниво": "emerald_flint_and_steel",
+      "Золотое огниво": "golden_flint_and_steel",
+      "Золотая зажигалка": "golden_lighter",
+      "Лазуритовое огниво": "lapis_lazuli_flint_and_steel",
+      "Зажигалка": "lighter",
+      "Спички": "matches",
+      "Незеритовое огниво": "netherite_flint_and_steel",
+      "Канистра с бензином": "petrol_canister",
+      "Кварцевое огниво": "quartz_flint_and_steel",
+      "Редстоуновое огниво": "redstone_flint_and_steel"
+    }
+  }
+}

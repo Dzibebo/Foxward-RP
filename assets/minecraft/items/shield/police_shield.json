@@ -1,0 +1,14 @@
+  { 
+  "model": { 
+   "type": "minecraft:condition", 
+    "on_false": { 
+ "type": "minecraft:model", 
+  "model": "item/shield/police_shield" 
+    }, 
+  "on_true": { 
+  "type": "minecraft:model", 
+ "model": "item/shieldblock/police_shield_block" 
+  }, 
+   "property": "minecraft:using_item" 
+  } 
+} 

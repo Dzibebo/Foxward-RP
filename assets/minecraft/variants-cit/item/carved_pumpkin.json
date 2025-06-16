@@ -1,6 +1,6 @@
 {
   "type": "custom_name",
-  "items": ["minecraft:carved_pumpkin","minecraft:egg"],
+  "items": ["minecraft:carved_pumpkin"],
   "modelPrefix": "item/carved_pumpkin/",
   "modelParent": "minecraft:item/generated",
   "parameters": {

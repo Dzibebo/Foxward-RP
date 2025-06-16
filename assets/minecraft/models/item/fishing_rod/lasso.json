@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/fishing_rod",
+  "textures": {
+    "layer0": "item/fishing_rod/lasso"
+  },
+  "overrides": [
+    { "predicate": { "cast": 1 }, "model": "item/fishing_rodpull/lasso_cast" }
+  ]
+}

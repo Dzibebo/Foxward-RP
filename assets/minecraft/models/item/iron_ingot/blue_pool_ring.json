@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blue_pool_ring"
+		"1": "item/iron_ingot/blue_pool_ring"
 	},
 	"elements": [
 		{

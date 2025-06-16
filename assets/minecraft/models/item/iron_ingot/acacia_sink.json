@@ -2,7 +2,7 @@
 	"credit": "Designed by Sixfootblue with Cubik Studio - https://cubik.studio",
 	"texture_size": [48, 48],
 	"textures": {
-		"1": "item/iron_ingot/acacia/acacia_cabinet",
+		"1": "item/iron_ingot/acacia_cabinet",
 		"particle": "item/iron_ingot/sink",
 		"texture": "item/iron_ingot/sink"
 	},

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "pink_present",
-		"particle": "pink_present"
+		"2": "item/iron_ingot/pink_present",
+		"particle": "item/iron_ingot/pink_present"
 	},
 	"elements": [
 		{

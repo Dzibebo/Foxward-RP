@@ -4,8 +4,9 @@
     "minecraft:potion",
     "minecraft:lingering_potion",
     "minecraft:splash_potion",
-	"ominous_bottle",
-	"honey_bottle"
+	"minecraft:ominous_bottle",
+	"minecraft:honey_bottle",
+    "minecraft:milk_bucket"
   ],
   "modelPrefix": "item/potion/",
   "modelParent": "minecraft:item/generated",

@@ -101,9 +101,51 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/items/foxward_logo.png",
-			"ascent": 9,
-			"height": 11,
-			"chars": ["\u118CB"]
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u28D7"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/foxward_logo.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u534D"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/foxward_logo.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u5350"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/foxward_logo.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0FD5"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/foxward_logo.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0FD6"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/foxward_logo.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0FD7"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/foxward_logo.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0FD8"]
 		},
 		{
 			"type": "bitmap",
@@ -145,14 +187,14 @@
 			"file": "minecraft:gui/items/curator.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u16998"]
+			"chars": ["\u1DB2"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/items/tadmin.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u16E58"]
+			"chars": ["\u1E24"]
 		},
 		{
 			"type": "bitmap",
@@ -166,7 +208,7 @@
 			"file": "minecraft:gui/items/helper.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u1680C"]
+			"chars": ["\u1F94"]
 		},
 		{
 			"type": "bitmap",
@@ -180,7 +222,7 @@
 			"file": "minecraft:gui/items/court.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u1CE8"]
+			"chars": ["\u2A17"]
 		},
 		{
 			"type": "bitmap",
@@ -201,7 +243,7 @@
 			"file": "minecraft:gui/items/builder.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u16E8A"]
+			"chars": ["\u20A7"]
 		},
 		{
 			"type": "bitmap",
@@ -229,35 +271,28 @@
 			"file": "minecraft:gui/items/custom/beeeeee.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u1347F"]
+			"chars": ["\u22F9"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/items/custom/flash.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u133C5"]
+			"chars": ["\u2C16"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/items/custom/okak.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u12FB9"]
+			"chars": ["\u2CAA"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/items/custom/va.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u11D0B"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/admen.png",
-			"ascent": 7,
-			"height": 9,
-			"chars": ["\uA5C9"]
+			"chars": ["\u2DC3"]
 		},
 		{
 			"type": "bitmap",
@@ -320,7 +355,7 @@
 			"file": "minecraft:gui/items/custom/emerald.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u16AD0"]
+			"chars": ["\u2AC0"]
 		},
 		{
 			"type": "bitmap",

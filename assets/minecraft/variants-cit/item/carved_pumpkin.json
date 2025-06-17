@@ -124,7 +124,6 @@
       "флагштог": "flagshtotz",
       "проблесковый маячок": "flashing_beacon",
       "шляпа лучника": "fletcher_vil",
-      "метла для полётов": "flying_broom",
       "футбольный шлем": "football_hat",
       "морда лисы": "fox",
       "морда белой лисы": "fox_hyper",
@@ -471,7 +470,6 @@
       "Флагштог": "flagshtotz",
       "Проблесковый маячок": "flashing_beacon",
       "Шляпа лучника": "fletcher_vil",
-      "Метла для полётов": "flying_broom",
       "Футбольный шлем": "football_hat",
       "Морда лисы": "fox",
       "Морда белой лисы": "fox_hyper",
@@ -700,8 +698,10 @@
       "Кепка": "yuri",
       "Ермолка иудея": "zid",
       "Зомбоящик": "zomboyashik",
-	  "Маска клоуна": "clowns_mask",
-	  "маска клоуна": "clowns_mask"
+      "Маска клоуна": "clowns_mask",
+      "маска клоуна": "clowns_mask",
+      "Оладьи":"oladiy",
+      "оладьи":"oladiy"
     }
   }
 }

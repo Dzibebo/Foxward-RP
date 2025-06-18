@@ -29,7 +29,9 @@
       "Кварцевая булава": "quartz_mace",
       "Редстоуновая булава": "redstone_mace",
 	  "Булава 3D":"3d_mace_by_pablossska",
-	  "булава 3D":"3d_mace_by_pablossska"
+	  "булава 3D":"3d_mace_by_pablossska",
+	  "Молот судьи": "molot",
+	  "молот судьи": "molot"
     }
   }
 }

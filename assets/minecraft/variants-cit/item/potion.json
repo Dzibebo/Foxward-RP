@@ -17,7 +17,7 @@
       "Кружка boss": "boss_cup",
       "Бренди": "brandy",
       "Пабло бутылка": "captainzakyyy_black",
-      "Капучино": "coffe_for",
+      "Капучино": "coffee_for",
       "Добрый кола": "cola",
       "сгущёнка": "condensed_milk",
       "Печенье с молоком": "cookie_milk",
@@ -33,7 +33,7 @@
       "Кружка тёмного пива": "mug_dark",
       "Кружка светлого пива": "mug_light",
       "Кружка нефильтрованного пива": "mug_unfiltred",
-      "Orange drink": "orange_drink",
+      "Фанта": "orange_drink",
       "Пепси": "pepsi",
       "Пина колада": "pina_colada",
       "Пиво в кружке": "pivko",
@@ -56,7 +56,7 @@
       "кружка boss": "boss_cup",
       "бренди": "brandy",
       "пабло бутылка": "captainzakyyy_black",
-      "капучино": "coffe_for",
+      "капучино": "coffee_for",
       "добрый кола": "cola",
       "Сгущёнка": "condensed_milk",
       "печенье с молоком": "cookie_milk",
@@ -72,7 +72,7 @@
       "кружка тёмного пива": "mug_dark",
       "кружка светлого пива": "mug_light",
       "кружка нефильтрованного пива": "mug_unfiltred",
-      "orange drink": "orange_drink",
+      "фанта": "orange_drink",
       "пепси": "pepsi",
       "пина колада": "pina_colada",
       "пиво в кружке": "pivko",
@@ -90,7 +90,13 @@
       "текила": "tequila",
       "Вино": "vino",
       "стакан виски": "whiskey_glass",
-      "бокал белого вина": "white_wine_glass"
+      "бокал белого вина": "white_wine_glass",
+	  "латте": "coffee_for",
+	  "Латте": "coffee_for",
+	  "Эспрессо": "coffee_for",
+	  "эспрессо": "coffee_for",
+	  "Американо": "coffee_for",
+	  "американо": "coffee_for"
     }
   }
 }

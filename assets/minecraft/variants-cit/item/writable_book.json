@@ -141,7 +141,25 @@
       "Стопка свитков": "stack_of_scrolls",
       "Свиток досаждателя": "vexing_chant",
       "Завёрнутый свиток досаждателя": "vexing_chant_left_hand",
-      "Деревянный планшет с бумагами": "wooden_tablet_with_papers"
+      "Деревянный планшет с бумагами": "wooden_tablet_with_papers",
+      "бумага с пером": "paper_and_quill",
+      "Бумага с пером": "paper_and_quill",
+      "книга": "opened_book",
+      "Книга": "opened_book",
+      "Закрытая книга": "closed_book",
+      "закрытая книга": "closed_book",
+      "книга с пером": "book_and_quill",
+      "Книга с пером": "book_and_quill",
+      "Стопка из 2 книг": "stack_of_2_books",
+      "Стопка из 3 книг": "stack_of_3_books",
+      "Стопка из 4 книг": "stack_of_4_books",
+      "Стопка из 5 книг": "stack_of_5_books",
+      "Стопка из 6 книг": "stack_of_6_books",
+      "стопка из 2 книг": "stack_of_2_books",
+      "стопка из 3 книг": "stack_of_3_books",
+      "стопка из 4 книг": "stack_of_4_books",
+      "стопка из 5 книг": "stack_of_5_books",
+      "стопка из 6 книг": "stack_of_6_books"
     }
   }
 }

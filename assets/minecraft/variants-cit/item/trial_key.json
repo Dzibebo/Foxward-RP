@@ -7,8 +7,8 @@
     "nbtPath": ".display.Name",
     "specialNames": {
       "Ключ испытаний 3D": "key",
-      "Зловещий ключ испытаний 3D": "ominous_key",
       "ключ испытаний 3D": "key",
+      "Зловещий ключ испытаний 3D": "ominous_key",
       "зловещий ключ испытаний 3D": "ominous_key"
     }
   }

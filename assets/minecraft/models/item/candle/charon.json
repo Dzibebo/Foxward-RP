@@ -1,0 +1,6 @@
+{
+  "parent": "item/candle/vapesos",
+  "textures": {
+    "2": "item/candle/charon"
+  }
+}

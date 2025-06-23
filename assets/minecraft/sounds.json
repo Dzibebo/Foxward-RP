@@ -1,9 +1,28 @@
 {
-	"msonuds.restartept":
-	{"category":"master", "sounds": [{"name":"msounds/restartept1","stream": true},{"name":"msounds/restartept2","stream": true},{"name":"msounds/restartept3","stream": true}]}
-	
-
-	
-	
-	
+	"msonuds.restartept": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "msounds/restartept1",
+				"stream": true
+			},
+			{
+				"name": "msounds/restartept2",
+				"stream": true
+			},
+			{
+				"name": "msounds/restartept3",
+				"stream": true
+			}
+		]
+	},
+	"msonuds.seagull_event": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "event/seagull",
+				"stream": true
+			}
+		]
+	}
 }

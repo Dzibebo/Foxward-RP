@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "item/black_candle/firecracker"
+		"5": "item/candle/firecracker"
 	},
 	"elements": [
 		{

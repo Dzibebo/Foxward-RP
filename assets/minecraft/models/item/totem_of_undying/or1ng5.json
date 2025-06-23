@@ -1,5 +1,5 @@
 {
-	"parent": "item/totem_of_undying/totem",
+	"parent": "item/source_models/totem_slim",
 	"textures": {
 	  "1": "item/totem_of_undying/or1ng5"
 	}

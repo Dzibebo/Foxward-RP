@@ -1,6 +1,6 @@
 {
-	"parent": "item/totem_of_undying/totem",
+	"parent": "item/source_models/totem",
 	"textures": {
-	  "1": "item/totem_of_undying/Ovotarich_Akatsuki"
+	  "1": "item/totem_of_undying/ovotarich_akatsuki"
 	}
   }

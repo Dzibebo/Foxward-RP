@@ -6,10 +6,6 @@
   "parameters": {
     "nbtPath": ".display.Name",
     "specialNames": {
-      "бойкиссер": "boykisser",
-      "карта возврата": "reverse",
-      "Бойкиссер": "boykisser",
-      "Карта возврата": "reverse",
 	  "Живой тотем": "live_totem",
 	  "Тёмный живой тотем": "live_totem_dark",
 	  "Серебрянный живой тотем": "live_totem_silver",
@@ -17,7 +13,16 @@
 	  "живой тотем": "live_totem",
 	  "тёмный живой тотем": "live_totem_dark",
 	  "серебрянный живой тотем": "live_totem_silver",
-	  "еловый живой тотем": "live_totem_spruce"
+	  "еловый живой тотем": "live_totem_spruce",
+	  "sfefs голи": "sfefses",
+	  "Маква":"makwa",
+	  "маква":"makwa",
+	  "Файт не удафся":"ralfi",
+	  "Файт не удафся1":"lizard87",
+	  "Файт не удафся2":"coramin",
+	  "Сайт не удался":"ralfi",
+	  "Сайт не удался1":"lizard87",
+	  "Сайт не удался2":"coramin"
     }
   }
 }

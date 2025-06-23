@@ -475,6 +475,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA752"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/zenit.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1C6B"]
 		}
 	]
 }

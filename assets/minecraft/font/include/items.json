@@ -482,6 +482,118 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1C6B"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/spartak.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u104E"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/bandit.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u102A"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/boss.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1462"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/capybara.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1503"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/cat.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1591"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/chief.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1435"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/clown.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u15C0"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/divine.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u14F7"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/dog.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u16B8"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/frog.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1707"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/mason.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u176E"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/nektarynki.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u17A2"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/pirateking.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1834"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/spartak.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u18E0"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/sacred.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1966"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/police.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1B46"]
 		}
 	]
 }

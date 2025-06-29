@@ -595,5 +595,12 @@
 			"height": 9,
 			"chars": ["\u1B46"]
 		}
+	        {
+			"type": "bitmap",
+			"file": "minecraft:gui/items/custom/dark_king.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0A05"]
+		}
 	]
 }

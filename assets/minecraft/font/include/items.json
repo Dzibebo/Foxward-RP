@@ -485,13 +485,6 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/spartak.png",
-			"ascent": 7,
-			"height": 9,
-			"chars": ["\u104E"]
-		},
-		{
-			"type": "bitmap",
 			"file": "minecraft:gui/items/custom/bandit.png",
 			"ascent": 7,
 			"height": 9,
@@ -579,7 +572,7 @@
 			"file": "minecraft:gui/items/custom/spartak.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u18E0"]
+			"chars": ["\u0A36"]
 		},
 		{
 			"type": "bitmap",
@@ -594,7 +587,7 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1B46"]
-		}
+		}.
 	        {
 			"type": "bitmap",
 			"file": "minecraft:gui/items/custom/dark_king.png",

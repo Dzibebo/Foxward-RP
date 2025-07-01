@@ -1003,8 +1003,14 @@
       "Зубастая пепельница":"toothy_ashtray",
       "зубастая пепельница":"toothy_ashtray",
       "Блок земли":"spec_grass_block_for_benjanin",
-      "блок земли":"spec_grass_block_for_benjanin"
-
+      "блок земли":"spec_grass_block_for_benjanin",
+	    "t-34":"t34_tank_kpspsp",
+	    "t-26":"t26_tank_kpspsp",
+	    "Серый танк":"sery_tank_kpspsp",
+	    "серый танк":"sery_tank_kpspsp",
+	    "p-2":"pablossska_tank_p2",
+	    "Артиллерия":"artillery",
+	    "артиллерия":"artillery"
     }
   }
 }

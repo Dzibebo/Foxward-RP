@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [1024, 1024],
 	"textures": {
-		"7": "item/swords/t26_tank_kpspsp",
-		"particle": "item/swords/t26_tank_kpspsp"
+		"7": "t26_tank_kpspsp",
+		"particle": "t26_tank_kpspsp"
 	},
 	"elements": [
 		{
@@ -240,6 +240,35 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"firstperson_righthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"firstperson_lefthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
 		"head": {
 			"translation": [0, -13.25, -10],
 			"scale": [2.76, 2.76, 2.76]

@@ -4,8 +4,8 @@
 	"ambientocclusion": false,
 	"texture_size": [1024, 1024],
 	"textures": {
-		"10": "item/swords/sery_tank_kpspsp",
-		"particle": "item/swords/sery_tank_kpspsp"
+		"10": "sery_tank_kpspsp",
+		"particle": "sery_tank_kpspsp"
 	},
 	"elements": [
 		{
@@ -287,6 +287,35 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"firstperson_righthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"firstperson_lefthand": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 135, 0],
+			"translation": [-1, 0, 0],
+			"scale": [0.31055, 0.31055, 0.31055]
+		},
 		"head": {
 			"translation": [0, -23.25, 0],
 			"scale": [2.69531, 2.69531, 2.69531]

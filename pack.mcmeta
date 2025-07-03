@@ -1,9 +1,9 @@
 {
   "pack": {
     "pack_format": 55,
-    "description": "§dᴄдᴇлᴀʜᴏ для игᴘᴏᴋᴏʙ ꜰᴏxᴡᴀʀᴅ           §8ʀᴇʟᴇᴀsᴇ: 3.0",
+    "description": "§dᴄдᴇлᴀʜᴏ для игᴘᴏᴋᴏʙ ꜰᴏxᴡᴀʀᴅ           §8ᴠᴇʀꜱɪᴏɴ: 3.0",
     "supported_formats": {
-      "min_inclusive": 30,
+      "min_inclusive": 1,
       "max_inclusive": 999
     }
   }

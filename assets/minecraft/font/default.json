@@ -2,595 +2,595 @@
     "providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/vanl.png",
+			"file": "minecraft:gui/foxicons/vanl.png",
 			"ascent": 65,
 			"height": 180,
 			"chars": ["\u01B1"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/tps.png",
+			"file": "minecraft:gui/foxicons/tps.png",
 			"ascent": 10,
 			"height": 11,
 			"chars": ["\u03E2"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/players.png",
+			"file": "minecraft:gui/foxicons/players.png",
 			"ascent": 9,
 			"height": 11,
 			"chars": ["\u0298"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/ping.png",
+			"file": "minecraft:gui/foxicons/ping.png",
 			"ascent": 9,
 			"height": 11,
 			"chars": ["\u03E6"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/speech.png",
+			"file": "minecraft:gui/foxicons/speech.png",
 			"ascent": 7,
 			"height": 8,
 			"chars": ["\u1A22"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/time.png",
+			"file": "minecraft:gui/foxicons/time.png",
 			"ascent": 9,
 			"height": 11,
 			"chars": ["\u1AA0"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/broadcast.png",
+			"file": "minecraft:gui/foxicons/broadcast.png",
 			"ascent": 9,
 			"height": 11,
 			"chars": ["\u22A5"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/clock.png",
+			"file": "minecraft:gui/foxicons/clock.png",
 			"ascent": 8,
 			"height": 9,
 			"chars": ["\u0CCB"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/coin.png",
+			"file": "minecraft:gui/foxicons/coin.png",
 			"ascent": 8,
 			"height": 9,
 			"chars": ["\u2280"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/feather.png",
+			"file": "minecraft:gui/foxicons/feather.png",
 			"ascent": 8,
 			"height": 9,
 			"chars": ["\u883C"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/idea.png",
+			"file": "minecraft:gui/foxicons/idea.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["\u02A2"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/trade.png",
+			"file": "minecraft:gui/foxicons/trade.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["\u14FA"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/ask.png",
+			"file": "minecraft:gui/foxicons/ask.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["\u02A9"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/speak.png",
+			"file": "minecraft:gui/foxicons/speak.png",
 			"ascent": 9,
 			"height": 11,
 			"chars": ["\u14C6"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/foxward_logo.png",
+			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u28D7"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/foxward_logo.png",
+			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u534D"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/foxward_logo.png",
+			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u5350"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/foxward_logo.png",
+			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0FD5"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/foxward_logo.png",
+			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0FD6"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/foxward_logo.png",
+			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0FD7"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/foxward_logo.png",
+			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0FD8"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/nospeak.png",
+			"file": "minecraft:gui/foxicons/nospeak.png",
 			"ascent": 9,
 			"height": 11,
 			"chars": ["\u100A"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/death.png",
+			"file": "minecraft:gui/foxicons/death.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["\uA354"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/death2.png",
+			"file": "minecraft:gui/foxicons/death2.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["\u1C12"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/sleep.png",
+			"file": "minecraft:gui/foxicons/sleep.png",
 			"ascent": 12,
 			"height": 16,
 			"chars": ["\u0686"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/admin.png",
+			"file": "minecraft:gui/foxicons/admin.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1B5B"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/curator.png",
+			"file": "minecraft:gui/foxicons/curator.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1DB2"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/tadmin.png",
+			"file": "minecraft:gui/foxicons/tadmin.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1E24"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/moder.png",
+			"file": "minecraft:gui/foxicons/moder.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1CAF"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/helper.png",
+			"file": "minecraft:gui/foxicons/helper.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1F94"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/gov.png",
+			"file": "minecraft:gui/foxicons/gov.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2188"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/court.png",
+			"file": "minecraft:gui/foxicons/court.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2A17"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/stream.png",
+			"file": "minecraft:gui/foxicons/stream.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA6AC"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/bank.png",
+			"file": "minecraft:gui/foxicons/bank.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA59E"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/builder.png",
+			"file": "minecraft:gui/foxicons/builder.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u20A7"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/premium.png",
+			"file": "minecraft:gui/foxicons/premium.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA4A7"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/player.png",
+			"file": "minecraft:gui/foxicons/player.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA524"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/koisg_baza.png",
+			"file": "minecraft:gui/foxicons/custom/koisg_baza.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA99A"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/beeeeee.png",
+			"file": "minecraft:gui/foxicons/custom/beeeeee.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u22F9"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/flash.png",
+			"file": "minecraft:gui/foxicons/custom/flash.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2C16"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/okak.png",
+			"file": "minecraft:gui/foxicons/custom/okak.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2CAA"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/va.png",
+			"file": "minecraft:gui/foxicons/custom/va.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2DC3"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/admen.png",
+			"file": "minecraft:gui/foxicons/custom/admen.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA5C9"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/blossom.png",
+			"file": "minecraft:gui/foxicons/custom/blossom.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA51A"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/bogged.png",
+			"file": "minecraft:gui/foxicons/custom/bogged.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA510"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/chillguy.png",
+			"file": "minecraft:gui/foxicons/custom/chillguy.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA54C"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/copper.png",
+			"file": "minecraft:gui/foxicons/custom/copper.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA578"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/diamond.png",
+			"file": "minecraft:gui/foxicons/custom/diamond.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA566"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/dolbaeb.png",
+			"file": "minecraft:gui/foxicons/custom/dolbaeb.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA65A"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/goida.png",
+			"file": "minecraft:gui/foxicons/goida.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0ED9"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/earthking.png",
+			"file": "minecraft:gui/foxicons/custom/earthking.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uFB20"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/emerald.png",
+			"file": "minecraft:gui/foxicons/custom/emerald.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2AC0"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/error.png",
+			"file": "minecraft:gui/foxicons/custom/error.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uFB2B"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/fireking.png",
+			"file": "minecraft:gui/foxicons/custom/fireking.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uF9C7"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/fox.png",
+			"file": "minecraft:gui/foxicons/custom/fox.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uD7CC"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/gold.png",
+			"file": "minecraft:gui/foxicons/custom/gold.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uD7DD"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/immortal.png",
+			"file": "minecraft:gui/foxicons/custom/immortal.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uD7BE"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/iron.png",
+			"file": "minecraft:gui/foxicons/custom/iron.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uABDF"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/meteor.png",
+			"file": "minecraft:gui/foxicons/custom/meteor.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uABBB"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/mrpenis.png",
+			"file": "minecraft:gui/foxicons/custom/mrpenis.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uAB41"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/netherite.png",
+			"file": "minecraft:gui/foxicons/custom/netherite.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uAAE4"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/ravshan.png",
+			"file": "minecraft:gui/foxicons/custom/ravshan.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uAA25"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/snowqueen.png",
+			"file": "minecraft:gui/foxicons/custom/snowqueen.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA9AB"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/venom.png",
+			"file": "minecraft:gui/foxicons/custom/venom.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA9C3"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/warden.png",
+			"file": "minecraft:gui/foxicons/custom/warden.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA86D"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/waterking.png",
+			"file": "minecraft:gui/foxicons/custom/waterking.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA812"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/windking.png",
+			"file": "minecraft:gui/foxicons/custom/windking.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA744"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/legendpipsid.png",
+			"file": "minecraft:gui/foxicons/custom/legendpipsid.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA752"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/zenit.png",
+			"file": "minecraft:gui/foxicons/custom/zenit.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1C6B"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/bandit.png",
+			"file": "minecraft:gui/foxicons/custom/bandit.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u102A"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/boss.png",
+			"file": "minecraft:gui/foxicons/custom/boss.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1462"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/capybara.png",
+			"file": "minecraft:gui/foxicons/custom/capybara.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1503"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/cat.png",
+			"file": "minecraft:gui/foxicons/custom/cat.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1591"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/chief.png",
+			"file": "minecraft:gui/foxicons/custom/chief.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1435"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/clown.png",
+			"file": "minecraft:gui/foxicons/custom/clown.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u15C0"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/divine.png",
+			"file": "minecraft:gui/foxicons/custom/divine.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u14F7"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/dog.png",
+			"file": "minecraft:gui/foxicons/custom/dog.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u16B8"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/frog.png",
+			"file": "minecraft:gui/foxicons/custom/frog.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1707"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/mason.png",
+			"file": "minecraft:gui/foxicons/custom/mason.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u176E"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/nektarynki.png",
+			"file": "minecraft:gui/foxicons/custom/nektarynki.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u17A2"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/pirateking.png",
+			"file": "minecraft:gui/foxicons/custom/pirateking.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1834"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/spartak.png",
+			"file": "minecraft:gui/foxicons/custom/spartak.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0A36"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/sacred.png",
+			"file": "minecraft:gui/foxicons/custom/sacred.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1966"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/police.png",
+			"file": "minecraft:gui/foxicons/custom/police.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1B46"]
 		},
 	        {
 			"type": "bitmap",
-			"file": "minecraft:gui/items/custom/dark_king.png",
+			"file": "minecraft:gui/foxicons/custom/dark_king.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0A05"]

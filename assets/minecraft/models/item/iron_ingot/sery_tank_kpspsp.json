@@ -4,8 +4,8 @@
 	"ambientocclusion": false,
 	"texture_size": [1024, 1024],
 	"textures": {
-		"10": "sery_tank_kpspsp",
-		"particle": "sery_tank_kpspsp"
+		"10": "item/iron_ingot/sery_tank_kpspsp",
+		"particle": "item/iron_ingot/sery_tank_kpspsp"
 	},
 	"elements": [
 		{

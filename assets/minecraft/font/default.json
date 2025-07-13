@@ -594,6 +594,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0A05"]
+		},
+	        {
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/custom/capybara2.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0B88"]
 		}
 	]
 }

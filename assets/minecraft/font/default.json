@@ -271,7 +271,7 @@
 			"file": "minecraft:gui/foxicons/custom/beeeeee.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u22F9"]
+			"chars": ["\u098B"]
 		},
 		{
 			"type": "bitmap",

@@ -2,10 +2,10 @@
     "providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/foxicons/vanl.png",
+			"file": "minecraft:gui/foxicons/foxlogo.png",
 			"ascent": 65,
 			"height": 180,
-			"chars": ["\u01B1"]
+			"chars": ["\u079D"]
 		},
 		{
 			"type": "bitmap",

@@ -47,7 +47,7 @@
 			"file": "minecraft:gui/foxicons/broadcast.png",
 			"ascent": 9,
 			"height": 11,
-			"chars": ["\u22A5"]
+			"chars": ["\u1010"]
 		},
 		{
 			"type": "bitmap",

@@ -103,7 +103,7 @@
 			"file": "minecraft:gui/foxicons/foxward_logo.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u28D7"]
+			"chars": ["\uA807"]
 		},
 		{
 			"type": "bitmap",

@@ -5,7 +5,7 @@
 			"file": "minecraft:gui/foxicons/tab_logo.png",
 			"ascent": 65,
 			"height": 180,
-			"chars": ["\uA930", "\uA931", "\uA932", "\uA933"]
+			"chars": ["\u2DAA"]
 		},
 		{
 			"type": "bitmap",

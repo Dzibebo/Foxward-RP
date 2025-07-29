@@ -3,15 +3,19 @@
 		"category": "master",
 		"sounds": [
 			{
-				"name": "msounds/restartept1",
+				"name": "restart/sound1",
 				"stream": true
 			},
 			{
-				"name": "msounds/restartept2",
+				"name": "restart/sound2",
 				"stream": true
 			},
 			{
-				"name": "msounds/restartept3",
+				"name": "restart/sound3",
+				"stream": true
+			},
+			{
+				"name": "restart/sound4",
 				"stream": true
 			}
 		]

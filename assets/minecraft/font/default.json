@@ -2,7 +2,7 @@
     "providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/foxicons/foxlogo.png",
+			"file": "minecraft:gui/foxicons/tab_logo.png",
 			"ascent": 65,
 			"height": 180,
 			"chars": ["\u2DAA"]

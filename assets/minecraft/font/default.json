@@ -597,17 +597,24 @@
 		},
 	        {
 			"type": "bitmap",
-			"file": "minecraft:gui/foxicons/custom/rub1kub.png",
+			"file": "minecraft:gui/foxicons/custom/players/rub1kub.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA8A9"]
 		},
 	        {
 			"type": "bitmap",
-			"file": "minecraft:gui/foxicons/custom/capybara2.png",
+			"file": "minecraft:gui/foxicons/custom/players/capybara_ovatarich.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0B88"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/custom/players/fox_vlag_3_1.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0A07"]
 		}
 	]
 }

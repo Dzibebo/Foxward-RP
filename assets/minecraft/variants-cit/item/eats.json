@@ -195,7 +195,13 @@
 	  "Оладьи":"oladiy",
 	  "оладьи":"oladiy",
 	  "Яблочный пирог":"yabloko",
-	  "Яблочный пирог":"yabloko"
+	  "Яблочный пирог":"yabloko",
+	  "Кирпич":"brick_default",
+	  "кирпич":"brick_default",
+	  "Смоляной кирпич":"resin_brick",
+	  "смоляной кирпич":"resin_brick",
+	  "Незерский кирпич":"nether_brick",
+	  "незерский кирпич":"nether_brick"
     }
   }
 }

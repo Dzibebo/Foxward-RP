@@ -3,6 +3,7 @@
   "items": "minecraft:iron_ingot",
   "modelPrefix": "item/iron_ingot/",
   "modelParent": "minecraft:item/generated",
+ "transform": "sanitize",
   "parameters": {
     "nbtPath": ".display.Name",
     "specialNames": {
@@ -1012,7 +1013,13 @@
 	    "Артиллерия":"artillery",
 	    "артиллерия":"artillery",
 		"Труп в мешке":"trup_v_meshke",
-		"труп в мешке":"trup_v_meshke"
+		"труп в мешке":"trup_v_meshke",
+		"Кастрюля":"kastrulka_for_ovotarich",
+		"кастрюля":"kastrulka_for_ovotarich",
+		"Сковородка":"skovourodka_for_ovotarich",
+		"сковородка":"skovourodka_for_ovotarich",
+		"Тарелка с приборами":"tarelka_for_ovotarich",
+		"тарелка с приборами":"tarelka_for_ovotarich"
     }
   }
 }

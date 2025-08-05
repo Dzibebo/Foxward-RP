@@ -2,8 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"7": "brick_default",
-		"particle": "resin_brick"
+		"1": "item/eats/brick_default",
+		"particle": "item/eats/brick_default"
 	},
 	"elements": [
 		{

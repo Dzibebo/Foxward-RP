@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "trup_v_meshke/carved_pumpkin/doomguy",
-		"particle": "trup_v_meshke/carved_pumpkin/doomguy"
+		"0": "item/carved_pumpkin/doomguy",
+		"particle": "item/carved_pumpkin/doomguy"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
-  "parent": "optifine/cit/foxwardmodels/source_models/kartu",
+  "parent": "item/paper/kartu",
   "textures": {
-    "1": "./2diamonds"
+    "1": "item/paper/2diamonds"
   }
 }

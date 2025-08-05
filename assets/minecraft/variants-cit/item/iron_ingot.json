@@ -1011,8 +1011,8 @@
 	    "p-2":"pablossska_tank_p2",
 	    "Артиллерия":"artillery",
 	    "артиллерия":"artillery",
-		"trup_v_meshke":"Труп в мешке",
-		"trup_v_meshke":"труп в мешке"
+		"Труп в мешке":"trup_v_meshke",
+		"труп в мешке":"trup_v_meshke"
     }
   }
 }

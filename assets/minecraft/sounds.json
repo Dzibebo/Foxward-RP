@@ -17,6 +17,18 @@
 			{
 				"name": "restart/sound4",
 				"stream": true
+			},
+			{
+				"name": "restart/sound5",
+				"stream": true
+			},
+			{
+				"name": "restart/sound6",
+				"stream": true
+			},
+			{
+				"name": "restart/sound7",
+				"stream": true
 			}
 		]
 	},

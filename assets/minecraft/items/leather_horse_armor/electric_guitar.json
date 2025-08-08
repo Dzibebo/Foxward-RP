@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "item/leather_horse_armor/electric_guitar",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -6265536
+      }
+    ]
+  }
+}

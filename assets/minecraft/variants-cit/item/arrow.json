@@ -1,0 +1,33 @@
+{
+  "type": "custom_name",
+  "items": ["minecraft:arrow", "minecraft:spectral_arrow", "minecraft:tipped_arrow"],
+  "modelPrefix": "item/arrow/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "стальной снаряд и светопыль": "bullet_and_glowstone_dust",
+      "стальной снаряд и порох": "bullet_and_gunpowder",
+      "патрон": "cartridge",
+      "топливо для огнемёта": "flamethrower_fuel",
+      "ядерная батарея": "fusion_cell",
+      "гвоздь": "nail",
+      "гранатомётный снаряд": "pipe_grenade",
+      "винтовочный патрон": "rifle_cartridge",
+      "соль": "salt",
+      "дробовой патрон": "shotgun_shell",
+      "межпространственный разлом": "universal_clash",
+      "Стальной снаряд и светопыль": "bullet_and_glowstone_dust",
+      "Стальной снаряд и порох": "bullet_and_gunpowder",
+      "Патрон": "cartridge",
+      "Топливо для огнемёта": "flamethrower_fuel",
+      "Ядерная батарея": "fusion_cell",
+      "Гвоздь": "nail",
+      "Гранатомётный снаряд": "pipe_grenade",
+      "Винтовочный патрон": "rifle_cartridge",
+      "Соль": "salt",
+      "Дробовой патрон": "shotgun_shell",
+      "Межпространственный разлом": "universal_clash"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:stick",
+  "modelPrefix": "item/stick/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "костыль": "crutch",
+      "лошадь на палке": "hobbyhorse",
+      "молот судьи": "molot",
+      "старый зонт": "old_umbrella",
+      "палитра": "palette",
+      "карандаш": "pen",
+      "пиратская сошка": "pirate_bipod",
+      "свёрнутый старый зонт": "rolled_up_old_umbrella",
+      "свёрнутый зонт": "rolled_up_umbrella",
+      "скелет лошадь на палке": "skeleton_hobbyhorse",
+      "трость с черепом": "skull_walking_cane",
+      "тропический зонт": "tropical_umbrella",
+      "зонт": "umbrella",
+      "трость": "walking_cane",
+      "зомби лошадь на палке": "zombie_hobbyhorse",
+      "Костыль": "crutch",
+      "Лошадь на палке": "hobbyhorse",
+      "Молот судьи": "molot",
+      "Старый зонт": "old_umbrella",
+      "Палитра": "palette",
+      "Карандаш": "pen",
+      "Пиратская сошка": "pirate_bipod",
+      "Свёрнутый старый зонт": "rolled_up_old_umbrella",
+      "Свёрнутый зонт": "rolled_up_umbrella",
+      "Скелет лошадь на палке": "skeleton_hobbyhorse",
+      "Трость с черепом": "skull_walking_cane",
+      "Тропический зонт": "tropical_umbrella",
+      "Зонт": "umbrella",
+      "Трость": "walking_cane",
+      "Зомби лошадь на палке": "zombie_hobbyhorse"
+    }
+  }
+}

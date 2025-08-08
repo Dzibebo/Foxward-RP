@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "item/leather_horse_armor/sign_glyph_template",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -6265536
+      }
+    ]
+  }
+}

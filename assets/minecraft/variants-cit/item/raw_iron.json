@@ -1,0 +1,13 @@
+{
+  "type": "custom_name",
+  "items": ["minecraft:raw_iron", "minecraft:stick"],
+  "modelPrefix": "item/raw_iron/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Лупа": "magnifying_glass",
+      "лупа": "magnifying_glass"
+    }
+  }
+}

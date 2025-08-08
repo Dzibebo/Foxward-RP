@@ -1,0 +1,6 @@
+{
+  "parent": "item/paper/kartu",
+  "textures": {
+    "1": "item/paper/4hearts"
+  }
+}

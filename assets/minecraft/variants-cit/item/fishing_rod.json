@@ -1,0 +1,35 @@
+{
+  "type": "custom_name",
+  "items": "minecraft:fishing_rod",
+  "modelPrefix": "item/fishing_rod/",
+  "modelParent": "minecraft:item/fishing_rod",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "аметистовая удочка": "amethyst_fishing_rod",
+      "угольная удочка": "coal_fishing_rod",
+      "медная удочка": "copper_fishing_rod",
+      "алмазная удочка": "diamond_fishing_rod",
+      "изумрудная удочка": "emerald_fishing_rod",
+      "золотая удочка": "golden_fishing_rod",
+      "железная удочка": "iron_fishing_rod",
+      "лазуритовая удочка": "lapis_lazuli_fishing_rod",
+      "лассо": "lasso",
+      "незеритовая удочка": "netherite_fishing_rod",
+      "кварцевая удочка": "quartz_fishing_rod",
+      "редстоуновая удочка": "redstone_fishing_rod",
+      "Аметистовая удочка": "amethyst_fishing_rod",
+      "Угольная удочка": "coal_fishing_rod",
+      "Медная удочка": "copper_fishing_rod",
+      "Алмазная удочка": "diamond_fishing_rod",
+      "Изумрудная удочка": "emerald_fishing_rod",
+      "Золотая удочка": "golden_fishing_rod",
+      "Железная удочка": "iron_fishing_rod",
+      "Лазуритовая удочка": "lapis_lazuli_fishing_rod",
+      "Лассо": "lasso",
+      "Незеритовая удочка": "netherite_fishing_rod",
+      "Кварцевая удочка": "quartz_fishing_rod",
+      "Редстоуновая удочка": "redstone_fishing_rod"
+    }
+  }
+}

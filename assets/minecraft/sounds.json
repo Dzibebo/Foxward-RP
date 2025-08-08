@@ -1,0 +1,44 @@
+{
+	"msonuds.restartept": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "restart/sound1",
+				"stream": true
+			},
+			{
+				"name": "restart/sound2",
+				"stream": true
+			},
+			{
+				"name": "restart/sound3",
+				"stream": true
+			},
+			{
+				"name": "restart/sound4",
+				"stream": true
+			},
+			{
+				"name": "restart/sound5",
+				"stream": true
+			},
+			{
+				"name": "restart/sound6",
+				"stream": true
+			},
+			{
+				"name": "restart/sound7",
+				"stream": true
+			}
+		]
+	},
+	"msonuds.seagull_event": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "event/seagull",
+				"stream": true
+			}
+		]
+	}
+}

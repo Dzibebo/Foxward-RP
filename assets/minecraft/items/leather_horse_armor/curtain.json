@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "item/leather_horse_armor/curtain",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -6265536
+      }
+    ]
+  }
+}

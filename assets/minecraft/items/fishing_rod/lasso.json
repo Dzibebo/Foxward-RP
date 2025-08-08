@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "item/fishing_rod/lasso"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "item/fishing_rodpull/lasso_cast"
+    },
+    "property": "minecraft:fishing_rod/cast"
+  }
+}

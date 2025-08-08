@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "item/leather_horse_armor/cage_sign_glyph",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -6265536
+      }
+    ]
+  }
+}

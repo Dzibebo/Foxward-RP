@@ -1,0 +1,19 @@
+{
+  "type": "custom_name",
+  "items": ["minecraft:firework_rocket", "wind_charge"],
+  "modelPrefix": "item/firework_rocket/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Бомба": "bomb",
+      "Хлопушка": "firecrecker",
+      "Горючее": "gasoline",
+      "Ракета": "rocket",
+      "бомба": "bomb",
+      "хлопушка": "firecrecker",
+      "горючее": "gasoline",
+      "ракета": "rocket"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 55,
+    "description": "§dᴄдᴇлᴀʜᴏ для игᴘᴏᴋᴏʙ ꜰᴏxᴡᴀʀᴅ           §8ᴠᴇʀꜱɪᴏɴ: 3.4",
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 999
+    }
+  }
+}

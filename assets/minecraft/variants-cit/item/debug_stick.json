@@ -1,0 +1,13 @@
+{
+  "type": "custom_name",
+  "items": ["minecraft:debug_stick", "minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:iron_pickaxe", "minecraft:golden_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe"],
+  "modelPrefix": "item/debug_stick/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "nbtPath": ".display.Name",
+    "specialNames": {
+      "Разводной ключ": "pipewrench",
+      "разводной ключ": "pipewrench"
+    }
+  }
+}

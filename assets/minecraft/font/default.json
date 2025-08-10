@@ -615,6 +615,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0A07"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/merlin.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u0636"]
 		}
 	]
 }

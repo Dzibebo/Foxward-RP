@@ -588,21 +588,21 @@
 			"height": 9,
 			"chars": ["\u1B46"]
 		},
-	        {
+        {
 			"type": "bitmap",
 			"file": "minecraft:gui/foxicons/tabskit/dark_king.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u0A05"]
 		},
-	        {
+        {
 			"type": "bitmap",
 			"file": "minecraft:gui/foxicons/purchase/rub1kub.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA8A9"]
 		},
-	        {
+        {
 			"type": "bitmap",
 			"file": "minecraft:gui/foxicons/purchase/capybara_ovatarich.png",
 			"ascent": 7,
@@ -618,7 +618,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/foxicons/purchase/merlin.png",
+			"file": "minecraft:gui/foxicons/purchase/merelin.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u07F8"]

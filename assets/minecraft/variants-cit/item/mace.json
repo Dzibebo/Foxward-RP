@@ -1,37 +1,90 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:mace",
   "modelPrefix": "item/mace/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "аметистовая булава": "amethyst_mace",
-      "угольная булава": "coal_mace",
-      "медная булава": "copper_mace",
-      "алмазная булава": "diamond_mace",
-      "изумрудная булава": "emerald_mace",
-      "золотая булава": "golden_mace",
-      "железная булава": "iron_mace",
-      "лазуритовая булава": "lapis_lazuli_mace",
-      "незеритовая булава": "netherite_mace",
-      "кварцевая булава": "quartz_mace",
-      "редстоуновая булава": "redstone_mace",
-      "Аметистовая булава": "amethyst_mace",
-      "Угольная булава": "coal_mace",
-      "Медная булава": "copper_mace",
-      "Алмазная булава": "diamond_mace",
-      "Изумрудная булава": "emerald_mace",
-      "Золотая булава": "golden_mace",
-      "Железная булава": "iron_mace",
-      "Лазуритовая булава": "lapis_lazuli_mace",
-      "Незеритовая булава": "netherite_mace",
-      "Кварцевая булава": "quartz_mace",
-      "Редстоуновая булава": "redstone_mace",
-	  "Булава 3D":"3d_mace_by_pablossska",
-	  "булава 3D":"3d_mace_by_pablossska",
-	  "Молот судьи": "molot",
-	  "молот судьи": "molot"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)аметистовая булава",
+        "substitution": "amethyst_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольная булава",
+        "substitution": "coal_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медная булава",
+        "substitution": "copper_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алмазная булава",
+        "substitution": "diamond_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)изумрудная булава",
+        "substitution": "emerald_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотая булава",
+        "substitution": "golden_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железная булава",
+        "substitution": "iron_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазуритовая булава",
+        "substitution": "lapis_lazuli_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовая булава",
+        "substitution": "netherite_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кварцевая булава",
+        "substitution": "quartz_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редстоуновая булава",
+        "substitution": "redstone_mace",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)булава 3d",
+        "substitution": "3d_mace_by_pablossska",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)молот судьи",
+        "substitution": "molot",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

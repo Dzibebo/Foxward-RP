@@ -1,15 +1,27 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:ominous_trial_key", "minecraft:trial_key"],
+  "type": "component_data",
+  "items": [
+    "minecraft:ominous_trial_key",
+    "minecraft:trial_key"
+  ],
   "modelPrefix": "item/trial_key/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "Ключ испытаний 3D": "key",
-      "ключ испытаний 3D": "key",
-      "Зловещий ключ испытаний 3D": "ominous_key",
-      "зловещий ключ испытаний 3D": "ominous_key"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)ключ испытаний 3d",
+        "substitution": "key",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зловещий ключ испытаний 3d",
+        "substitution": "ominous_key",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

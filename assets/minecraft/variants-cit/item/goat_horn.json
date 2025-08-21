@@ -1,17 +1,30 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:goat_horn",
   "modelPrefix": "item/goat_horn/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "Поддержка батальона": "battalion_backup",
-      "Фанфара": "fanfare",
-      "Мегафон": "megaphone",
-      "поддержка батальона": "battalion_backup",
-      "фанфара": "fanfare",
-      "мегафон": "megaphone"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)поддержка батальона",
+        "substitution": "battalion_backup",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фанфара",
+        "substitution": "fanfare",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мегафон",
+        "substitution": "megaphone",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

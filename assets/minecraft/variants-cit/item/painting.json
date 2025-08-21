@@ -1,43 +1,108 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:painting",
   "modelPrefix": "item/painting/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "братья": "brothers",
-      "карл Маркс": "carl_marx",
-      "настенный ковёр": "carpet",
-      "фюрер": "hitler",
-      "владимир Ленин": "lenin",
-      "вождь Октября": "megalenin",
-      "владимир Ленин 1x1": "minilenin",
-      "наполеон": "napoleonpaint",
-      "поле": "pole",
-      "революция": "revolut",
-      "иосиф Сталин": "stalin",
-      "троцкий, Ленин и Дзержинский": "tld",
-      "лев Троцкий": "trozkiy",
-      "плакат Ты!": "tzd",
-      "плакат Жители наш оплот!": "vod",
-      "сталин и Ворошилов": "walk",
-      "Братья": "brothers",
-      "Карл Маркс": "carl_marx",
-      "Настенный ковёр": "carpet",
-      "Фюрер": "hitler",
-      "Владимир Ленин": "lenin",
-      "Вождь Октября": "megalenin",
-      "Владимир Ленин 1x1": "minilenin",
-      "Наполеон": "napoleonpaint",
-      "Поле": "pole",
-      "Революция": "revolut",
-      "Иосиф Сталин": "stalin",
-      "Троцкий, Ленин и Дзержинский": "tld",
-      "Лев Троцкий": "trozkiy",
-      "Плакат Ты!": "tzd",
-      "Плакат Жители наш оплот!": "vod",
-      "Сталин и Ворошилов": "walk"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)братья",
+        "substitution": "brothers",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)карл маркс",
+        "substitution": "carl_marx",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный ковёр",
+        "substitution": "carpet",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фюрер",
+        "substitution": "hitler",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)владимир ленин",
+        "substitution": "lenin",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вождь октября",
+        "substitution": "megalenin",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)владимир ленин 1x1",
+        "substitution": "minilenin",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наполеон",
+        "substitution": "napoleonpaint",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)поле",
+        "substitution": "pole",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)революция",
+        "substitution": "revolut",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)иосиф сталин",
+        "substitution": "stalin",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)троцкий, ленин и дзержинский",
+        "substitution": "tld",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лев троцкий",
+        "substitution": "trozkiy",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плакат ты!",
+        "substitution": "tzd",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плакат жители наш оплот!",
+        "substitution": "vod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сталин и ворошилов",
+        "substitution": "walk",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

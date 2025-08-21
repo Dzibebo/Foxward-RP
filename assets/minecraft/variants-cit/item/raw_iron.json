@@ -1,13 +1,21 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:raw_iron", "minecraft:stick"],
+  "type": "component_data",
+  "items": [
+    "minecraft:raw_iron",
+    "minecraft:stick"
+  ],
   "modelPrefix": "item/raw_iron/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "Лупа": "magnifying_glass",
-      "лупа": "magnifying_glass"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)лупа",
+        "substitution": "magnifying_glass",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

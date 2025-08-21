@@ -1,13 +1,36 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:candle", "minecraft:white_candle", "minecraft:light_gray_candle", "minecraft:gray_candle", "minecraft:black_candle", "minecraft:brown_candle", "minecraft:red_candle", "minecraft:orange_candle", "minecraft:yellow_candle", "minecraft:lime_candle", "minecraft:green_candle", "minecraft:cyan_candle", "minecraft:light_blue_candle", "minecraft:blue_candle", "minecraft:purple_candle", "minecraft:magenta_candle", "minecraft:pink_candle"],
+  "type": "component_data",
+  "items": [
+    "minecraft:candle",
+    "minecraft:white_candle",
+    "minecraft:orange_candle",
+    "minecraft:magenta_candle",
+    "minecraft:light_blue_candle",
+    "minecraft:yellow_candle",
+    "minecraft:lime_candle",
+    "minecraft:pink_candle",
+    "minecraft:gray_candle",
+    "minecraft:light_gray_candle",
+    "minecraft:cyan_candle",
+    "minecraft:purple_candle",
+    "minecraft:blue_candle",
+    "minecraft:brown_candle",
+    "minecraft:green_candle",
+    "minecraft:red_candle",
+    "minecraft:black_candle"
+  ],
   "modelPrefix": "item/candle/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "Корсар": "firecracker",
-      "корсар": "firecracker"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)корсар",
+        "substitution": "firecracker",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

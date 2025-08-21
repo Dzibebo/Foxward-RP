@@ -1,13 +1,18 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:snowball",
   "modelPrefix": "item/snowball/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "Камень": "stone",
-      "камень": "stone"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)камень",
+        "substitution": "stone",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

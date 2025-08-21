@@ -1,33 +1,82 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:arrow", "minecraft:spectral_arrow", "minecraft:tipped_arrow"],
+  "type": "component_data",
+  "items": [
+    "minecraft:arrow",
+    "minecraft:spectral_arrow",
+    "minecraft:tipped_arrow"
+  ],
   "modelPrefix": "item/arrow/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "стальной снаряд и светопыль": "bullet_and_glowstone_dust",
-      "стальной снаряд и порох": "bullet_and_gunpowder",
-      "патрон": "cartridge",
-      "топливо для огнемёта": "flamethrower_fuel",
-      "ядерная батарея": "fusion_cell",
-      "гвоздь": "nail",
-      "гранатомётный снаряд": "pipe_grenade",
-      "винтовочный патрон": "rifle_cartridge",
-      "соль": "salt",
-      "дробовой патрон": "shotgun_shell",
-      "межпространственный разлом": "universal_clash",
-      "Стальной снаряд и светопыль": "bullet_and_glowstone_dust",
-      "Стальной снаряд и порох": "bullet_and_gunpowder",
-      "Патрон": "cartridge",
-      "Топливо для огнемёта": "flamethrower_fuel",
-      "Ядерная батарея": "fusion_cell",
-      "Гвоздь": "nail",
-      "Гранатомётный снаряд": "pipe_grenade",
-      "Винтовочный патрон": "rifle_cartridge",
-      "Соль": "salt",
-      "Дробовой патрон": "shotgun_shell",
-      "Межпространственный разлом": "universal_clash"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)стальной снаряд и светопыль",
+        "substitution": "bullet_and_glowstone_dust",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стальной снаряд и порох",
+        "substitution": "bullet_and_gunpowder",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)патрон",
+        "substitution": "cartridge",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)топливо для огнемёта",
+        "substitution": "flamethrower_fuel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ядерная батарея",
+        "substitution": "fusion_cell",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гвоздь",
+        "substitution": "nail",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гранатомётный снаряд",
+        "substitution": "pipe_grenade",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)винтовочный патрон",
+        "substitution": "rifle_cartridge",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)соль",
+        "substitution": "salt",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дробовой патрон",
+        "substitution": "shotgun_shell",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)межпространственный разлом",
+        "substitution": "universal_clash",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

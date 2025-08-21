@@ -1,43 +1,132 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:totem_of_undying",
   "modelPrefix": "item/totem_of_undying/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-	  "Живой тотем": "live_totem",
-	  "Тёмный живой тотем": "live_totem_dark",
-	  "Серебрянный живой тотем": "live_totem_silver",
-	  "Еловый живой тотем": "live_totem_spruce",
-	  "живой тотем": "live_totem",
-	  "тёмный живой тотем": "live_totem_dark",
-	  "серебрянный живой тотем": "live_totem_silver",
-	  "еловый живой тотем": "live_totem_spruce",
-	  "sfefs голи": "sfefses",
-	  "Маква":"makwa",
-	  "маква":"makwa",
-	  "Файт не удафся":"ralfi",
-	  "Файт не удафся1":"lizard87",
-	  "Файт не удафся2":"coramin",
-	  "Сайт не удался":"ralfi",
-	  "Сайт не удался1":"lizard87",
-	  "Сайт не удался2":"coramin",
-	  "Шайт не удауся":"ralfi",
-	  "Какащке мольвине":"molvbin_gey",
-	  "какащке мольвине":"molvbin_gey",
-	  "Нейтралка":"ne1tralka",
-	  "нейтралка":"ne1tralka",
-	  "Нейтрал гоп стоп":"ne1tral_gop_stop",
-	  "нейтрал гоп стоп":"ne1tral_gop_stop",
-	  "Нейтралка в купальнике":"ne1tralka_kupalnik",
-      "нейтралка в купальнике":"ne1tralka_kupalnik",
-	  "Нейтрал нью":"ne1tral_new",
-	  "нейтрал нью":"ne1tral_new",
-	  "Нейтрал oффицант":"ne1tral_officant",
-	  "нейтрал oффицант":"ne1tral_officant",
-	  "Нейтрал депутат":"ne1tral_deputat",
-	  "нейтрал депутат":"ne1tral_deputat"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)живой тотем",
+        "substitution": "live_totem",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тёмный живой тотем",
+        "substitution": "live_totem_dark",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)серебрянный живой тотем",
+        "substitution": "live_totem_silver",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)еловый живой тотем",
+        "substitution": "live_totem_spruce",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)sfefs голи",
+        "substitution": "sfefses",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)маква",
+        "substitution": "makwa",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)файт не удафся",
+        "substitution": "ralfi",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)файт не удафся1",
+        "substitution": "lizard87",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)файт не удафся2",
+        "substitution": "coramin",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сайт не удался",
+        "substitution": "ralfi",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сайт не удался1",
+        "substitution": "lizard87",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сайт не удался2",
+        "substitution": "coramin",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шайт не удауся",
+        "substitution": "ralfi",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)какащке мольвине",
+        "substitution": "molvbin_gey",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нейтралка",
+        "substitution": "ne1tralka",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нейтрал гоп стоп",
+        "substitution": "ne1tral_gop_stop",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нейтралка в купальнике",
+        "substitution": "ne1tralka_kupalnik",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нейтрал нью",
+        "substitution": "ne1tral_new",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нейтрал oффицант",
+        "substitution": "ne1tral_officant",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нейтрал депутат",
+        "substitution": "ne1tral_deputat",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

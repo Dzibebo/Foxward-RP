@@ -1,111 +1,312 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:leather_horse_armor",
   "modelPrefix": "item/leather_horse_armor/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "кресло": "armchair",
-      "символ брони на табличке": "armor_sign_glyph",
-      "навес": "awning",
-      "пляжный зонт": "beach_umbrella",
-      "жалюзи": "blinds",
-      "нательный барабан": "body_drum",
-      "нательный барабан на левое плечо": "body_drum_left_hand",
-      "символ лука на табличке": "bow_arrow_sign_glyph",
-      "символ клетки на табличке": "cage_sign_glyph",
-      "бабушкино кресло": "checker_chair",
-      "символ креста на табличке": "cross_sign_glyph",
-      "шторы": "curtain",
-      "левый край дивана из тёмного дуба": "dark_oak_couch_left",
-      "середина дивана из тёмного дуба": "dark_oak_couch_middle",
-      "правый край дивана из тёмного дуба": "dark_oak_couch_right",
-      "символ алмаза на табличке": "diamond_sign_glyph",
-      "символ стрелки вниз на табличке": "down_arrow_sign_glyph",
-      "ударная установка": "drum_set",
-      "Электрогитара": "electric_guitar",
-      "символ удочки на табличке": "fishing_rod_sign_glyph",
-      "флагшток": "flagpole",
-      "символ молота на табличке": "hammer_sign_glyph",
-      "символ шляпы на табличке": "hat_sign_glyph",
-      "символ сердца на табличке": "heart_sign_glyph",
-      "высокие жалюзи": "high_blinds",
-      "высокие шторы": "high_curtain",
-      "символ стрелки влево на табличке": "left_arrow_sign_glyph",
-      "левая часть штор": "left_side_curtain",
-      "левая часть высоких штор": "left_side_high_curtain",
-      "символ линии на табличке": "line_sign_glyph",
-      "шезлонг": "lounger",
-      "лежак": "lounge_chair",
-      "символ решётки на табличке": "number_sign_glyph",
-      "левый край дубового дивана": "oak_couch_left",
-      "середина дубового дивана": "oak_couch_middle",
-      "правый край дубового дивана": "oak_couch_right",
-      "символ кирки на табличке": "pickaxe_sign_glyph",
-      "символ зелья на табличке": "potion_sign_glyph",
-      "пуф": "pouf",
-      "символ стрелки вправо на табличке": "right_arrow_sign_glyph",
-      "правая часть штор": "right_side_curtain",
-      "правая часть высоких штор": "right_side_high_curtain",
-      "свёрнутый окрашенный зонт": "rolled_up_stained_umbrella",
-      "символ черепа на табличке": "skull_sign_glyph",
-      "окрашенный зонт в полоску": "stained_striped_umbrella",
-      "окрашенный зонт": "stained_umbrella",
-      "символ меча на табличке": "sword_sign_glyph",
-      "символ таблицы на табличке": "table_sign_glyph",
-      "вешалка для полотенца": "towel_rack",
-      "символ стрелки вверх на табличке": "up_arrow_sign_glyph",
-      "Кресло": "armchair",
-      "Символ брони на табличке": "armor_sign_glyph",
-      "Навес": "awning",
-      "Пляжный зонт": "beach_umbrella",
-      "Жалюзи": "blinds",
-      "Нательный барабан": "body_drum",
-      "Нательный барабан на левое плечо": "body_drum_left_hand",
-      "Символ лука на табличке": "bow_arrow_sign_glyph",
-      "Символ клетки на табличке": "cage_sign_glyph",
-      "Бабушкино кресло": "checker_chair",
-      "Символ креста на табличке": "cross_sign_glyph",
-      "Шторы": "curtain",
-      "Левый край дивана из тёмного дуба": "dark_oak_couch_left",
-      "Середина дивана из тёмного дуба": "dark_oak_couch_middle",
-      "Правый край дивана из тёмного дуба": "dark_oak_couch_right",
-      "Символ алмаза на табличке": "diamond_sign_glyph",
-      "Символ стрелки вниз на табличке": "down_arrow_sign_glyph",
-      "Ударная установка": "drum_set",
-      "электрогитара": "electric_guitar",
-      "Символ удочки на табличке": "fishing_rod_sign_glyph",
-      "Флагшток": "flagpole",
-      "Символ молота на табличке": "hammer_sign_glyph",
-      "Символ шляпы на табличке": "hat_sign_glyph",
-      "Символ сердца на табличке": "heart_sign_glyph",
-      "Высокие жалюзи": "high_blinds",
-      "Высокие шторы": "high_curtain",
-      "Символ стрелки влево на табличке": "left_arrow_sign_glyph",
-      "Левая часть штор": "left_side_curtain",
-      "Левая часть высоких штор": "left_side_high_curtain",
-      "Символ линии на табличке": "line_sign_glyph",
-      "Шезлонг": "lounger",
-      "Лежак": "lounge_chair",
-      "Символ решётки на табличке": "number_sign_glyph",
-      "Левый край дубового дивана": "oak_couch_left",
-      "Середина дубового дивана": "oak_couch_middle",
-      "Правый край дубового дивана": "oak_couch_right",
-      "Символ кирки на табличке": "pickaxe_sign_glyph",
-      "Символ зелья на табличке": "potion_sign_glyph",
-      "Пуф": "pouf",
-      "Символ стрелки вправо на табличке": "right_arrow_sign_glyph",
-      "Правая часть штор": "right_side_curtain",
-      "Правая часть высоких штор": "right_side_high_curtain",
-      "Свёрнутый окрашенный зонт": "rolled_up_stained_umbrella",
-      "Символ черепа на табличке": "skull_sign_glyph",
-      "Окрашенный зонт в полоску": "stained_striped_umbrella",
-      "Окрашенный зонт": "stained_umbrella",
-      "Символ меча на табличке": "sword_sign_glyph",
-      "Символ таблицы на табличке": "table_sign_glyph",
-      "Вешалка для полотенца": "towel_rack",
-      "Символ стрелки вверх на табличке": "up_arrow_sign_glyph"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)кресло",
+        "substitution": "armchair",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ брони на табличке",
+        "substitution": "armor_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навес",
+        "substitution": "awning",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пляжный зонт",
+        "substitution": "beach_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)жалюзи",
+        "substitution": "blinds",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нательный барабан",
+        "substitution": "body_drum",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нательный барабан на левое плечо",
+        "substitution": "body_drum_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ лука на табличке",
+        "substitution": "bow_arrow_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ клетки на табличке",
+        "substitution": "cage_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бабушкино кресло",
+        "substitution": "checker_chair",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ креста на табличке",
+        "substitution": "cross_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шторы",
+        "substitution": "curtain",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левый край дивана из тёмного дуба",
+        "substitution": "dark_oak_couch_left",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)середина дивана из тёмного дуба",
+        "substitution": "dark_oak_couch_middle",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правый край дивана из тёмного дуба",
+        "substitution": "dark_oak_couch_right",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ алмаза на табличке",
+        "substitution": "diamond_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки вниз на табличке",
+        "substitution": "down_arrow_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ударная установка",
+        "substitution": "drum_set",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)электрогитара",
+        "substitution": "electric_guitar",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ удочки на табличке",
+        "substitution": "fishing_rod_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)флагшток",
+        "substitution": "flagpole",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ молота на табличке",
+        "substitution": "hammer_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ шляпы на табличке",
+        "substitution": "hat_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ сердца на табличке",
+        "substitution": "heart_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)высокие жалюзи",
+        "substitution": "high_blinds",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)высокие шторы",
+        "substitution": "high_curtain",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки влево на табличке",
+        "substitution": "left_arrow_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левая часть штор",
+        "substitution": "left_side_curtain",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левая часть высоких штор",
+        "substitution": "left_side_high_curtain",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ линии на табличке",
+        "substitution": "line_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шезлонг",
+        "substitution": "lounger",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лежак",
+        "substitution": "lounge_chair",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ решётки на табличке",
+        "substitution": "number_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левый край дубового дивана",
+        "substitution": "oak_couch_left",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)середина дубового дивана",
+        "substitution": "oak_couch_middle",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правый край дубового дивана",
+        "substitution": "oak_couch_right",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ кирки на табличке",
+        "substitution": "pickaxe_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ зелья на табличке",
+        "substitution": "potion_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пуф",
+        "substitution": "pouf",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки вправо на табличке",
+        "substitution": "right_arrow_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правая часть штор",
+        "substitution": "right_side_curtain",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правая часть высоких штор",
+        "substitution": "right_side_high_curtain",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)свёрнутый окрашенный зонт",
+        "substitution": "rolled_up_stained_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ черепа на табличке",
+        "substitution": "skull_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)окрашенный зонт в полоску",
+        "substitution": "stained_striped_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)окрашенный зонт",
+        "substitution": "stained_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ меча на табличке",
+        "substitution": "sword_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ таблицы на табличке",
+        "substitution": "table_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вешалка для полотенца",
+        "substitution": "towel_rack",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки вверх на табличке",
+        "substitution": "up_arrow_sign_glyph",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

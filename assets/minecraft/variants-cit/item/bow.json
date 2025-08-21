@@ -1,139 +1,396 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:bow",
   "modelPrefix": "item/bow/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "аметистовый лук": "amethyst_bow",
-      "угольный лук": "coal_bow",
-      "медный лук": "copper_bow",
-      "алмазный лук": "diamond_bow",
-      "изумрудный лук": "emerald_bow",
-      "золотой лук": "golden_bow",
-      "железный лук": "iron_bow",
-      "лазуритовый лук": "lapis_lazuli_bow",
-      "незеритовый лук": "netherite_bow",
-      "кварцевый лук": "quartz_bow",
-      "редстоуновый лук": "redstone_bow",
-      "Аметистовый лук": "amethyst_bow",
-      "Угольный лук": "coal_bow",
-      "Медный лук": "copper_bow",
-      "Алмазный лук": "diamond_bow",
-      "Изумрудный лук": "emerald_bow",
-      "Золотой лук": "golden_bow",
-      "Железный лук": "iron_bow",
-      "Лазуритовый лук": "lapis_lazuli_bow",
-      "Незеритовый лук": "netherite_bow",
-      "Кварцевый лук": "quartz_bow",
-      "Редстоуновый лук": "redstone_bow",
-      "импульсная винтовка": "76gunn",
-      "аК-47": "ak",
-      "аК-74": "ak74",
-      "кровопийца": "bloods",
-      "кольт M1911": "colt",
-      "пустынный орёл": "deagle",
-      "дрель": "drel",
-      "квантовый Дестабилизатор": "exp",
-      "famas": "famas",
-      "дожигатель": "flamethr",
-      "огнемёт": "flamethrower",
-      "кремневый пистолет": "flint_pistol",
-      "гаусс пушка": "gauss_gun",
-      "гравитационная пушка": "gravity_gun",
-      "серый Маузер": "gray_mouser",
-      "гвоздомёт": "gvozd",
-      "лазерный пистолет": "laser_pistol",
-      "пулемёт Льюиса": "lewis",
-      "люгер": "luger",
-      "m16": "m16",
-      "mAC-10": "mac10",
-      "пистолет Макарова": "mac_scout_pistol",
-      "магнитный пистолет": "magnet_pistol",
-      "малориан": "malorian",
-      "маузер": "mauser",
-      "мега-Акула": "megashark",
-      "пулемёт": "minigun",
-      "m1A1": "moneaona",
-      "миротворец": "monenineoseven",
-      "mP-18": "mp18",
-      "mP-40": "mp40",
-      "передоз": "overdose",
-      "карманный пистолет": "pbpp",
-      "портальная пушка": "portal_gun_off",
-      "пПШ-41": "pps",
-      "быстромёт": "quick",
-      "алая роза": "rose_wand",
-      "пистолет": "scout_pistol",
-      "пулемёт Шоша": "shausha",
-      "короткое замыкание": "short_circuit",
-      "mAT-49": "smg",
-      "sTEN с глушителем": "sten_gluh2",
-      "sTEN": "sten_pr",
-      "липучкомёт": "stickybomb_launcher",
-      "шприцемёт": "syr",
-      "тактический люгер": "tact_luger",
-      "tEC-9": "tec_9",
-      "томпсон": "tommy",
-      "пистолет с глушителем": "usp",
-      "волшебная палочка из кварца": "wand_3",
-      "волшебная палочка из кианита": "wand_7",
-      "палочка из кости гиппогрифа": "wand_9",
-      "wX18": "wx18n",
-      "Импульсная винтовка": "76gunn",
-      "АК-47": "ak",
-      "АК-74": "ak74",
-      "Кровопийца": "bloods",
-      "Кольт M1911": "colt",
-      "Пустынный орёл": "deagle",
-      "Дрель": "drel",
-      "Квантовый Дестабилизатор": "exp",
-      "Famas": "famas",
-      "Дожигатель": "flamethr",
-      "Огнемёт": "flamethrower",
-      "Кремневый пистолет": "flint_pistol",
-      "Гаусс пушка": "gauss_gun",
-      "Гравитационная пушка": "gravity_gun",
-      "Серый Маузер": "gray_mouser",
-      "Гвоздомёт": "gvozd",
-      "Лазерный пистолет": "laser_pistol",
-      "Пулемёт Льюиса": "lewis",
-      "Люгер": "luger",
-      "M16": "m16",
-      "MAC-10": "mac10",
-      "Пистолет Макарова": "mac_scout_pistol",
-      "Магнитный пистолет": "magnet_pistol",
-      "Малориан": "malorian",
-      "Маузер": "mauser",
-      "Мега-Акула": "megashark",
-      "Пулемёт": "minigun",
-      "M1A1": "moneaona",
-      "Миротворец": "monenineoseven",
-      "MP-18": "mp18",
-      "MP-40": "mp40",
-      "Передоз": "overdose",
-      "Карманный пистолет": "pbpp",
-      "Портальная пушка": "portal_gun_off",
-      "ППШ-41": "pps",
-      "Быстромёт": "quick",
-      "Алая роза": "rose_wand",
-      "Пистолет": "scout_pistol",
-      "Пулемёт Шоша": "shausha",
-      "Короткое замыкание": "short_circuit",
-      "MAT-49": "smg",
-      "STEN с глушителем": "sten_gluh2",
-      "STEN": "sten_pr",
-      "Липучкомёт": "stickybomb_launcher",
-      "Шприцемёт": "syr",
-      "Тактический люгер": "tact_luger",
-      "TEC-9": "tec_9",
-      "Томпсон": "tommy",
-      "Пистолет с глушителем": "usp",
-      "Волшебная палочка из кварца": "wand_3",
-      "Волшебная палочка из кианита": "wand_7",
-      "Палочка из кости гиппогрифа": "wand_9",
-      "WX18": "wx18n"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)аметистовый лук",
+        "substitution": "amethyst_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольный лук",
+        "substitution": "coal_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медный лук",
+        "substitution": "copper_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алмазный лук",
+        "substitution": "diamond_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)изумрудный лук",
+        "substitution": "emerald_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотой лук",
+        "substitution": "golden_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный лук",
+        "substitution": "iron_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазуритовый лук",
+        "substitution": "lapis_lazuli_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовый лук",
+        "substitution": "netherite_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кварцевый лук",
+        "substitution": "quartz_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редстоуновый лук",
+        "substitution": "redstone_bow",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)импульсная винтовка",
+        "substitution": "76gunn",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ак-47",
+        "substitution": "ak",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ак-74",
+        "substitution": "ak74",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кровопийца",
+        "substitution": "bloods",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кольт m1911",
+        "substitution": "colt",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пустынный орёл",
+        "substitution": "deagle",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дрель",
+        "substitution": "drel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)квантовый дестабилизатор",
+        "substitution": "exp",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)famas",
+        "substitution": "famas",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дожигатель",
+        "substitution": "flamethr",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)огнемёт",
+        "substitution": "flamethrower",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кремневый пистолет",
+        "substitution": "flint_pistol",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гаусс пушка",
+        "substitution": "gauss_gun",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гравитационная пушка",
+        "substitution": "gravity_gun",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)серый маузер",
+        "substitution": "gray_mouser",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гвоздомёт",
+        "substitution": "gvozd",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазерный пистолет",
+        "substitution": "laser_pistol",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пулемёт льюиса",
+        "substitution": "lewis",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)люгер",
+        "substitution": "luger",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)m16",
+        "substitution": "m16",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)mac-10",
+        "substitution": "mac10",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пистолет макарова",
+        "substitution": "mac_scout_pistol",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)магнитный пистолет",
+        "substitution": "magnet_pistol",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)малориан",
+        "substitution": "malorian",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)маузер",
+        "substitution": "mauser",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мега-акула",
+        "substitution": "megashark",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пулемёт",
+        "substitution": "minigun",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)m1a1",
+        "substitution": "moneaona",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)миротворец",
+        "substitution": "monenineoseven",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)mp-18",
+        "substitution": "mp18",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)mp-40",
+        "substitution": "mp40",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)передоз",
+        "substitution": "overdose",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)карманный пистолет",
+        "substitution": "pbpp",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)портальная пушка",
+        "substitution": "portal_gun_off",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ппш-41",
+        "substitution": "pps",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)быстромёт",
+        "substitution": "quick",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алая роза",
+        "substitution": "rose_wand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пистолет",
+        "substitution": "scout_pistol",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пулемёт шоша",
+        "substitution": "shausha",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)короткое замыкание",
+        "substitution": "short_circuit",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)mat-49",
+        "substitution": "smg",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)sten с глушителем",
+        "substitution": "sten_gluh2",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)sten",
+        "substitution": "sten_pr",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)липучкомёт",
+        "substitution": "stickybomb_launcher",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шприцемёт",
+        "substitution": "syr",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тактический люгер",
+        "substitution": "tact_luger",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)tec-9",
+        "substitution": "tec_9",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)томпсон",
+        "substitution": "tommy",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пистолет с глушителем",
+        "substitution": "usp",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)волшебная палочка из кварца",
+        "substitution": "wand_3",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)волшебная палочка из кианита",
+        "substitution": "wand_7",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)палочка из кости гиппогрифа",
+        "substitution": "wand_9",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?i)wx18",
+        "substitution": "wx18n",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

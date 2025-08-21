@@ -1,35 +1,84 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:fishing_rod",
   "modelPrefix": "item/fishing_rod/",
   "modelParent": "minecraft:item/fishing_rod",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "аметистовая удочка": "amethyst_fishing_rod",
-      "угольная удочка": "coal_fishing_rod",
-      "медная удочка": "copper_fishing_rod",
-      "алмазная удочка": "diamond_fishing_rod",
-      "изумрудная удочка": "emerald_fishing_rod",
-      "золотая удочка": "golden_fishing_rod",
-      "железная удочка": "iron_fishing_rod",
-      "лазуритовая удочка": "lapis_lazuli_fishing_rod",
-      "лассо": "lasso",
-      "незеритовая удочка": "netherite_fishing_rod",
-      "кварцевая удочка": "quartz_fishing_rod",
-      "редстоуновая удочка": "redstone_fishing_rod",
-      "Аметистовая удочка": "amethyst_fishing_rod",
-      "Угольная удочка": "coal_fishing_rod",
-      "Медная удочка": "copper_fishing_rod",
-      "Алмазная удочка": "diamond_fishing_rod",
-      "Изумрудная удочка": "emerald_fishing_rod",
-      "Золотая удочка": "golden_fishing_rod",
-      "Железная удочка": "iron_fishing_rod",
-      "Лазуритовая удочка": "lapis_lazuli_fishing_rod",
-      "Лассо": "lasso",
-      "Незеритовая удочка": "netherite_fishing_rod",
-      "Кварцевая удочка": "quartz_fishing_rod",
-      "Редстоуновая удочка": "redstone_fishing_rod"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)аметистовая удочка",
+        "substitution": "amethyst_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольная удочка",
+        "substitution": "coal_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медная удочка",
+        "substitution": "copper_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алмазная удочка",
+        "substitution": "diamond_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)изумрудная удочка",
+        "substitution": "emerald_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотая удочка",
+        "substitution": "golden_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железная удочка",
+        "substitution": "iron_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазуритовая удочка",
+        "substitution": "lapis_lazuli_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лассо",
+        "substitution": "lasso",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовая удочка",
+        "substitution": "netherite_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кварцевая удочка",
+        "substitution": "quartz_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редстоуновая удочка",
+        "substitution": "redstone_fishing_rod",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

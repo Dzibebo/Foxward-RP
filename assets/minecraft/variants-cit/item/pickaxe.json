@@ -1,95 +1,271 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:iron_pickaxe", "minecraft:golden_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe"],
+  "type": "component_data",
+  "items": [
+    "minecraft:wooden_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:iron_pickaxe",
+    "minecraft:golden_pickaxe",
+    "minecraft:diamond_pickaxe",
+    "minecraft:netherite_pickaxe"
+  ],
   "modelPrefix": "item/pickaxe/",
   "modelParent": "minecraft:item/handheld",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "аметистовая кирка": "amethyst_pickaxe",
-      "якорь": "anchor",
-      "тунелерой": "big_dig",
-      "костяная кирка": "bone_pickaxe",
-      "сырнолунная кирка": "cheese_pickaxe",
-      "стамеска": "chisel",
-      "угольная кирка": "coal_pickaxe",
-      "строительный молоток": "construction_hammer",
-      "медный якорь": "cooper_anchor",
-      "большая кирка": "iron_big_pickaxe",
-      "бур": "2xhand_drill",
-      "изумрудная кирка": "emerald_pickaxe",
-      "инкрустированный якорь": "encrusted_anchor",
-      "шанцевый инструмент": "entrenching_tool",
-      "план эвакуации": "escape",
-      "напильник": "file",
-      "огненная кирка": "fire_pickaxe",
-      "молот": "hammer",
-      "сосулька": "ice_pickaxe",
-      "заражённая кирка": "infested_pickaxe",
-      "перчатка копалка": "kopalka",
-      "лазуритовая кирка": "lapis_lazuli_pickaxe",
-      "лазерный бур": "2xhand_laser_drill",
-      "лом": "lomik",
-      "потерянный якорь": "lost_anchor",
-      "ржавый якорь": "medni",
-      "мембранная кирка": "membrane",
-      "молот дробилка": "molot",
-      "кирка из луностали": "moonsteel_pickaxe",
-      "ледоруб": "mountaineer_pick",
-      "плазменная кирка": "plasma_pickaxe",
-      "пластиковая вилка": "plastic_fork",
-      "кварцевая кирка": "quartz_pickaxe",
-      "редстоуновая кирка": "redstone_pickaxe",
-      "отвёртка": "screwdriver",
-      "кувалда": "sledgehammer",
-      "кузнечная стамеска": "smithing_chisel",
-      "кузнечная кувалда": "smithing_hammer",
-      "кирка из старой кости": "starie_kosti",
-      "капель": "thaw",
-      "кирка вихря": "vortex",
-      "запутанный якорь": "zaputiakor",
-      "Аметистовая кирка": "amethyst_pickaxe",
-      "Якорь": "anchor",
-      "Тунелерой": "big_dig",
-      "Костяная кирка": "bone_pickaxe",
-      "Сырнолунная кирка": "cheese_pickaxe",
-      "Стамеска": "chisel",
-      "Угольная кирка": "coal_pickaxe",
-      "Строительный молоток": "construction_hammer",
-      "Медный якорь": "cooper_anchor",
-      "Большая кирка": "iron_big_pickaxe",
-      "Бур": "2xhand_drill",
-      "Изумрудная кирка": "emerald_pickaxe",
-      "Инкрустированный якорь": "encrusted_anchor",
-      "Шанцевый инструмент": "entrenching_tool",
-      "План эвакуации": "escape",
-      "Напильник": "file",
-      "Огненная кирка": "fire_pickaxe",
-      "Молот": "hammer",
-      "Сосулька": "ice_pickaxe",
-      "Заражённая кирка": "infested_pickaxe",
-      "Перчатка копалка": "kopalka",
-      "Лазуритовая кирка": "lapis_lazuli_pickaxe",
-      "Лазерный бур": "2xhand_laser_drill",
-      "Лом": "lomik",
-      "Потерянный якорь": "lost_anchor",
-      "Ржавый якорь": "medni",
-      "Мембранная кирка": "membrane",
-      "Молот дробилка": "molot",
-      "Кирка из луностали": "moonsteel_pickaxe",
-      "Ледоруб": "mountaineer_pick",
-      "Плазменная кирка": "plasma_pickaxe",
-      "Пластиковая вилка": "plastic_fork",
-      "Кварцевая кирка": "quartz_pickaxe",
-      "Редстоуновая кирка": "redstone_pickaxe",
-      "Отвёртка": "screwdriver",
-      "Кувалда": "sledgehammer",
-      "Кузнечная стамеска": "smithing_chisel",
-      "Кузнечная кувалда": "smithing_hammer",
-      "Кирка из старой кости": "starie_kosti",
-      "Капель": "thaw",
-      "Кирка вихря": "vortex",
-      "Запутанный якорь": "zaputiakor"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)аметистовая кирка",
+        "substitution": "amethyst_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)якорь",
+        "substitution": "anchor",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тунелерой",
+        "substitution": "big_dig",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)костяная кирка",
+        "substitution": "bone_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сырнолунная кирка",
+        "substitution": "cheese_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стамеска",
+        "substitution": "chisel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольная кирка",
+        "substitution": "coal_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)строительный молоток",
+        "substitution": "construction_hammer",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медный якорь",
+        "substitution": "cooper_anchor",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большая кирка",
+        "substitution": "iron_big_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бур",
+        "substitution": "2xhand_drill",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)изумрудная кирка",
+        "substitution": "emerald_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)инкрустированный якорь",
+        "substitution": "encrusted_anchor",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шанцевый инструмент",
+        "substitution": "entrenching_tool",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)план эвакуации",
+        "substitution": "escape",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)напильник",
+        "substitution": "file",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)огненная кирка",
+        "substitution": "fire_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)молот",
+        "substitution": "hammer",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сосулька",
+        "substitution": "ice_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)заражённая кирка",
+        "substitution": "infested_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)перчатка копалка",
+        "substitution": "kopalka",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазуритовая кирка",
+        "substitution": "lapis_lazuli_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазерный бур",
+        "substitution": "2xhand_laser_drill",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лом",
+        "substitution": "lomik",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)потерянный якорь",
+        "substitution": "lost_anchor",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ржавый якорь",
+        "substitution": "medni",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мембранная кирка",
+        "substitution": "membrane",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)молот дробилка",
+        "substitution": "molot",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кирка из луностали",
+        "substitution": "moonsteel_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ледоруб",
+        "substitution": "mountaineer_pick",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плазменная кирка",
+        "substitution": "plasma_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пластиковая вилка",
+        "substitution": "plastic_fork",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кварцевая кирка",
+        "substitution": "quartz_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редстоуновая кирка",
+        "substitution": "redstone_pickaxe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)отвёртка",
+        "substitution": "screwdriver",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кувалда",
+        "substitution": "sledgehammer",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кузнечная стамеска",
+        "substitution": "smithing_chisel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кузнечная кувалда",
+        "substitution": "smithing_hammer",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кирка из старой кости",
+        "substitution": "starie_kosti",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)капель",
+        "substitution": "thaw",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кирка вихря",
+        "substitution": "vortex",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)запутанный якорь",
+        "substitution": "zaputiakor",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

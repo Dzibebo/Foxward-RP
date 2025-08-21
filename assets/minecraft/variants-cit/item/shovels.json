@@ -1,51 +1,139 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:wooden_shovel", "minecraft:stone_shovel", "minecraft:iron_shovel", "minecraft:golden_shovel", "minecraft:diamond_shovel", "minecraft:netherite_shovel"],
+  "type": "component_data",
+  "items": [
+    "minecraft:wooden_shovel",
+    "minecraft:stone_shovel",
+    "minecraft:iron_shovel",
+    "minecraft:golden_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:netherite_shovel"
+  ],
   "modelPrefix": "item/shovels/",
   "modelParent": "minecraft:item/handheld",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "аметистовая лопата": "amethyst_shovel",
-      "угольная лопата": "coal_shovel",
-      "тёмная лопата": "dark_shovel",
-      "изумрудная лопата": "emerald_shovel",
-      "отбойный молоток": "jackhammer",
-      "лазуритовая лопата": "lapis_lazuli_shovel",
-      "металлическая лопата": "metal_shovel",
-      "лопата из луностали": "moonsteel_shovel",
-      "синяя пластиковая лопатка": "plastic_b",
-      "красная пластиковая лопатка": "plastic_r",
-      "пластиковая ложка": "plastic_spoon",
-      "кварцевая лопата": "quartz_shovel",
-      "редстоуновая лопата": "redstone_shovel",
-      "снегоуборочная лопата": "snow_shovel",
-      "штыковая лопата": "spade_shovel",
-      "шпатель": "spatula",
-      "ложка": "spoon",
-      "совковая лопата": "square_shovel",
-      "траншейная лопата": "trench_shovel",
-      "мастерок": "trowel",
-      "Аметистовая лопата": "amethyst_shovel",
-      "Угольная лопата": "coal_shovel",
-      "Тёмная лопата": "dark_shovel",
-      "Изумрудная лопата": "emerald_shovel",
-      "Отбойный молоток": "jackhammer",
-      "Лазуритовая лопата": "lapis_lazuli_shovel",
-      "Металлическая лопата": "metal_shovel",
-      "Лопата из луностали": "moonsteel_shovel",
-      "Синяя пластиковая лопатка": "plastic_b",
-      "Красная пластиковая лопатка": "plastic_r",
-      "Пластиковая ложка": "plastic_spoon",
-      "Кварцевая лопата": "quartz_shovel",
-      "Редстоуновая лопата": "redstone_shovel",
-      "Снегоуборочная лопата": "snow_shovel",
-      "Штыковая лопата": "spade_shovel",
-      "Шпатель": "spatula",
-      "Ложка": "spoon",
-      "Совковая лопата": "square_shovel",
-      "Траншейная лопата": "trench_shovel",
-      "Мастерок": "trowel"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)аметистовая лопата",
+        "substitution": "amethyst_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольная лопата",
+        "substitution": "coal_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тёмная лопата",
+        "substitution": "dark_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)изумрудная лопата",
+        "substitution": "emerald_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)отбойный молоток",
+        "substitution": "jackhammer",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазуритовая лопата",
+        "substitution": "lapis_lazuli_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)металлическая лопата",
+        "substitution": "metal_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лопата из луностали",
+        "substitution": "moonsteel_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синяя пластиковая лопатка",
+        "substitution": "plastic_b",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красная пластиковая лопатка",
+        "substitution": "plastic_r",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пластиковая ложка",
+        "substitution": "plastic_spoon",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кварцевая лопата",
+        "substitution": "quartz_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редстоуновая лопата",
+        "substitution": "redstone_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)снегоуборочная лопата",
+        "substitution": "snow_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)штыковая лопата",
+        "substitution": "spade_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шпатель",
+        "substitution": "spatula",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ложка",
+        "substitution": "spoon",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)совковая лопата",
+        "substitution": "square_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)траншейная лопата",
+        "substitution": "trench_shovel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мастерок",
+        "substitution": "trowel",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

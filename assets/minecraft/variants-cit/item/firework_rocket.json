@@ -1,19 +1,39 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:firework_rocket", "wind_charge"],
+  "type": "component_data",
+  "items": [
+    "minecraft:firework_rocket",
+    "wind_charge"
+  ],
   "modelPrefix": "item/firework_rocket/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "Бомба": "bomb",
-      "Хлопушка": "firecrecker",
-      "Горючее": "gasoline",
-      "Ракета": "rocket",
-      "бомба": "bomb",
-      "хлопушка": "firecrecker",
-      "горючее": "gasoline",
-      "ракета": "rocket"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)бомба",
+        "substitution": "bomb",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)хлопушка",
+        "substitution": "firecrecker",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)горючее",
+        "substitution": "gasoline",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ракета",
+        "substitution": "rocket",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

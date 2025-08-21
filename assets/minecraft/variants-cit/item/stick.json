@@ -1,41 +1,102 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:stick",
   "modelPrefix": "item/stick/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "костыль": "crutch",
-      "лошадь на палке": "hobbyhorse",
-      "молот судьи": "molot",
-      "старый зонт": "old_umbrella",
-      "палитра": "palette",
-      "карандаш": "pen",
-      "пиратская сошка": "pirate_bipod",
-      "свёрнутый старый зонт": "rolled_up_old_umbrella",
-      "свёрнутый зонт": "rolled_up_umbrella",
-      "скелет лошадь на палке": "skeleton_hobbyhorse",
-      "трость с черепом": "skull_walking_cane",
-      "тропический зонт": "tropical_umbrella",
-      "зонт": "umbrella",
-      "трость": "walking_cane",
-      "зомби лошадь на палке": "zombie_hobbyhorse",
-      "Костыль": "crutch",
-      "Лошадь на палке": "hobbyhorse",
-      "Молот судьи": "molot",
-      "Старый зонт": "old_umbrella",
-      "Палитра": "palette",
-      "Карандаш": "pen",
-      "Пиратская сошка": "pirate_bipod",
-      "Свёрнутый старый зонт": "rolled_up_old_umbrella",
-      "Свёрнутый зонт": "rolled_up_umbrella",
-      "Скелет лошадь на палке": "skeleton_hobbyhorse",
-      "Трость с черепом": "skull_walking_cane",
-      "Тропический зонт": "tropical_umbrella",
-      "Зонт": "umbrella",
-      "Трость": "walking_cane",
-      "Зомби лошадь на палке": "zombie_hobbyhorse"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)костыль",
+        "substitution": "crutch",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лошадь на палке",
+        "substitution": "hobbyhorse",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)молот судьи",
+        "substitution": "molot",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый зонт",
+        "substitution": "old_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)палитра",
+        "substitution": "palette",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)карандаш",
+        "substitution": "pen",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиратская сошка",
+        "substitution": "pirate_bipod",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)свёрнутый старый зонт",
+        "substitution": "rolled_up_old_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)свёрнутый зонт",
+        "substitution": "rolled_up_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скелет лошадь на палке",
+        "substitution": "skeleton_hobbyhorse",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трость с черепом",
+        "substitution": "skull_walking_cane",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тропический зонт",
+        "substitution": "tropical_umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зонт",
+        "substitution": "umbrella",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трость",
+        "substitution": "walking_cane",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зомби лошадь на палке",
+        "substitution": "zombie_hobbyhorse",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

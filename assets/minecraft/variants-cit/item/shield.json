@@ -1,43 +1,108 @@
 {
-  "type": "custom_name",
+  "type": "component_data",
   "items": "minecraft:shield",
   "modelPrefix": "item/shield/",
   "modelParent": "item/source_models/gen_shield",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "щит Кэпа": "cap_shield",
-      "штурмовой щит": "charging_tire",
-      "выбитая дверь": "door_shield",
-      "выбитая сетчатая дверь": "door_shield_setka",
-      "шелленбаум": "d_musik",
-      "геральдический щит": "gerald",
-      "роскошное прикрытие": "great_shield",
-      "крышка кастрюли": "kastrkrish",
-      "энергетический щит": "med_shield",
-      "полицейский щит": "police_shield",
-      "козий щит": "rogatiy_shield",
-      "вьетнамская оборона": "shield_balzam",
-      "ручной щиток": "shield_hand",
-      "щит свиночеловека": "shield_piglin",
-      "бывалый рулевой": "shield_wheel",
-      "верный штурвал": "shield_wheel_2",
-      "Щит Кэпа": "cap_shield",
-      "Штурмовой щит": "charging_tire",
-      "Выбитая дверь": "door_shield",
-      "Выбитая сетчатая дверь": "door_shield_setka",
-      "Шелленбаум": "d_musik",
-      "Геральдический щит": "gerald",
-      "Роскошное прикрытие": "great_shield",
-      "Крышка кастрюли": "kastrkrish",
-      "Энергетический щит": "med_shield",
-      "Полицейский щит": "police_shield",
-      "Козий щит": "rogatiy_shield",
-      "Вьетнамская оборона": "shield_balzam",
-      "Ручной щиток": "shield_hand",
-      "Щит свиночеловека": "shield_piglin",
-      "Бывалый рулевой": "shield_wheel",
-      "Верный штурвал": "shield_wheel_2"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)щит кэпа",
+        "substitution": "cap_shield",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)штурмовой щит",
+        "substitution": "charging_tire",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)выбитая дверь",
+        "substitution": "door_shield",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)выбитая сетчатая дверь",
+        "substitution": "door_shield_setka",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шелленбаум",
+        "substitution": "d_musik",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)геральдический щит",
+        "substitution": "gerald",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)роскошное прикрытие",
+        "substitution": "great_shield",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)крышка кастрюли",
+        "substitution": "kastrkrish",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)энергетический щит",
+        "substitution": "med_shield",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полицейский щит",
+        "substitution": "police_shield",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)козий щит",
+        "substitution": "rogatiy_shield",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вьетнамская оборона",
+        "substitution": "shield_balzam",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ручной щиток",
+        "substitution": "shield_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)щит свиночеловека",
+        "substitution": "shield_piglin",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бывалый рулевой",
+        "substitution": "shield_wheel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верный штурвал",
+        "substitution": "shield_wheel_2",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

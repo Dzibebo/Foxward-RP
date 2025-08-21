@@ -1,29 +1,73 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:wooden_hoe", "minecraft:stone_hoe", "minecraft:iron_hoe", "minecraft:golden_hoe", "minecraft:diamond_hoe", "minecraft:netherite_hoe"],
+  "type": "component_data",
+  "items": [
+    "minecraft:wooden_hoe",
+    "minecraft:stone_hoe",
+    "minecraft:iron_hoe",
+    "minecraft:golden_hoe",
+    "minecraft:diamond_hoe",
+    "minecraft:netherite_hoe"
+  ],
   "modelPrefix": "item/hoe/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "аметистовая мотыга": "amethyst_hoe",
-      "угольная мотыга": "coal_hoe",
-      "изумрудная мотыга": "emerald_hoe",
-      "лазуритовая мотыга": "lapis_lazuli_hoe",
-      "мотыга из луностали": "moonsteel_hoe",
-      "вилы": "pitchfork",
-      "кварцевая мотыга": "quartz_hoe",
-      "грабли": "rake",
-      "редстоуновая мотыга": "redstone_hoe",
-      "Аметистовая мотыга": "amethyst_hoe",
-      "Угольная мотыга": "coal_hoe",
-      "Изумрудная мотыга": "emerald_hoe",
-      "Лазуритовая мотыга": "lapis_lazuli_hoe",
-      "Мотыга из луностали": "moonsteel_hoe",
-      "Вилы": "pitchfork",
-      "Кварцевая мотыга": "quartz_hoe",
-      "Грабли": "rake",
-      "Редстоуновая мотыга": "redstone_hoe"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)аметистовая мотыга",
+        "substitution": "amethyst_hoe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольная мотыга",
+        "substitution": "coal_hoe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)изумрудная мотыга",
+        "substitution": "emerald_hoe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазуритовая мотыга",
+        "substitution": "lapis_lazuli_hoe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мотыга из луностали",
+        "substitution": "moonsteel_hoe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вилы",
+        "substitution": "pitchfork",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кварцевая мотыга",
+        "substitution": "quartz_hoe",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)грабли",
+        "substitution": "rake",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редстоуновая мотыга",
+        "substitution": "redstone_hoe",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

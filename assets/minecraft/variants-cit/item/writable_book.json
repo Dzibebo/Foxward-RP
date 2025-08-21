@@ -1,165 +1,509 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:writable_book", "minecraft:written_book", "minecraft:enchanted_book", "minecraft:book"],
+  "type": "component_data",
+  "items": [
+    "minecraft:writable_book",
+    "minecraft:written_book",
+    "minecraft:enchanted_book",
+    "minecraft:book"
+  ],
   "modelPrefix": "item/written_book/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "закрытый атлас": "atlas",
-      "атлас": "atlas_open",
-      "большая стопка документов": "big_stack_of_documents",
-      "завёрнутый чертёж": "blueprint",
-      "чертеж": "rolled_out_blueprint",
-      "план строительства": "blueprint_left_hand",
-      "документ": "document",
-      "закрытая папка с документами": "document_folder",
-      "папка с документами": "document_folder_left_hand",
-      "закрытая зачарованная книга": "enchanted_book",
-      "зачарованная книга": "enchanted_book_left_hand",
-      "чародейский том": "enchanter_tome",
-      "закрытый чародейский том": "enchanter_tome_left_hand",
-      "закрытая канцелярская папка": "folder",
-      "канцелярская папка": "folder_left_hand",
-      "закрытый гримуар": "grimoire",
-      "гримуар": "grimoire_left_hand",
-      "голографическая записка": "hologram_note",
-      "выключенная голографическая записка": "hologram_note_left_hand",
-      "закрытая библия": "holy_bible",
-      "библия": "holy_bible_left_hand",
-      "закрытое удостоверение": "id",
-      "удостоверение": "id_left_hand",
-      "закрытое письмо": "letter",
-      "закрытое послание в бутылке": "letter_in_bottle",
-      "послание в бутылке": "letter_in_bottle_left_hand",
-      "письмо": "letter_opened",
-      "чистое письмо": "letter_writable",
-      "лицензия": "license",
-      "подписанная лицензия": "license_in_frame",
-      "закрытый журнал": "magazine",
-      "журнал": "magazine_left_hand",
-      "закрытый манифест": "manifesto",
-      "манифест": "manifesto_left_hand",
-      "закрытая медицинская карта": "medical_file",
-      "медицинская карта": "medical_file_left_hand",
-      "закрытый некрономикон": "necronomicon",
-      "некрономикон": "necronomicon_left_hand",
-      "закрытая газета": "newspaper",
-      "газета": "newspaper_left_hand",
-      "закрытый блокнот": "notepad",
-      "блокнот": "notepad_left_hand",
-      "записка": "notes",
-      "закрытая старинная книга": "old_book",
-      "старинная книга": "old_book_left_hand",
-      "закрытое старое письмо": "old_letter",
-      "старое письмо": "old_letter_opened",
-      "чистое старое письмо": "old_letter_writable",
-      "пропуск": "pass",
-      "закрытый паспорт": "passport",
-      "паспорт": "passport_left_hand",
-      "закрытый партийный паспорт": "passport_sssp",
-      "партийный паспорт": "passport_sssp_left_hand",
-      "пиратская карта": "pirate_map",
-      "завёрнутая пиратская карта": "pirate_map_left_hand",
-      "закрытая сатанинская библия": "satanic_bible",
-      "сатанинская библия": "satanic_bible_left_hand",
-      "завёрнутый свиток": "scroll",
-      "свиток": "scroll_left_hand",
-      "стопка документов": "stack_of_documents",
-      "стопка зачарованных книг": "stack_of_enchanted_books",
-      "стопка канцелярских папок": "stack_of_folders",
-      "стопка газет": "stack_of_newspapers",
-      "стопка записок": "stack_of_notes",
-      "стопка свитков": "stack_of_scrolls",
-      "свиток досаждателя": "vexing_chant",
-      "завёрнутый свиток досаждателя": "vexing_chant_left_hand",
-      "деревянный планшет с бумагами": "wooden_tablet_with_papers",
-      "Закрытый атлас": "atlas",
-      "Атлас": "atlas_open",
-      "Большая стопка документов": "big_stack_of_documents",
-      "Завёрнутый чертёж": "blueprint",
-      "Чертеж": "rolled_out_blueprint",
-      "План строительства": "blueprint_left_hand",
-      "Документ": "document",
-      "Закрытая папка с документами": "document_folder",
-      "Папка с документами": "document_folder_left_hand",
-      "Закрытая зачарованная книга": "enchanted_book",
-      "Зачарованная книга": "enchanted_book_left_hand",
-      "Чародейский том": "enchanter_tome",
-      "Закрытый чародейский том": "enchanter_tome_left_hand",
-      "Закрытая канцелярская папка": "folder",
-      "Канцелярская папка": "folder_left_hand",
-      "Закрытый гримуар": "grimoire",
-      "Гримуар": "grimoire_left_hand",
-      "Голографическая записка": "hologram_note",
-      "Выключенная голографическая записка": "hologram_note_left_hand",
-      "Закрытая библия": "holy_bible",
-      "Библия": "holy_bible_left_hand",
-      "Закрытое удостоверение": "id",
-      "Удостоверение": "id_left_hand",
-      "Закрытое письмо": "letter",
-      "Закрытое послание в бутылке": "letter_in_bottle",
-      "Послание в бутылке": "letter_in_bottle_left_hand",
-      "Письмо": "letter_opened",
-      "Чистое письмо": "letter_writable",
-      "Лицензия": "license",
-      "Подписанная лицензия": "license_in_frame",
-      "Закрытый журнал": "magazine",
-      "Журнал": "magazine_left_hand",
-      "Закрытый манифест": "manifesto",
-      "Манифест": "manifesto_left_hand",
-      "Закрытая медицинская карта": "medical_file",
-      "Медицинская карта": "medical_file_left_hand",
-      "Закрытый некрономикон": "necronomicon",
-      "Некрономикон": "necronomicon_left_hand",
-      "Закрытая газета": "newspaper",
-      "Газета": "newspaper_left_hand",
-      "Закрытый блокнот": "notepad",
-      "Блокнот": "notepad_left_hand",
-      "Записка": "notes",
-      "Закрытая старинная книга": "old_book",
-      "Старинная книга": "old_book_left_hand",
-      "Закрытое старое письмо": "old_letter",
-      "Старое письмо": "old_letter_opened",
-      "Чистое старое письмо": "old_letter_writable",
-      "Пропуск": "pass",
-      "Закрытый паспорт": "passport",
-      "Паспорт": "passport_left_hand",
-      "Закрытый партийный паспорт": "passport_sssp",
-      "Партийный паспорт": "passport_sssp_left_hand",
-      "Пиратская карта": "pirate_map",
-      "Завёрнутая пиратская карта": "pirate_map_left_hand",
-      "Закрытая сатанинская библия": "satanic_bible",
-      "Сатанинская библия": "satanic_bible_left_hand",
-      "Завёрнутый свиток": "scroll",
-      "Свиток": "scroll_left_hand",
-      "Стопка документов": "stack_of_documents",
-      "Стопка зачарованных книг": "stack_of_enchanted_books",
-      "Стопка канцелярских папок": "stack_of_folders",
-      "Стопка газет": "stack_of_newspapers",
-      "Стопка записок": "stack_of_notes",
-      "Стопка свитков": "stack_of_scrolls",
-      "Свиток досаждателя": "vexing_chant",
-      "Завёрнутый свиток досаждателя": "vexing_chant_left_hand",
-      "Деревянный планшет с бумагами": "wooden_tablet_with_papers",
-      "бумага с пером": "paper_and_quill",
-      "Бумага с пером": "paper_and_quill",
-      "книга": "opened_book",
-      "Книга": "opened_book",
-      "Закрытая книга": "closed_book",
-      "закрытая книга": "closed_book",
-      "книга с пером": "book_and_quill",
-      "Книга с пером": "book_and_quill",
-      "Стопка из 2 книг": "stack_of_2_books",
-      "Стопка из 3 книг": "stack_of_3_books",
-      "Стопка из 4 книг": "stack_of_4_books",
-      "Стопка из 5 книг": "stack_of_5_books",
-      "Стопка из 6 книг": "stack_of_6_books",
-      "стопка из 2 книг": "stack_of_2_books",
-      "стопка из 3 книг": "stack_of_3_books",
-      "стопка из 4 книг": "stack_of_4_books",
-      "стопка из 5 книг": "stack_of_5_books",
-      "стопка из 6 книг": "stack_of_6_books"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)закрытый атлас",
+        "substitution": "atlas",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)атлас",
+        "substitution": "atlas_open",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большая стопка документов",
+        "substitution": "big_stack_of_documents",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)завёрнутый чертёж",
+        "substitution": "blueprint",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чертеж",
+        "substitution": "rolled_out_blueprint",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)план строительства",
+        "substitution": "blueprint_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)документ",
+        "substitution": "document",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая папка с документами",
+        "substitution": "document_folder",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)папка с документами",
+        "substitution": "document_folder_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая зачарованная книга",
+        "substitution": "enchanted_book",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зачарованная книга",
+        "substitution": "enchanted_book_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чародейский том",
+        "substitution": "enchanter_tome",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый чародейский том",
+        "substitution": "enchanter_tome_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая канцелярская папка",
+        "substitution": "folder",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)канцелярская папка",
+        "substitution": "folder_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый гримуар",
+        "substitution": "grimoire",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гримуар",
+        "substitution": "grimoire_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)голографическая записка",
+        "substitution": "hologram_note",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)выключенная голографическая записка",
+        "substitution": "hologram_note_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая библия",
+        "substitution": "holy_bible",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)библия",
+        "substitution": "holy_bible_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытое удостоверение",
+        "substitution": "id",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)удостоверение",
+        "substitution": "id_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытое письмо",
+        "substitution": "letter",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытое послание в бутылке",
+        "substitution": "letter_in_bottle",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)послание в бутылке",
+        "substitution": "letter_in_bottle_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)письмо",
+        "substitution": "letter_opened",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чистое письмо",
+        "substitution": "letter_writable",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лицензия",
+        "substitution": "license",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)подписанная лицензия",
+        "substitution": "license_in_frame",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый журнал",
+        "substitution": "magazine",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)журнал",
+        "substitution": "magazine_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый манифест",
+        "substitution": "manifesto",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)манифест",
+        "substitution": "manifesto_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая медицинская карта",
+        "substitution": "medical_file",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медицинская карта",
+        "substitution": "medical_file_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый некрономикон",
+        "substitution": "necronomicon",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)некрономикон",
+        "substitution": "necronomicon_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая газета",
+        "substitution": "newspaper",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)газета",
+        "substitution": "newspaper_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый блокнот",
+        "substitution": "notepad",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)блокнот",
+        "substitution": "notepad_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)записка",
+        "substitution": "notes",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая старинная книга",
+        "substitution": "old_book",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старинная книга",
+        "substitution": "old_book_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытое старое письмо",
+        "substitution": "old_letter",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старое письмо",
+        "substitution": "old_letter_opened",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чистое старое письмо",
+        "substitution": "old_letter_writable",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пропуск",
+        "substitution": "pass",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый паспорт",
+        "substitution": "passport",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)паспорт",
+        "substitution": "passport_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый партийный паспорт",
+        "substitution": "passport_sssp",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)партийный паспорт",
+        "substitution": "passport_sssp_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиратская карта",
+        "substitution": "pirate_map",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)завёрнутая пиратская карта",
+        "substitution": "pirate_map_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая сатанинская библия",
+        "substitution": "satanic_bible",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сатанинская библия",
+        "substitution": "satanic_bible_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)завёрнутый свиток",
+        "substitution": "scroll",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)свиток",
+        "substitution": "scroll_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка документов",
+        "substitution": "stack_of_documents",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка зачарованных книг",
+        "substitution": "stack_of_enchanted_books",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка канцелярских папок",
+        "substitution": "stack_of_folders",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка газет",
+        "substitution": "stack_of_newspapers",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка записок",
+        "substitution": "stack_of_notes",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка свитков",
+        "substitution": "stack_of_scrolls",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)свиток досаждателя",
+        "substitution": "vexing_chant",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)завёрнутый свиток досаждателя",
+        "substitution": "vexing_chant_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянный планшет с бумагами",
+        "substitution": "wooden_tablet_with_papers",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бумага с пером",
+        "substitution": "paper_and_quill",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)книга",
+        "substitution": "opened_book",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытая книга",
+        "substitution": "closed_book",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)книга с пером",
+        "substitution": "book_and_quill",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка из 2 книг",
+        "substitution": "stack_of_2_books",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка из 3 книг",
+        "substitution": "stack_of_3_books",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка из 4 книг",
+        "substitution": "stack_of_4_books",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка из 5 книг",
+        "substitution": "stack_of_5_books",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка из 6 книг",
+        "substitution": "stack_of_6_books",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бумаги",
+        "substitution": "papers",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кипа бумаг 1",
+        "substitution": "pile_of_papers1",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кипа бумаг 2",
+        "substitution": "pile_of_papers2",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кипа бумаг 3",
+        "substitution": "pile_of_papers3",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)связка книг",
+        "substitution": "bunch_of_books",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

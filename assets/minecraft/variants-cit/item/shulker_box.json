@@ -1,41 +1,120 @@
 {
-  "type": "custom_name",
-  "items": ["minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:gray_shulker_box", "minecraft:black_shulker_box", "minecraft:brown_shulker_box", "minecraft:red_shulker_box", "minecraft:orange_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:green_shulker_box", "minecraft:cyan_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:blue_shulker_box", "minecraft:purple_shulker_box", "minecraft:magenta_shulker_box", "minecraft:pink_shulker_box"],
+  "type": "component_data",
+  "items": [
+    "minecraft:shulker_box",
+    "minecraft:white_shulker_box",
+    "minecraft:light_gray_shulker_box",
+    "minecraft:gray_shulker_box",
+    "minecraft:black_shulker_box",
+    "minecraft:brown_shulker_box",
+    "minecraft:red_shulker_box",
+    "minecraft:orange_shulker_box",
+    "minecraft:yellow_shulker_box",
+    "minecraft:lime_shulker_box",
+    "minecraft:green_shulker_box",
+    "minecraft:cyan_shulker_box",
+    "minecraft:light_blue_shulker_box",
+    "minecraft:blue_shulker_box",
+    "minecraft:purple_shulker_box",
+    "minecraft:magenta_shulker_box",
+    "minecraft:pink_shulker_box"
+  ],
   "modelPrefix": "item/shulker_box/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
-    "nbtPath": ".display.Name",
-    "specialNames": {
-      "коробка с боеприпасами": "ammo_box",
-      "открытая коробка с боеприпасами": "ammo_box_left_hand",
-      "большой подарок": "big_present",
-      "портфель": "briefcase",
-      "кейс": "case",
-      "дипломат": "diplomat",
-      "наплечная сумка": "handbag",
-      "походная сумка": "hiking_backpack",
-      "аптечка": "medkit",
-      "сумка с медикаментами": "medpack",
-      "металлический кейс": "metal_case",
-      "посылка": "parsel",
-      "подарок": "present",
-      "чемодан": "suitcase",
-      "ящик для инструментов": "toolbox",
-      "Коробка с боеприпасами": "ammo_box",
-      "Открытая коробка с боеприпасами": "ammo_box_left_hand",
-      "Большой подарок": "big_present",
-      "Портфель": "briefcase",
-      "Кейс": "case",
-      "Дипломат": "diplomat",
-      "Наплечная сумка": "handbag",
-      "Походная сумка": "hiking_backpack",
-      "Аптечка": "medkit",
-      "Сумка с медикаментами": "medpack",
-      "Металлический кейс": "metal_case",
-      "Посылка": "parsel",
-      "Подарок": "present",
-      "Чемодан": "suitcase",
-      "Ящик для инструментов": "toolbox"
-    }
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)коробка с боеприпасами",
+        "substitution": "ammo_box",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)открытая коробка с боеприпасами",
+        "substitution": "ammo_box_left_hand",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой подарок",
+        "substitution": "big_present",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)портфель",
+        "substitution": "briefcase",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кейс",
+        "substitution": "case",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дипломат",
+        "substitution": "diplomat",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наплечная сумка",
+        "substitution": "handbag",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)походная сумка",
+        "substitution": "hiking_backpack",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)аптечка",
+        "substitution": "medkit",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сумка с медикаментами",
+        "substitution": "medpack",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)металлический кейс",
+        "substitution": "metal_case",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)посылка",
+        "substitution": "parsel",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)подарок",
+        "substitution": "present",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чемодан",
+        "substitution": "suitcase",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ящик для инструментов",
+        "substitution": "toolbox",
+        "matchAll": false,
+        "validate": false
+      }
+    ]
   }
 }

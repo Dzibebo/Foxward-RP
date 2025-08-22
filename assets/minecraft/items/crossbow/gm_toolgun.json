@@ -5,14 +5,14 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/crossbowpull/gm_toolgun_charge"
+          "model": "item/crossbowpull/gm_toolgun_charged"
         },
         "when": "arrow"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/crossbowpull/gm_toolgun_charge"
+          "model": "item/crossbowpull/gm_toolgun_charged"
         },
         "when": "rocket"
       }

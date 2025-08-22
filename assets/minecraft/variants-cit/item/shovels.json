@@ -14,42 +14,21 @@
     "componentType": "custom_name",
     "debug": true,
     "transform": [
-      {
-        "regex": "(?iu)аметистовая лопата",
-        "substitution": "amethyst_shovel",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)угольная лопата",
-        "substitution": "coal_shovel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)тёмная лопата",
         "substitution": "dark_shovel",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)изумрудная лопата",
-        "substitution": "emerald_shovel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)отбойный молоток",
         "substitution": "jackhammer",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)лазуритовая лопата",
-        "substitution": "lapis_lazuli_shovel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)металлическая лопата",
         "substitution": "metal_shovel",
@@ -77,18 +56,6 @@
       {
         "regex": "(?iu)пластиковая ложка",
         "substitution": "plastic_spoon",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кварцевая лопата",
-        "substitution": "quartz_shovel",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)редстоуновая лопата",
-        "substitution": "redstone_shovel",
         "matchAll": true,
         "validate": false
       },

@@ -2,83 +2,19 @@
   "type": "component_data",
   "items": "minecraft:bow",
   "modelPrefix": "item/bow/",
-  "modelParent": "minecraft:item/generated",
+  "modelParent": "minecraft:item/source_models/bow1x",
   "parameters": {
     "componentType": "custom_name",
     "debug": true,
     "transform": [
-      {
-        "regex": "(?iu)аметистовый лук",
-        "substitution": "amethyst_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)угольный лук",
-        "substitution": "coal_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)медный лук",
-        "substitution": "copper_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)алмазный лук",
-        "substitution": "diamond_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)изумрудный лук",
-        "substitution": "emerald_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)золотой лук",
-        "substitution": "golden_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)железный лук",
-        "substitution": "iron_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лазуритовый лук",
-        "substitution": "lapis_lazuli_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)незеритовый лук",
-        "substitution": "netherite_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кварцевый лук",
-        "substitution": "quartz_bow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)редстоуновый лук",
-        "substitution": "redstone_bow",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)импульсная винтовка",
         "substitution": "76gunn",
         "matchAll": true,
         "validate": false
       },
+
       {
         "regex": "(?iu)ак-47",
         "substitution": "ak",
@@ -273,6 +209,12 @@
       },
       {
         "regex": "(?iu)портальная пушка",
+        "substitution": "portal_gun",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)портальная пушка выкл",
         "substitution": "portal_gun_off",
         "matchAll": true,
         "validate": false

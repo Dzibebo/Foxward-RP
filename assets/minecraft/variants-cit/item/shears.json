@@ -7,78 +7,28 @@
     "componentType": "custom_name",
     "debug": true,
     "transform": [
-      {
-        "regex": "(?iu)аметистовые ножницы",
-        "substitution": "amethyst_shears",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)угольные ножницы",
-        "substitution": "coal_shears",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)медные ножницы",
-        "substitution": "copper_shears",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)кусачки",
         "substitution": "cutters",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)алмазные ножницы",
-        "substitution": "diamond_shears",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)изумрудные ножницы",
-        "substitution": "emerald_shears",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)золотые ножницы",
-        "substitution": "golden_shears",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)золотой серп",
         "substitution": "golden_sickle",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)лазуритовые ножницы",
-        "substitution": "lapis_lazuli_shears",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)незеритовые ножницы",
-        "substitution": "netherite_shears",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)секатор",
         "substitution": "pruner",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)кварцевые ножницы",
-        "substitution": "quartz_shears",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)бритва",
         "substitution": "razor",
@@ -91,12 +41,7 @@
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)редстоуновые ножницы",
-        "substitution": "redstone_shears",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)канцелярские ножницы",
         "substitution": "scissors",

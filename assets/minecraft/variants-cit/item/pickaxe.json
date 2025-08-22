@@ -14,12 +14,7 @@
     "componentType": "custom_name",
     "debug": true,
     "transform": [
-      {
-        "regex": "(?iu)аметистовая кирка",
-        "substitution": "amethyst_pickaxe",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)якорь",
         "substitution": "anchor",
@@ -50,12 +45,7 @@
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)угольная кирка",
-        "substitution": "coal_pickaxe",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)строительный молоток",
         "substitution": "construction_hammer",
@@ -80,12 +70,7 @@
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)изумрудная кирка",
-        "substitution": "emerald_pickaxe",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)инкрустированный якорь",
         "substitution": "encrusted_anchor",
@@ -140,12 +125,7 @@
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)лазуритовая кирка",
-        "substitution": "lapis_lazuli_pickaxe",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)лазерный бур",
         "substitution": "2xhand_laser_drill",
@@ -203,18 +183,6 @@
       {
         "regex": "(?iu)пластиковая вилка",
         "substitution": "plastic_fork",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кварцевая кирка",
-        "substitution": "quartz_pickaxe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)редстоуновая кирка",
-        "substitution": "redstone_pickaxe",
         "matchAll": true,
         "validate": false
       },

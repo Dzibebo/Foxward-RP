@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/crossbowpull/_charge"
+          "model": "item/crossbowpull/rocket_launcher_charged"
         },
         "when": "arrow"
       },

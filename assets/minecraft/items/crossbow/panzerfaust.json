@@ -5,14 +5,14 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/crossbowpull/panzerfaust_charge"
+          "model": "item/crossbowpull/panzerfaust_charged"
         },
         "when": "arrow"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/crossbowpull/panzerfaust_charge"
+          "model": "item/crossbowpull/panzerfaust_charged"
         },
         "when": "rocket"
       }

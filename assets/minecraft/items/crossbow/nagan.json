@@ -29,7 +29,7 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "item/crossbowpullnagan/_pulling_1"
+              "model": "item/crossbowpull/nagan_pulling_1"
             },
             "threshold": 0.58
           },

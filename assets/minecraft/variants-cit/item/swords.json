@@ -45,12 +45,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)аметистовый меч",
-        "substitution": "amethyst_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)спиночёс",
         "substitution": "back_scratcher",
         "matchAll": true,
@@ -261,12 +255,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)угольный меч",
-        "substitution": "coal_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)витой меч",
         "substitution": "coiled_sword",
         "matchAll": true,
@@ -335,12 +323,6 @@
       {
         "regex": "(?iu)электрошоковая дубинка",
         "substitution": "electroshock_baton",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)изумрудный меч",
-        "substitution": "emerald_sword",
         "matchAll": true,
         "validate": false
       },
@@ -579,12 +561,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)лазуритовый меч",
-        "substitution": "lapis_lazuli_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)голубой киберкулак",
         "substitution": "lb_cyberpunch",
         "matchAll": true,
@@ -759,20 +735,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)кварцевый меч",
-        "substitution": "quartz_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)рапира",
         "substitution": "rapire",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)редстоуновый меч",
-        "substitution": "redstone_sword",
         "matchAll": true,
         "validate": false
       },
@@ -981,12 +945,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)аметистовый топор",
-        "substitution": "amethyst_axe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)ампутатор",
         "substitution": "amputator",
         "matchAll": true,
@@ -1029,12 +987,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)угольный топор",
-        "substitution": "coal_axe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)аварийный топор",
         "substitution": "crash_axe",
         "matchAll": true,
@@ -1049,12 +1001,6 @@
       {
         "regex": "(?iu)копьё",
         "substitution": "iron_spear",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)изумрудный топор",
-        "substitution": "emerald_axe",
         "matchAll": true,
         "validate": false
       },
@@ -1101,12 +1047,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)лазуритовый топор",
-        "substitution": "lapis_lazuli_axe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)кледенец",
         "substitution": "lollichop",
         "matchAll": true,
@@ -1133,18 +1073,6 @@
       {
         "regex": "(?iu)секира",
         "substitution": "poleaxe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кварцевый топор",
-        "substitution": "quartz_axe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)редстоуновый топор",
-        "substitution": "redstone_axe",
         "matchAll": true,
         "validate": false
       },

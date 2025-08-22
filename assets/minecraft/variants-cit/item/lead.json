@@ -12,6 +12,12 @@
         "substitution": "kandal_icon",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)лассо",
+        "substitution": "lasso",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

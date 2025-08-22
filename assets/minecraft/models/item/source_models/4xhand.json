@@ -1,4 +1,6 @@
 {
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "block/poleaxe_and_anchor/cobtrabas"
@@ -27,11 +29,8 @@
 		"ground": {
 			"scale": [2, 2, 0.5]
 		},
-		"gui": {
-			"scale": [4, 4, 1]
-		},
 		"fixed": {
-			"rotation": [ 0, 180, 0 ],
+			"rotation": [0, -180, 0],
 			"scale": [3.99, 3.99, 1]
 		}
 	}

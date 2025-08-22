@@ -14,67 +14,67 @@
       {
         "regex": "(?iu)стальной снаряд и светопыль",
         "substitution": "bullet_and_glowstone_dust",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стальной снаряд и порох",
         "substitution": "bullet_and_gunpowder",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)патрон",
         "substitution": "cartridge",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)топливо для огнемёта",
         "substitution": "flamethrower_fuel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ядерная батарея",
         "substitution": "fusion_cell",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гвоздь",
         "substitution": "nail",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гранатомётный снаряд",
         "substitution": "pipe_grenade",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)винтовочный патрон",
         "substitution": "rifle_cartridge",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)соль",
         "substitution": "salt",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)дробовой патрон",
         "substitution": "shotgun_shell",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)межпространственный разлом",
         "substitution": "universal_clash",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

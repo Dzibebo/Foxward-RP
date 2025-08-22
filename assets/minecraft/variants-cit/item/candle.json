@@ -28,7 +28,7 @@
       {
         "regex": "(?iu)корсар",
         "substitution": "firecracker",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

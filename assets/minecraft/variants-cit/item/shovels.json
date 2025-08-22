@@ -17,121 +17,121 @@
       {
         "regex": "(?iu)аметистовая лопата",
         "substitution": "amethyst_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)угольная лопата",
         "substitution": "coal_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тёмная лопата",
         "substitution": "dark_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)изумрудная лопата",
         "substitution": "emerald_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)отбойный молоток",
         "substitution": "jackhammer",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лазуритовая лопата",
         "substitution": "lapis_lazuli_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)металлическая лопата",
         "substitution": "metal_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лопата из луностали",
         "substitution": "moonsteel_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)синяя пластиковая лопатка",
         "substitution": "plastic_b",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красная пластиковая лопатка",
         "substitution": "plastic_r",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пластиковая ложка",
         "substitution": "plastic_spoon",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кварцевая лопата",
         "substitution": "quartz_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)редстоуновая лопата",
         "substitution": "redstone_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)снегоуборочная лопата",
         "substitution": "snow_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)штыковая лопата",
         "substitution": "spade_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шпатель",
         "substitution": "spatula",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ложка",
         "substitution": "spoon",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)совковая лопата",
         "substitution": "square_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)траншейная лопата",
         "substitution": "trench_shovel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мастерок",
         "substitution": "trowel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -10,385 +10,385 @@
       {
         "regex": "(?iu)аметистовый лук",
         "substitution": "amethyst_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)угольный лук",
         "substitution": "coal_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)медный лук",
         "substitution": "copper_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)алмазный лук",
         "substitution": "diamond_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)изумрудный лук",
         "substitution": "emerald_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)золотой лук",
         "substitution": "golden_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)железный лук",
         "substitution": "iron_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лазуритовый лук",
         "substitution": "lapis_lazuli_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)незеритовый лук",
         "substitution": "netherite_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кварцевый лук",
         "substitution": "quartz_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)редстоуновый лук",
         "substitution": "redstone_bow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)импульсная винтовка",
         "substitution": "76gunn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ак-47",
         "substitution": "ak",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ак-74",
         "substitution": "ak74",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кровопийца",
         "substitution": "bloods",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кольт m1911",
         "substitution": "colt",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пустынный орёл",
         "substitution": "deagle",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)дрель",
         "substitution": "drel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)квантовый дестабилизатор",
         "substitution": "exp",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)famas",
         "substitution": "famas",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)дожигатель",
         "substitution": "flamethr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)огнемёт",
         "substitution": "flamethrower",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кремневый пистолет",
         "substitution": "flint_pistol",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гаусс пушка",
         "substitution": "gauss_gun",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гравитационная пушка",
         "substitution": "gravity_gun",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серый маузер",
         "substitution": "gray_mouser",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гвоздомёт",
         "substitution": "gvozd",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лазерный пистолет",
         "substitution": "laser_pistol",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пулемёт льюиса",
         "substitution": "lewis",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)люгер",
         "substitution": "luger",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)m16",
         "substitution": "m16",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)mac-10",
         "substitution": "mac10",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пистолет макарова",
         "substitution": "mac_scout_pistol",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)магнитный пистолет",
         "substitution": "magnet_pistol",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)малориан",
         "substitution": "malorian",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маузер",
         "substitution": "mauser",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мега-акула",
         "substitution": "megashark",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пулемёт",
         "substitution": "minigun",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)m1a1",
         "substitution": "moneaona",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)миротворец",
         "substitution": "monenineoseven",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)mp-18",
         "substitution": "mp18",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)mp-40",
         "substitution": "mp40",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)передоз",
         "substitution": "overdose",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)карманный пистолет",
         "substitution": "pbpp",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)портальная пушка",
         "substitution": "portal_gun_off",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ппш-41",
         "substitution": "pps",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)быстромёт",
         "substitution": "quick",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)алая роза",
         "substitution": "rose_wand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пистолет",
         "substitution": "scout_pistol",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пулемёт шоша",
         "substitution": "shausha",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)короткое замыкание",
         "substitution": "short_circuit",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)mat-49",
         "substitution": "smg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)sten с глушителем",
         "substitution": "sten_gluh2",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)sten",
         "substitution": "sten_pr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)липучкомёт",
         "substitution": "stickybomb_launcher",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шприцемёт",
         "substitution": "syr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тактический люгер",
         "substitution": "tact_luger",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)tec-9",
         "substitution": "tec_9",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)томпсон",
         "substitution": "tommy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пистолет с глушителем",
         "substitution": "usp",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)волшебная палочка из кварца",
         "substitution": "wand_3",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)волшебная палочка из кианита",
         "substitution": "wand_7",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)палочка из кости гиппогрифа",
         "substitution": "wand_9",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)wx18",
         "substitution": "wx18n",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -13,13 +13,13 @@
       {
         "regex": "(?iu)ключ испытаний 3d",
         "substitution": "key",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зловещий ключ испытаний 3d",
         "substitution": "ominous_key",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

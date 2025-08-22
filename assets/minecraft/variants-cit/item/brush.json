@@ -10,115 +10,115 @@
       {
         "regex": "(?iu)дубовый банный веник",
         "substitution": "ban_broom_oak",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)еловый банный веник",
         "substitution": "ban_broom_spruce_1",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)соломенный веник",
         "substitution": "broom",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисточка",
         "substitution": "brush",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)валик",
         "substitution": "brush_walik",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с аметистом",
         "substitution": "brush_with_amethyst",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с углём",
         "substitution": "brush_with_coal",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с алмазом",
         "substitution": "brush_with_diamond",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с изумрудом",
         "substitution": "brush_with_emerald",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с золотом",
         "substitution": "brush_with_gold",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с железом",
         "substitution": "brush_with_iron",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с лазуритом",
         "substitution": "brush_with_lapis_lazuli",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с незеритом",
         "substitution": "brush_with_netherite",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с кварцем",
         "substitution": "brush_with_quartz",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кисть с редстоуном",
         "substitution": "brush_with_redstone",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)перьевая метёлка",
         "substitution": "feather_duster",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)вилка",
         "substitution": "fork",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маракас",
         "substitution": "maraca",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ёршик",
         "substitution": "toilet_brush",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

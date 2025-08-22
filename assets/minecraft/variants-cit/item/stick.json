@@ -10,91 +10,91 @@
       {
         "regex": "(?iu)костыль",
         "substitution": "crutch",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лошадь на палке",
         "substitution": "hobbyhorse",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)молот судьи",
         "substitution": "molot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)старый зонт",
         "substitution": "old_umbrella",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)палитра",
         "substitution": "palette",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)карандаш",
         "substitution": "pen",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пиратская сошка",
         "substitution": "pirate_bipod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)свёрнутый старый зонт",
         "substitution": "rolled_up_old_umbrella",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)свёрнутый зонт",
         "substitution": "rolled_up_umbrella",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)скелет лошадь на палке",
         "substitution": "skeleton_hobbyhorse",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)трость с черепом",
         "substitution": "skull_walking_cane",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тропический зонт",
         "substitution": "tropical_umbrella",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зонт",
         "substitution": "umbrella",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)трость",
         "substitution": "walking_cane",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зомби лошадь на палке",
         "substitution": "zombie_hobbyhorse",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

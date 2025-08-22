@@ -13,25 +13,25 @@
       {
         "regex": "(?iu)бомба",
         "substitution": "bomb",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)хлопушка",
         "substitution": "firecrecker",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)горючее",
         "substitution": "gasoline",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ракета",
         "substitution": "rocket",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -50,595 +50,595 @@
       {
         "regex": "(?iu)три маффина с вишенкой",
         "substitution": "3cherrymaffin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)три шоколадных маффина",
         "substitution": "3chocolatemaffin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)три кремовых маффина",
         "substitution": "3creammaffin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)акациевое полено",
         "substitution": "acacia_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)аметистовое яблоко",
         "substitution": "amethyst_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)аметистовая морковь",
         "substitution": "amethyst_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тако",
         "substitution": "bicorne_taco",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)большой чёрный бургер",
         "substitution": "big_burger",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)большой бургер",
         "substitution": "big_burger",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)большой торт",
         "substitution": "big_cake",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)берёзовое полено",
         "substitution": "birch_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)черный бургер",
         "substitution": "burger",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)миска риса",
         "substitution": "bowl_rice",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бургер",
         "substitution": "burger",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маффин с вишенкой",
         "substitution": "cherrymaffin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)вишнёвое полено",
         "substitution": "cherry_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шоколад",
         "substitution": "chocolate",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шоколадный маффин",
         "substitution": "chocolatemaffin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шоколадный торт",
         "substitution": "chok_cake",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)угольное яблоко",
         "substitution": "coal_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)угольная морковь",
         "substitution": "coal_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)медное яблоко",
         "substitution": "copper_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)медная морковь",
         "substitution": "copper_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кукуруза",
         "substitution": "corn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кружка кукурузы",
         "substitution": "corn_cup",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кукуруза с маслом",
         "substitution": "corn_oil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)розовая сладкая вата",
         "substitution": "cotton_candy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)краб",
         "substitution": "crab",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кремовый маффин",
         "substitution": "creammaffin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)багровое полено",
         "substitution": "crimson_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)полено тёмного дуба",
         "substitution": "dark_oak_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)алмазное яблоко",
         "substitution": "diamond_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)алмазная морковь",
         "substitution": "diamond_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пасхальное красное",
         "substitution": "egg1",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пасхальное синее",
         "substitution": "egg2",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пасхальное зеленое",
         "substitution": "egg3",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)изумрудное яблоко",
         "substitution": "emerald_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)изумрудная морковь",
         "substitution": "emerald_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное аметистовое яблоко",
         "substitution": "enchanted_amethyst_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное угольное яблоко",
         "substitution": "enchanted_coal_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное медное яблоко",
         "substitution": "enchanted_copper_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное алмазное яблоко",
         "substitution": "enchanted_diamond_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное изумрудное яблоко",
         "substitution": "enchanted_emerald_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное железное яблоко",
         "substitution": "enchanted_iron_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное лазуритовое яблоко",
         "substitution": "enchanted_lapis_lazuli_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное незеритовое яблоко",
         "substitution": "enchanted_netherite_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное кварцевое яблоко",
         "substitution": "enchanted_quartz_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованное редстоуновое яблоко",
         "substitution": "enchanted_redstone_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)картошка фри",
         "substitution": "french_fries",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)яйцо фаберже",
         "substitution": "goldegg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)блины с мёдом",
         "substitution": "honey_pancakes",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)железное яблоко",
         "substitution": "iron_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)железная морковь",
         "substitution": "iron_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)полено тропического дерева",
         "substitution": "jungle_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)большой кулич",
         "substitution": "kulich",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лазуритовое яблоко",
         "substitution": "lapis_lazuli_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лазуритовая морковь",
         "substitution": "lapis_lazuli_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мангровое полено",
         "substitution": "mangrove_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)аптечка",
         "substitution": "medkit",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сумка с медикаментами",
         "substitution": "medpack",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кулич",
         "substitution": "minikulich",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)панкейки",
         "substitution": "mini_pancakes",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)незеритовое яблоко",
         "substitution": "netherite_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)незеритовая морковь",
         "substitution": "netherite_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)дубовое полено",
         "substitution": "oak_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)полено бледного дуба",
         "substitution": "pale_oak_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пельмени",
         "substitution": "pelmeni",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)куриные ножки",
         "substitution": "platechicken",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)яичница",
         "substitution": "plateeggs",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)жареный окорок",
         "substitution": "platepig",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пончик",
         "substitution": "ponch",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кварцевое яблоко",
         "substitution": "quartz_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кварцевая морковь",
         "substitution": "quartz_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)редстоуновое яблоко",
         "substitution": "redstone_apple",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)редстоуновая морковь",
         "substitution": "redstone_carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)блины со сметаной",
         "substitution": "smetana_pancakes",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)еловое полено",
         "substitution": "spruce_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное акациевое полено",
         "substitution": "stripped_acacia_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное берёзовое полено",
         "substitution": "stripped_birch_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное вишнёвое полено",
         "substitution": "stripped_cherry_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очищенное багровое полено",
         "substitution": "stripped_crimson_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное полено тёмного дуба",
         "substitution": "stripped_dark_oak_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное полено тропического дерева",
         "substitution": "stripped_jungle_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное мангровое полено",
         "substitution": "stripped_mangrove_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное дубовое полено",
         "substitution": "stripped_oak_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное полено бледного дуба",
         "substitution": "stripped_pale_oak_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)обтёсанное еловое полено",
         "substitution": "stripped_spruce_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очищенное искажённое полено",
         "substitution": "stripped_warped_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)суши",
         "substitution": "sushi",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)блины с сиропом",
         "substitution": "syrup_pancakes",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шаурма",
         "substitution": "twist",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)вок",
         "substitution": "vok",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)искажённое полено",
         "substitution": "warped_poleno",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оладьи",
         "substitution": "oladiy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)яблочный пирог",
         "substitution": "yabloko",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кирпич",
         "substitution": "brick_default",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)смоляной кирпич",
         "substitution": "resin_brick",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)незерский кирпич",
         "substitution": "nether_brick",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)резиновый пенис",
         "substitution": "dildo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

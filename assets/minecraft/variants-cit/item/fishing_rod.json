@@ -10,73 +10,73 @@
       {
         "regex": "(?iu)аметистовая удочка",
         "substitution": "amethyst_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)угольная удочка",
         "substitution": "coal_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)медная удочка",
         "substitution": "copper_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)алмазная удочка",
         "substitution": "diamond_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)изумрудная удочка",
         "substitution": "emerald_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)золотая удочка",
         "substitution": "golden_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)железная удочка",
         "substitution": "iron_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лазуритовая удочка",
         "substitution": "lapis_lazuli_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лассо",
         "substitution": "lasso",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)незеритовая удочка",
         "substitution": "netherite_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кварцевая удочка",
         "substitution": "quartz_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)редстоуновая удочка",
         "substitution": "redstone_fishing_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -10,19 +10,19 @@
       {
         "regex": "(?iu)поддержка батальона",
         "substitution": "battalion_backup",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фанфара",
         "substitution": "fanfare",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мегафон",
         "substitution": "megaphone",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

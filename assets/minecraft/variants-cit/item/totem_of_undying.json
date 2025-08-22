@@ -10,121 +10,121 @@
       {
         "regex": "(?iu)живой тотем",
         "substitution": "live_totem",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тёмный живой тотем",
         "substitution": "live_totem_dark",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серебрянный живой тотем",
         "substitution": "live_totem_silver",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)еловый живой тотем",
         "substitution": "live_totem_spruce",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)sfefs голи",
         "substitution": "sfefses",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маква",
         "substitution": "makwa",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)файт не удафся",
         "substitution": "ralfi",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)файт не удафся1",
         "substitution": "lizard87",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)файт не удафся2",
         "substitution": "coramin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сайт не удался",
         "substitution": "ralfi",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сайт не удался1",
         "substitution": "lizard87",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сайт не удался2",
         "substitution": "coramin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шайт не удауся",
         "substitution": "ralfi",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)какащке мольвине",
         "substitution": "molvbin_gey",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нейтралка",
         "substitution": "ne1tralka",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нейтрал гоп стоп",
         "substitution": "ne1tral_gop_stop",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нейтралка в купальнике",
         "substitution": "ne1tralka_kupalnik",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нейтрал нью",
         "substitution": "ne1tral_new",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нейтрал oффицант",
         "substitution": "ne1tral_officant",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нейтрал депутат",
         "substitution": "ne1tral_deputat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -17,55 +17,55 @@
       {
         "regex": "(?iu)аметистовая мотыга",
         "substitution": "amethyst_hoe",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)угольная мотыга",
         "substitution": "coal_hoe",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)изумрудная мотыга",
         "substitution": "emerald_hoe",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лазуритовая мотыга",
         "substitution": "lapis_lazuli_hoe",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мотыга из луностали",
         "substitution": "moonsteel_hoe",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)вилы",
         "substitution": "pitchfork",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кварцевая мотыга",
         "substitution": "quartz_hoe",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)грабли",
         "substitution": "rake",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)редстоуновая мотыга",
         "substitution": "redstone_hoe",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -10,7 +10,7 @@
       {
         "regex": "(?iu)камень",
         "substitution": "stone",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

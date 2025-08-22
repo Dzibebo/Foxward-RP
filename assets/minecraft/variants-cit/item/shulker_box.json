@@ -28,91 +28,91 @@
       {
         "regex": "(?iu)коробка с боеприпасами",
         "substitution": "ammo_box",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)открытая коробка с боеприпасами",
         "substitution": "ammo_box_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)большой подарок",
         "substitution": "big_present",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)портфель",
         "substitution": "briefcase",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кейс",
         "substitution": "case",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)дипломат",
         "substitution": "diplomat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)наплечная сумка",
         "substitution": "handbag",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)походная сумка",
         "substitution": "hiking_backpack",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)аптечка",
         "substitution": "medkit",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сумка с медикаментами",
         "substitution": "medpack",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)металлический кейс",
         "substitution": "metal_case",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)посылка",
         "substitution": "parsel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)подарок",
         "substitution": "present",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чемодан",
         "substitution": "suitcase",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ящик для инструментов",
         "substitution": "toolbox",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

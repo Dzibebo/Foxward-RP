@@ -12,2101 +12,2101 @@
       {
         "regex": "(?iu)кепка капитана",
         "substitution": "admiral_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)альбатрос",
         "substitution": "albatross",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем x-01",
         "substitution": "anklave",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оленьи рога",
         "substitution": "antlers",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)анубис",
         "substitution": "anubis",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)поварской колпак",
         "substitution": "apple_in_chicken_soup",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)акваланг",
         "substitution": "akva3",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)аравийский беглец",
         "substitution": "aravbegl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пиратская бандана",
         "substitution": "bandana",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)звезда комсомола",
         "substitution": "bandana_zvezda",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа из трюма",
         "substitution": "barbossa",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа пчеловода",
         "substitution": "beebee",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)берет че гевары",
         "substitution": "beret",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)боевой шлем берлинца",
         "substitution": "berlin_helm",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)двууголка",
         "substitution": "bicorne",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)французский бикорн",
         "substitution": "bicorne_ala_bonaparte_var",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оловянный солдатик",
         "substitution": "bicorne_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)капитан чебурек",
         "substitution": "bicorne_taco",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)полицмейстер",
         "substitution": "bobby_bonnet",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)перевозимая бомба",
         "substitution": "bomb_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)взрывные мысли",
         "substitution": "boom_n_gin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бант",
         "substitution": "bow_back",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шпионский ящик",
         "substitution": "box",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)миска с мозгами",
         "substitution": "brain_bowl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мозговой интерфейс",
         "substitution": "brain_interface",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сера",
         "substitution": "brimstone",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)каска броди",
         "substitution": "brodie",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ведроголовый",
         "substitution": "buckethead",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)будёновка",
         "substitution": "budenovka",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)раскрытая будёновка",
         "substitution": "budenovka_open",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)венок",
         "substitution": "caesar",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кепка ленина",
         "substitution": "cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)французское кепи",
         "substitution": "capy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чёрная кепка",
         "substitution": "cap_bl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)синяя кепка",
         "substitution": "cap_blu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)коричневая кепка",
         "substitution": "cap_br",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бирюзовая кепка",
         "substitution": "cap_cy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серая кепка",
         "substitution": "cap_gr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зелёная кепка",
         "substitution": "cap_grn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)голубая кепка",
         "substitution": "cap_lbl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)светло серая кепка",
         "substitution": "cap_lgr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лаймовая кепка",
         "substitution": "cap_lim",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пурпурная кепка",
         "substitution": "cap_mg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оранжевая кепка",
         "substitution": "cap_or",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)розовая кепка",
         "substitution": "cap_pn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фиолетовая кепка",
         "substitution": "cap_pu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красная кепка",
         "substitution": "cap_rd",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)белая кепка",
         "substitution": "cap_wh",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)жёлтая кепка",
         "substitution": "cap_yel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)морковка",
         "substitution": "carrot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)морковка золотая",
         "substitution": "carrot_gold",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)картонная ракета",
         "substitution": "carton_rocket",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кэтти блэк",
         "substitution": "cat-18_black",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кэтти вайт",
         "substitution": "cat-18_white",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кавалер",
         "substitution": "cavalier",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)часовой",
         "substitution": "chasi",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)защитный шлем",
         "substitution": "chepchik",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа чоппера",
         "substitution": "chopper",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бирюзовая клоунская шляпа",
         "substitution": "clownhat_cyan",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серая клоунская шляпа",
         "substitution": "clownhat_gray",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зелёная клоунская шляпа",
         "substitution": "clownhat_green",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оранжевая клоунская шляпа",
         "substitution": "clownhat_orange",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)жёлтая клоунская шляпа",
         "substitution": "clownhat_yellow",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)цыпа",
         "substitution": "cock",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа археолога",
         "substitution": "cockswain",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)военная фуражка",
         "substitution": "combat_crusher_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)несчастный командор",
         "substitution": "commander",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фуражка машиниста",
         "substitution": "conductor",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ковбойская шляпа",
         "substitution": "cowboy_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ковбойская техношляпа",
         "substitution": "cowboy_hat_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)койф арбалетчика",
         "substitution": "crosscher",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)цилиндр",
         "substitution": "cylinder",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)титановый цилиндр",
         "substitution": "cylinder_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)даддли",
         "substitution": "daddly",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)опасность",
         "substitution": "danger",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мёртвая мышь",
         "substitution": "deadmau5",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сковородник",
         "substitution": "demopan",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа жителя пустыни",
         "substitution": "desert_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фетровая шляпа",
         "substitution": "detective",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)додо",
         "substitution": "dodo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем драконорожденного",
         "substitution": "dragonborn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки для дрона",
         "substitution": "drone_helmet",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)дуэлянт",
         "substitution": "duelant",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)джентельменская ушанка",
         "substitution": "dz_ushanka",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)параочки",
         "substitution": "ecto_goggles",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шапка из енота",
         "substitution": "enot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)глазной имплант",
         "substitution": "exam_monocle",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)глазная повязка на левый глаз",
         "substitution": "eyepatch_1",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)глазная повязка на правый глаз",
         "substitution": "eyepatch_2",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)морда феника",
         "substitution": "faradey",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)соломенная шляпа",
         "substitution": "farmer_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)федора",
         "substitution": "fedora_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)синяя федора",
         "substitution": "fedora_hat_bl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чёрная федора",
         "substitution": "fedora_hat_blc",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)коричневая федора",
         "substitution": "fedora_hat_br",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бирюзовая федора",
         "substitution": "fedora_hat_cy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серая федора",
         "substitution": "fedora_hat_gr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зелёная федора",
         "substitution": "fedora_hat_grn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)голубая федора",
         "substitution": "fedora_hat_lb",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)светло серая федора",
         "substitution": "fedora_hat_lgr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лаймовая федора",
         "substitution": "fedora_hat_lg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пурпурная федора",
         "substitution": "fedora_hat_mg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оранжевая федора",
         "substitution": "fedora_hat_or",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)розовая федора",
         "substitution": "fedora_hat_pn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фиолетовая федора",
         "substitution": "fedora_hat_pu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красная федора",
         "substitution": "fedora_hat_rd",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)белая федора",
         "substitution": "fedora_hat_wh",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)жёлтая федора",
         "substitution": "fedora_hat_ye",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)феска",
         "substitution": "fez",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зяблик_94",
         "substitution": "finch94",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)секретарь зяблик",
         "substitution": "finch_head",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем пожарного",
         "substitution": "fireman",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пожарная машина",
         "substitution": "fireman_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа старого рыбака",
         "substitution": "fisherman_old",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа рыбака",
         "substitution": "fisherman_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)флагштог",
         "substitution": "flagshtotz",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)проблесковый маячок",
         "substitution": "flashing_beacon",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа лучника",
         "substitution": "fletcher_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)футбольный шлем",
         "substitution": "football_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)морда лисы",
         "substitution": "fox",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)морда белой лисы",
         "substitution": "fox_hyper",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чудовище франкенштейна",
         "substitution": "frankenstein",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)визор виртуальной реальности",
         "substitution": "future_vr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)космо-шлем",
         "substitution": "gagarin",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гарри",
         "substitution": "garry",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки пирозрения",
         "substitution": "gas_glasses",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)противогаз",
         "substitution": "gas_mask",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)военный противогаз",
         "substitution": "gas_mask_war",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)противогазная маска",
         "substitution": "gas_resp",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гетманская шляпа",
         "substitution": "getmann",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)призрачный гибус",
         "substitution": "gibus",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки",
         "substitution": "glasses",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки бронника",
         "substitution": "glasses_blacksmith",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)синие очки",
         "substitution": "glasses_color_bl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чёрные очки",
         "substitution": "glasses_color_blk",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)коричневые очки",
         "substitution": "glasses_color_br",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бирюзовые очки",
         "substitution": "glasses_color_cy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серые очки",
         "substitution": "glasses_color_gr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зелёные очки",
         "substitution": "glasses_color_grn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)голубые очки",
         "substitution": "glasses_color_lbl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)светло серые очки",
         "substitution": "glasses_color_lgr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лаймовые очки",
         "substitution": "glasses_color_lim",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пурпурные очки",
         "substitution": "glasses_color_mg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оранжевые очки",
         "substitution": "glasses_color_or",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)розовые очки",
         "substitution": "glasses_color_pn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фиолетовые очки",
         "substitution": "glasses_color_pu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красные очки",
         "substitution": "glasses_color_rd",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)белые очки",
         "substitution": "glasses_color_wh",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)жёлтые очки",
         "substitution": "glasses_color_yl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тёмные очки",
         "substitution": "glasses_dark",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)синие тёмные очки",
         "substitution": "glasses_dark_bl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чёрные тёмные очки",
         "substitution": "glasses_dark_blk",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)коричневые тёмные очки",
         "substitution": "glasses_dark_br",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бирюзовые тёмные очки",
         "substitution": "glasses_dark_cy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серые тёмные очки",
         "substitution": "glasses_dark_gr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зелёные тёмные очки",
         "substitution": "glasses_dark_grn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)голубые тёмные очки",
         "substitution": "glasses_dark_lbl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)светло серые тёмные очки",
         "substitution": "glasses_dark_lgr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лаймовые тёмные очки",
         "substitution": "glasses_dark_lim",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пурпурные тёмные очки",
         "substitution": "glasses_dark_mg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оранжевые тёмные очки",
         "substitution": "glasses_dark_or",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)розовые тёмные очки",
         "substitution": "glasses_dark_pn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фиолетовые тёмные очки",
         "substitution": "glasses_dark_pu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красные тёмные очки",
         "substitution": "glasses_dark_rd",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)белые тёмные очки",
         "substitution": "glasses_dark_wh",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)жёлтые тёмные очки",
         "substitution": "glasses_dark_yl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки учёного",
         "substitution": "glasses_illusioner",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки снайпера",
         "substitution": "glasses_sniper",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки пилота",
         "substitution": "gogles",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)золотая корона",
         "substitution": "golden_crown",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кепка диппера",
         "substitution": "go_to_taco_bell",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)балаклава грабителя",
         "substitution": "grab",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)прусская гренадёрка",
         "substitution": "gren",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гусарский кивер",
         "substitution": "gusar_kiver",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маска гая фокса",
         "substitution": "guyfoxmask",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа без имени",
         "substitution": "hatwithnoname",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)головной комплект химзащиты",
         "substitution": "haz_mask",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)наушники",
         "substitution": "headph",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)меховые наушники",
         "substitution": "headphones",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)рога",
         "substitution": "horns",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тыкво-головый",
         "substitution": "horseless_headless_horsemanns_head",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)хот-род",
         "substitution": "hot_rod",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)застенчивый канцлер",
         "substitution": "introvert",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)и-15",
         "substitution": "i_15",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)японская каса",
         "substitution": "japan_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)хоккейная маска",
         "substitution": "jason",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки граучо",
         "substitution": "jokemask",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)судейский парик",
         "substitution": "judge",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)король свалки",
         "substitution": "junktown_crown",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)секайское кабуто",
         "substitution": "kabuto",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)старые тактики эдди",
         "substitution": "kabuto_eddie",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)устрашающее кабуто",
         "substitution": "kabuto_fear",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)канотье",
         "substitution": "kanotye",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кардинал ришилье",
         "substitution": "kardinal",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кастрюля из нержавейки",
         "substitution": "kastrula",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кивер",
         "substitution": "kiver",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)парадный кивер",
         "substitution": "kiver_shel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)богатый колпак",
         "substitution": "kolpak_sp",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)компанейская шляпа",
         "substitution": "komandors_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)повязка ниндзя",
         "substitution": "konoha",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)котелок",
         "substitution": "kotelok",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красти",
         "substitution": "krusry",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)папаха",
         "substitution": "kuhma",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ландскнехт",
         "substitution": "landskneht",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)последний вздох",
         "substitution": "last_breath",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа библиотекаря",
         "substitution": "librarian_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красноармейская малиновка",
         "substitution": "lil_poot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)месть лонтена",
         "substitution": "lonten",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)медицинская маска",
         "substitution": "medic_mask",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)архимедик",
         "substitution": "medimedes",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шаманский череп",
         "substitution": "merasmus",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)винтажный шлем пожарного",
         "substitution": "merryweather",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки мерунити",
         "substitution": "meruniti_glasses",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шахтёрский фонарь",
         "substitution": "miner_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лампочка ильича",
         "substitution": "miner_cap_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)мини-крафтер",
         "substitution": "minicrafter",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем t-45",
         "substitution": "minuteman_power",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)небольшой набор шляп",
         "substitution": "modest_pile_of_hats",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)монокль",
         "substitution": "monokle",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бергмютце",
         "substitution": "mountain_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)доктор мухожук",
         "substitution": "muhojuk",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шумопоглощающие наушники",
         "substitution": "naschuschniken2000",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нимб",
         "substitution": "nimb",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)знатная куча шляп",
         "substitution": "noble_amassment_of_hats",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа не для блондинов",
         "substitution": "non_blonde",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нос",
         "substitution": "nose",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тот самый нотч",
         "substitution": "notch",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки ночного зрения",
         "substitution": "n_vision",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)офицерская фуражка",
         "substitution": "off_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)офицерская ушанка",
         "substitution": "off_ysh",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ушанка-бряцалка",
         "substitution": "off_ysh_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)старый фриц",
         "substitution": "oldest_pruss",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)старикашка",
         "substitution": "olgreezer",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)рыцарский шлем",
         "substitution": "orlean",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зеркало отоларинголога",
         "substitution": "otolaringolog",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)робо-врач",
         "substitution": "otolaringolog_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)панцу",
         "substitution": "pancu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)парашют",
         "substitution": "parachute",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пенсне",
         "substitution": "pensne",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)накидка фотографа",
         "substitution": "photogr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)архимед",
         "substitution": "pigeon",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)вездесущий голубь",
         "substitution": "pigeon_real",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)архи-мех",
         "substitution": "pigeon_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пилотка",
         "substitution": "pilotka",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пилотка рейхсмахта",
         "substitution": "pilotka_reich",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пиратская шляпа",
         "substitution": "pirate_bicorne",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)треуголка",
         "substitution": "pirate_tricorn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)прокажённый клюв",
         "substitution": "plague",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)луженый клюв",
         "substitution": "plague_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)птичка по-киевски",
         "substitution": "poot",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)раздатчик бутербродов",
         "substitution": "pootis",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)камилавка",
         "substitution": "pops_pops",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зельевой шлем",
         "substitution": "potion_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)частный сыщик",
         "substitution": "private_eye",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)прусский пикельхельм",
         "substitution": "pruss",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)платиновый пикельхельм",
         "substitution": "pruss_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пучеглаз",
         "substitution": "pucheglaz",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)коварный",
         "substitution": "pump_1",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)милая",
         "substitution": "pump_2",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ленивая",
         "substitution": "pump_3",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зайка",
         "substitution": "rabbit",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)уши зайки",
         "substitution": "rabbit_ears",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки обходчика путей",
         "substitution": "railman",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем t-51",
         "substitution": "railroad_power",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пришествие размуса",
         "substitution": "rasmus",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гремучая змея",
         "substitution": "rattlesnake",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красный барон",
         "substitution": "red_baron",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)радужная шапка",
         "substitution": "reggilator",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)рейхсмахтский пикельхельм",
         "substitution": "reichmaht",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)военный пикельхельм",
         "substitution": "reichmark",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)респиратор",
         "substitution": "resp",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маска воришки",
         "substitution": "rob",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ракета",
         "substitution": "rocket",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)римский бисенхельм",
         "substitution": "roman",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гнилой помидор",
         "substitution": "rotten_tomato",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бескозырка",
         "substitution": "sailor_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)рождественский колпак",
         "substitution": "santa",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)венок жителя саванны",
         "substitution": "savanna_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа пастуха",
         "substitution": "shepherd_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа шерифа",
         "substitution": "sherif",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем военного лидера",
         "substitution": "shogun_kabuto",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шрапнельная каска",
         "substitution": "shrapnel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зимний капюшон",
         "substitution": "shuba",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сигара",
         "substitution": "sigar",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сигарета",
         "substitution": "sigareta",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)скиммер",
         "substitution": "skimmer",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа снайпера",
         "substitution": "sniper",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)аимбот",
         "substitution": "sniper_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)снежный козырёк",
         "substitution": "snowcapper",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шапка жителя тайги",
         "substitution": "snow_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)широкополый бандитто",
         "substitution": "sombrero",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сопвит верблюд",
         "substitution": "sopwith_camel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)спартанский шлем",
         "substitution": "sparta",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)спекулянт",
         "substitution": "spekul",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)балаклава шпиона",
         "substitution": "spy_red",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)модная ушанка",
         "substitution": "sp_ush",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)медные гогглы",
         "substitution": "steampunk_glasses",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стьюи",
         "substitution": "stewie",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем штурмовика",
         "substitution": "stormtrooper_helmet",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)прочный кивер",
         "substitution": "stout_shako",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)подсолнух",
         "substitution": "sunflower",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сварочная маска",
         "substitution": "svar",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа жителя болот",
         "substitution": "swamp_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нержавеющий лист",
         "substitution": "swamp_vil_robo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа сявы",
         "substitution": "syava",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)капитан команды",
         "substitution": "team_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тэм-о-шентер",
         "substitution": "tem_o_shanter",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)тевтонский крестоносец",
         "substitution": "tevton_helm",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стринги",
         "substitution": "thongs",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)соломенная зубочистка",
         "substitution": "toothpick",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)неудачливый монополист",
         "substitution": "toppat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гигантская башня из шляп",
         "substitution": "towering_pillar_of_hats",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)дорожный конус",
         "substitution": "traffic_cone",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)трансцендентность",
         "substitution": "transendent",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)капитан зяблик",
         "substitution": "triangle_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)трубка",
         "substitution": "trubka",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бакенбарды и трубка лорда л\\.",
         "substitution": "trubka_2",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маска шпиона",
         "substitution": "true_spy_red",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)нло",
         "substitution": "ufo",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)вентиль",
         "substitution": "valve",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)хеллсинг",
         "substitution": "van_helsing",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)очки виртуальной реальности",
         "substitution": "vr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем воина света",
         "substitution": "weather_master",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зимняя фуражка",
         "substitution": "winter_cap",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зимняя шапка",
         "substitution": "winter_hat",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чёрная зимняя шапка",
         "substitution": "winter_hat_bl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)синяя зимняя шапка",
         "substitution": "winter_hat_blu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)коричневая зимняя шапка",
         "substitution": "winter_hat_br",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бирюзовая зимняя шапка",
         "substitution": "winter_hat_cy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)серая зимняя шапка",
         "substitution": "winter_hat_gr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зелёная зимняя шапка",
         "substitution": "winter_hat_grn",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)голубая зимняя шапка",
         "substitution": "winter_hat_lbl",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)светло серая зимняя шапка",
         "substitution": "winter_hat_lgr",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лаймовая зимняя шапка",
         "substitution": "winter_hat_lim",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пурпурная зимняя шапка",
         "substitution": "winter_hat_mg",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оранжевая зимняя шапка",
         "substitution": "winter_hat_or",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)розовая зимняя шапка",
         "substitution": "winter_hat_pi",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)фиолетовая зимняя шапка",
         "substitution": "winter_hat_pu",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)красная зимняя шапка",
         "substitution": "winter_hat_rd",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)белая зимняя шапка",
         "substitution": "winter_hat_wh",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)жёлтая зимняя шапка",
         "substitution": "winter_hat_yel",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шляпа ведьмы",
         "substitution": "witch_vil",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ушанка",
         "substitution": "ysh",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кепка",
         "substitution": "yuri",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)ермолка иудея",
         "substitution": "zid",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зомбоящик",
         "substitution": "zomboyashik",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)маска клоуна",
         "substitution": "clowns_mask",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)оладьи",
         "substitution": "oladiy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)уши оладьи",
         "substitution": "white_ears_for_mroladushek69",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)шлем палача рока",
         "substitution": "doomhuy",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

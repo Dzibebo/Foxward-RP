@@ -13,7 +13,7 @@
       {
         "regex": "(?iu)лупа",
         "substitution": "magnifying_glass",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

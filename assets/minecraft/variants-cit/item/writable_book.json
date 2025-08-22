@@ -15,493 +15,493 @@
       {
         "regex": "(?iu)закрытый атлас",
         "substitution": "atlas",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)атлас",
         "substitution": "atlas_open",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)большая стопка документов",
         "substitution": "big_stack_of_documents",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)завёрнутый чертёж",
         "substitution": "blueprint",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чертеж",
         "substitution": "rolled_out_blueprint",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)план строительства",
         "substitution": "blueprint_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)документ",
         "substitution": "document",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая папка с документами",
         "substitution": "document_folder",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)папка с документами",
         "substitution": "document_folder_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая зачарованная книга",
         "substitution": "enchanted_book",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)зачарованная книга",
         "substitution": "enchanted_book_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чародейский том",
         "substitution": "enchanter_tome",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый чародейский том",
         "substitution": "enchanter_tome_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая канцелярская папка",
         "substitution": "folder",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)канцелярская папка",
         "substitution": "folder_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый гримуар",
         "substitution": "grimoire",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)гримуар",
         "substitution": "grimoire_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)голографическая записка",
         "substitution": "hologram_note",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)выключенная голографическая записка",
         "substitution": "hologram_note_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая библия",
         "substitution": "holy_bible",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)библия",
         "substitution": "holy_bible_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытое удостоверение",
         "substitution": "id",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)удостоверение",
         "substitution": "id_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытое письмо",
         "substitution": "letter",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытое послание в бутылке",
         "substitution": "letter_in_bottle",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)послание в бутылке",
         "substitution": "letter_in_bottle_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)письмо",
         "substitution": "letter_opened",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чистое письмо",
         "substitution": "letter_writable",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)лицензия",
         "substitution": "license",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)подписанная лицензия",
         "substitution": "license_in_frame",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый журнал",
         "substitution": "magazine",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)журнал",
         "substitution": "magazine_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый манифест",
         "substitution": "manifesto",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)манифест",
         "substitution": "manifesto_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая медицинская карта",
         "substitution": "medical_file",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)медицинская карта",
         "substitution": "medical_file_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый некрономикон",
         "substitution": "necronomicon",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)некрономикон",
         "substitution": "necronomicon_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая газета",
         "substitution": "newspaper",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)газета",
         "substitution": "newspaper_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый блокнот",
         "substitution": "notepad",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)блокнот",
         "substitution": "notepad_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)записка",
         "substitution": "notes",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая старинная книга",
         "substitution": "old_book",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)старинная книга",
         "substitution": "old_book_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытое старое письмо",
         "substitution": "old_letter",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)старое письмо",
         "substitution": "old_letter_opened",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)чистое старое письмо",
         "substitution": "old_letter_writable",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пропуск",
         "substitution": "pass",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый паспорт",
         "substitution": "passport",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)паспорт",
         "substitution": "passport_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытый партийный паспорт",
         "substitution": "passport_sssp",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)партийный паспорт",
         "substitution": "passport_sssp_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)пиратская карта",
         "substitution": "pirate_map",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)завёрнутая пиратская карта",
         "substitution": "pirate_map_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая сатанинская библия",
         "substitution": "satanic_bible",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)сатанинская библия",
         "substitution": "satanic_bible_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)завёрнутый свиток",
         "substitution": "scroll",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)свиток",
         "substitution": "scroll_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка документов",
         "substitution": "stack_of_documents",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка зачарованных книг",
         "substitution": "stack_of_enchanted_books",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка канцелярских папок",
         "substitution": "stack_of_folders",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка газет",
         "substitution": "stack_of_newspapers",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка записок",
         "substitution": "stack_of_notes",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка свитков",
         "substitution": "stack_of_scrolls",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)свиток досаждателя",
         "substitution": "vexing_chant",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)завёрнутый свиток досаждателя",
         "substitution": "vexing_chant_left_hand",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)деревянный планшет с бумагами",
         "substitution": "wooden_tablet_with_papers",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бумага с пером",
         "substitution": "paper_and_quill",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)книга",
         "substitution": "opened_book",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)закрытая книга",
         "substitution": "closed_book",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)книга с пером",
         "substitution": "book_and_quill",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка из 2 книг",
         "substitution": "stack_of_2_books",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка из 3 книг",
         "substitution": "stack_of_3_books",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка из 4 книг",
         "substitution": "stack_of_4_books",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка из 5 книг",
         "substitution": "stack_of_5_books",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)стопка из 6 книг",
         "substitution": "stack_of_6_books",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)бумаги",
         "substitution": "papers",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кипа бумаг 1",
         "substitution": "pile_of_papers1",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кипа бумаг 2",
         "substitution": "pile_of_papers2",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)кипа бумаг 3",
         "substitution": "pile_of_papers3",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)связка книг",
         "substitution": "bunch_of_books",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

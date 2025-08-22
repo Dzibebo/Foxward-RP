@@ -10,7 +10,7 @@
       {
         "regex": "(?iu)наручники",
         "substitution": "kandal_icon",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -10,7 +10,7 @@
       {
         "regex": "(?iu)дубинка",
         "substitution": "dubinka",
-        "matchAll": false,
+        "matchAll": true,
         "validate": false
       }
     ]

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/firework_rocket/firecrecker",
-		"particle": "item/firework_rocket/firecrecker"
+		"0": "item/arrow/firecrecker",
+		"particle": "item/arrow/firecrecker"
 	},
 	"elements": [
 		{

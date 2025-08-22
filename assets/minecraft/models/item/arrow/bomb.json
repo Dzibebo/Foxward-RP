@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/firework_rocket/bomb",
-		"particle": "item/firework_rocket/bomb"
+		"0": "item/arrow/bomb",
+		"particle": "item/arrow/bomb"
 	},
 	"elements": [
 		{

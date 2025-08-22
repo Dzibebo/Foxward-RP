@@ -3,7 +3,26 @@
   "items": [
     "minecraft:arrow",
     "minecraft:spectral_arrow",
-    "minecraft:tipped_arrow"
+    "minecraft:tipped_arrow",
+    "minecraft:firework_rocket",
+    "wind_charge",
+    "minecraft:candle",
+    "minecraft:white_candle",
+    "minecraft:orange_candle",
+    "minecraft:magenta_candle",
+    "minecraft:light_blue_candle",
+    "minecraft:yellow_candle",
+    "minecraft:lime_candle",
+    "minecraft:pink_candle",
+    "minecraft:gray_candle",
+    "minecraft:light_gray_candle",
+    "minecraft:cyan_candle",
+    "minecraft:purple_candle",
+    "minecraft:blue_candle",
+    "minecraft:brown_candle",
+    "minecraft:green_candle",
+    "minecraft:red_candle",
+    "minecraft:black_candle"
   ],
   "modelPrefix": "item/arrow/",
   "modelParent": "minecraft:item/generated",
@@ -74,6 +93,36 @@
       {
         "regex": "(?iu)межпространственный разлом",
         "substitution": "universal_clash",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бомба",
+        "substitution": "bomb",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)хлопушка",
+        "substitution": "firecrecker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)горючее",
+        "substitution": "gasoline",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ракета",
+        "substitution": "rocket",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)корсар",
+        "substitution": "firecracker",
         "matchAll": true,
         "validate": false
       }

@@ -11,21 +11,21 @@
   {
    "model": {
  "type": "minecraft:model",
-     "model": "item/bowpull/megashark_pulling_1"
+     "model": "item/bowpull/megashark_pulling"
     },
            "threshold": 0.65
    },
      {
  "model": {
      "type": "minecraft:model",
-         "model": "item/bowpull/megashark_pulling_2"
+         "model": "item/bowpull/megashark_pulling"
     },
     "threshold": 0.9
   }
       ],
   "fallback": {
  "type": "minecraft:model",
-       "model": "item/bowpull/megashark_pulling_0"
+       "model": "item/bowpull/megashark_pulling"
 },
  "property": "minecraft:use_duration",
  "scale": 0.05

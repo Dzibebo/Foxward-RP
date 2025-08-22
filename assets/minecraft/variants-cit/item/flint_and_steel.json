@@ -7,60 +7,21 @@
     "componentType": "custom_name",
     "debug": true,
     "transform": [
-      {
-        "regex": "(?iu)аметистовое огниво",
-        "substitution": "amethyst_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)дешёвая зажигалка",
         "substitution": "cheap_lighter",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)угольное огниво",
-        "substitution": "coal_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)медное огниво",
-        "substitution": "copper_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)алмазное огниво",
-        "substitution": "diamond_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)изумрудное огниво",
-        "substitution": "emerald_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)золотое огниво",
-        "substitution": "golden_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)золотая зажигалка",
         "substitution": "golden_lighter",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)лазуритовое огниво",
-        "substitution": "lapis_lazuli_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)зажигалка",
         "substitution": "lighter",
@@ -73,30 +34,14 @@
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)незеритовое огниво",
-        "substitution": "netherite_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)канистра с бензином",
         "substitution": "petrol_canister",
         "matchAll": true,
         "validate": false
-      },
-      {
-        "regex": "(?iu)кварцевое огниво",
-        "substitution": "quartz_flint_and_steel",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)редстоуновое огниво",
-        "substitution": "redstone_flint_and_steel",
-        "matchAll": true,
-        "validate": false
       }
+
     ]
   }
 }

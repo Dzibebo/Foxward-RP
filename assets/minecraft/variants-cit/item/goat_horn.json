@@ -24,6 +24,12 @@
         "substitution": "megaphone",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)саксофон",
+        "substitution": "saxophone",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

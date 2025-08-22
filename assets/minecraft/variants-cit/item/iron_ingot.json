@@ -2708,66 +2708,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)зелёная гирлянда",
-        "substitution": "green_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лофт гирлянда",
-        "substitution": "loft_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красная гирлянда",
-        "substitution": "red_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)маленькая синяя гирлянда",
-        "substitution": "small_blue_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)маленькая гирлянда",
-        "substitution": "small_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)маленькая зелёная гирлянда",
-        "substitution": "small_green_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)маленькая красная гирлянда",
-        "substitution": "small_red_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)маленькая жёлтая гирлянда",
-        "substitution": "small_yellow_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пчелиная гирлянда",
-        "substitution": "bee_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)жёлтая гирлянда",
-        "substitution": "yellow_garland",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)пепельница",
         "substitution": "ashtray",
         "matchAll": true,

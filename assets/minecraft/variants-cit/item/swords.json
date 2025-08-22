@@ -87,12 +87,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)био-клинок",
-        "substitution": "bio_blade",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)синяя боксёрская перчатка",
         "substitution": "blue_boxing_glove",
         "matchAll": true,

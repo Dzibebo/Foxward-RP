@@ -30,6 +30,12 @@
         "substitution": "saxophone",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)козике рога",
+        "substitution": "koziki_roga",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

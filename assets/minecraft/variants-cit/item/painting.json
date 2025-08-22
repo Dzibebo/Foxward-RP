@@ -102,6 +102,18 @@
         "substitution": "walk",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)not бедность",
+        "substitution": "rich",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)Шёл дождь",
+        "substitution": "rain",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

@@ -126,6 +126,18 @@
         "substitution": "ne1tral_deputat",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)никита говновоз",
+        "substitution": "koziki_roga",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кошенция",
+        "substitution": "serezhka",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

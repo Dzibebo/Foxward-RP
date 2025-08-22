@@ -12,6 +12,12 @@
         "substitution": "stone",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)гнилой помидор",
+        "substitution": "rotten_tomato",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

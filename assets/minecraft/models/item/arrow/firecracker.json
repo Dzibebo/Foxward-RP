@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"5": "item/arrow/firecracker"
@@ -56,8 +57,8 @@
 		},
 		"gui": {
 			"rotation": [30, 43, 0],
-			"translation": [0, 7.75, 0],
-			"scale": [1.65081, 1.65081, 1.65081]
+			"translation": [0, 4.75, 0],
+			"scale": [1.08636, 1.08636, 1.08636]
 		},
 		"head": {
 			"rotation": [-106.89, -5.56, 17.67],

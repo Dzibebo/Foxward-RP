@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
@@ -66,6 +67,11 @@
 			}
 		}
 	],
+	"overrides": [
+		{"predicate": {"brushing": 0}, "model": "item/brush/brush_walik"},
+		{"predicate": {"brushing": 0.5}, "model": "item/brush/brush_walik_1"},
+		{"predicate": {"brushing": 1}, "model": "item/brush/brush_walik"}
+	],
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 75, 0],
@@ -91,9 +97,9 @@
 			"rotation": [0, 0, 90]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [20.7, 54.46, -42.84],
 			"translation": [0, -1, 0],
-			"scale": [0.85352, 0.85352, 0.85352]
+			"scale": [0.72071, 0.72071, 0.72071]
 		},
 		"head": {
 			"rotation": [-90, 0, 0],
@@ -101,22 +107,7 @@
 			"scale": [2.01758, 2.01758, 2.01758]
 		},
 		"fixed": {
-			"rotation": [180, -90, 180]
+			"rotation": [-180, -90, -180]
 		}
-	},
-  "overrides": [
-    {
-      "predicate": { "brushing": 0.0 },
-      "model": "item/brush/brush_walik"
-    },
-    {
-      "predicate": { "brushing": 0.5 },
-      "model": "item/brush/brush_walik_1"
-    },
-    {
-      "predicate": { "brushing": 1.0 },
-      "model": "item/brush/brush_walik"
-    }
-  ]
-
+	}
 }

@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/totem_of_undying/serezhka",
+		"particle": "item/totem_of_undying/serezhka"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 13.3125, 16, 15.3125], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 13.25, 16, 15.25], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [16, 15.25, 0, 13.25], "texture": "#0"},
+				"down": {"uv": [0, 13.3125, 16, 15.3125], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.46094, 0.46094, 0.46094]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.46094, 0.46094, 0.46094]
+		},
+		"firstperson_righthand": {
+			"translation": [1.25, 4.25, 0],
+			"scale": [0.46094, 0.46094, 0.46094]
+		},
+		"firstperson_lefthand": {
+			"translation": [1.25, 4.25, 0],
+			"scale": [0.46094, 0.46094, 0.46094]
+		},
+		"ground": {
+			"translation": [0, 6.5, 0]
+		},
+		"head": {
+			"translation": [0, 0, -7.5]
+		}
+	}
+}

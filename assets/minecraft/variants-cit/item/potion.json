@@ -265,8 +265,38 @@
         "validate": false
       },
       {
-        "regex": "(?iu)американо",
-        "substitution": "coffee_for",
+        "regex": "(?iu)джин",
+        "substitution": "gin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)квас",
+        "substitution": "lidskiy_sas",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ликёр",
+        "substitution": "liqer",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ром",
+        "substitution": "rom",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)водка",
+        "substitution": "vodka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)виски",
+        "substitution": "whiskey",
         "matchAll": true,
         "validate": false
       }

@@ -2114,7 +2114,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)прожектор вкл",
+        "regex": "(?iu)прожектор",
         "substitution": "spotlight_on",
         "matchAll": true,
         "validate": false

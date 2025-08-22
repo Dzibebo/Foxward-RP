@@ -1117,6 +1117,12 @@
         "substitution": "dildo",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)горнило",
+        "substitution": "crucible",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

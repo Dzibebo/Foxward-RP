@@ -306,6 +306,12 @@
         "substitution": "up_arrow_sign_glyph",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)резиновый пенис",
+        "substitution": "dildo",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

@@ -276,66 +276,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)зачарованное аметистовое яблоко",
-        "substitution": "enchanted_amethyst_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное угольное яблоко",
-        "substitution": "enchanted_coal_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное медное яблоко",
-        "substitution": "enchanted_copper_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное алмазное яблоко",
-        "substitution": "enchanted_diamond_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное изумрудное яблоко",
-        "substitution": "enchanted_emerald_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное железное яблоко",
-        "substitution": "enchanted_iron_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное лазуритовое яблоко",
-        "substitution": "enchanted_lapis_lazuli_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное незеритовое яблоко",
-        "substitution": "enchanted_netherite_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное кварцевое яблоко",
-        "substitution": "enchanted_quartz_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зачарованное редстоуновое яблоко",
-        "substitution": "enchanted_redstone_apple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)картошка фри",
         "substitution": "french_fries",
         "matchAll": true,

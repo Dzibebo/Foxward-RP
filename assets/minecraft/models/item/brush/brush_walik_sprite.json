@@ -1,0 +1,7 @@
+{
+  "parent": "item/source_models/1xhand",
+  "textures": {
+          "layer0": "item/brush/brush_walik_sprite"}
+
+
+}

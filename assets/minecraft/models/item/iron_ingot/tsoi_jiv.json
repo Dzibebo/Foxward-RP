@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/iron_ingot/tsoi_jiv",
@@ -39,6 +40,10 @@
 		},
 		"ground": {
 			"translation": [0, 7, 0]
+		},
+		"gui": {
+			"rotation": [-90, 0, 180],
+			"translation": [0, 1, 0]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],

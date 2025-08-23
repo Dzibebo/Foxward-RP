@@ -246,24 +246,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пасхальное красное",
-        "substitution": "egg1",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пасхальное синее",
-        "substitution": "egg2",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пасхальное зеленое",
-        "substitution": "egg3",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)изумрудное яблоко",
         "substitution": "emerald_apple",
         "matchAll": true,

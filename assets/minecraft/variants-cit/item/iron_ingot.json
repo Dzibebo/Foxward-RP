@@ -2216,7 +2216,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)стойка с мечём",
+        "regex": "(?iu)стойка с мечом",
         "substitution": "sword_stand",
         "matchAll": true,
         "validate": false
@@ -2396,7 +2396,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)телевизор вкл",
+        "regex": "(?iu)телевизор",
         "substitution": "tv_on",
         "matchAll": true,
         "validate": false

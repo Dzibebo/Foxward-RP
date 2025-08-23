@@ -9,7 +9,7 @@
     "minecraft:netherite_hoe"
   ],
   "modelPrefix": "item/hoe/",
-  "modelParent": "minecraft:item/generated",
+  "modelParent": "minecraft:item/handheld",
   "parameters": {
     "componentType": "custom_name",
     "debug": true,

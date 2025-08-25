@@ -312,6 +312,12 @@
         "substitution": "dildo",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг",
+        "substitution": "ksepsp_wall_flag",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

@@ -2,7 +2,7 @@
   "type": "component_data",
   "items": "minecraft:shears",
   "modelPrefix": "item/shears/",
-  "modelParent": "minecraft:item/generated",
+  "modelParent": "minecraft:item/handheld",
   "parameters": {
     "componentType": "custom_name",
     "debug": true,
@@ -11,13 +11,6 @@
       {
         "regex": "(?iu)кусачки",
         "substitution": "cutters",
-        "matchAll": true,
-        "validate": false
-      },
-
-      {
-        "regex": "(?iu)золотой серп",
-        "substitution": "golden_sickle",
         "matchAll": true,
         "validate": false
       },

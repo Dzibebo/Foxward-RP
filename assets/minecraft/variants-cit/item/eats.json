@@ -84,7 +84,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)тако",
+        "regex": "(?iu)чебурек",
         "substitution": "bicorne_taco",
         "matchAll": true,
         "validate": false
@@ -560,6 +560,54 @@
       {
         "regex": "(?iu)резиновый пенис",
         "substitution": "dildo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пицца",
+        "substitution": "pizza",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пицца в коробке",
+        "substitution": "pizza_in_box",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)круассан с кофе",
+        "substitution": "croissant_coffe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)печенье с молоком",
+        "substitution": "cookie_milk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пирог",
+        "substitution": "pie",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медовик",
+        "substitution": "honey_cake",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чизкейк",
+        "substitution": "cheesecake",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ягодный пирог",
+        "substitution": "berry_pie",
         "matchAll": true,
         "validate": false
       }

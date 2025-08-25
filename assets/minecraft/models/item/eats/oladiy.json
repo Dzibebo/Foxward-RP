@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "item/eats/plate",
 		"1": "item/eats/oladiy",
-		"particle": "item/eats/plate"
+		"particle": "item/eats/oladiy"
 	},
 	"elements": [
 		{

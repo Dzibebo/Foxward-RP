@@ -2024,12 +2024,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)маленькая коробка с боеприпасами",
-        "substitution": "small_ammo_box",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)маленькая школьная доска",
         "substitution": "small_blackboard",
         "matchAll": true,

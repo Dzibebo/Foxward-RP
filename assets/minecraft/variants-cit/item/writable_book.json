@@ -475,30 +475,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)бумаги",
-        "substitution": "papers",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кипа бумаг 1",
-        "substitution": "pile_of_papers1",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кипа бумаг 2",
-        "substitution": "pile_of_papers2",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кипа бумаг 3",
-        "substitution": "pile_of_papers3",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)связка книг",
         "substitution": "bunch_of_books",
         "matchAll": true,

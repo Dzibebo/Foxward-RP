@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/iron_ingot/stack_of_4_books",
-		"particle": "item/iron_ingot/stack_of_4_books"
+		"0": "item/written_book/stack_of_4_books",
+		"particle": "item/written_book/stack_of_4_books"
 	},
 	"elements": [
 		{

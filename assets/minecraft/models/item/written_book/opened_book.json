@@ -1,8 +1,9 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/iron_ingot/opened_book"
+		"1": "item/written_book/opened_book"
 	},
 	"elements": [
 		{
@@ -59,24 +60,24 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 2.5, 0],
-			"scale": [0.375, 0.375, 0.375]
+			"rotation": [75, 0, 0],
+			"translation": [0, 3, 3.75],
+			"scale": [0.59375, 0.59375, 0.59375]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 2.5, 0],
-			"scale": [0.375, 0.375, 0.375]
+			"rotation": [75, 0, 0],
+			"translation": [0, 3, 3.75],
+			"scale": [0.59375, 0.59375, 0.59375]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 45, 0],
-			"translation": [0, 3.5, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"rotation": [75, 0, 0],
+			"translation": [0, 3, 3.75],
+			"scale": [0.59375, 0.59375, 0.59375]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 45, 0],
-			"translation": [0, 3.5, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"rotation": [75, 0, 0],
+			"translation": [0, 3, 3.75],
+			"scale": [0.59375, 0.59375, 0.59375]
 		},
 		"ground": {
 			"translation": [0, 3, 0],

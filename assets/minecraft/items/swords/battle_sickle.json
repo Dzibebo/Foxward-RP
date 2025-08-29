@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/battle_sickle_sprite"
+          "model": "item/swords/sprites/battle_sickle"
         },
         "when": [
           "gui",

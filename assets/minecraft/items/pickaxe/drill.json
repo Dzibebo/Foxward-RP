@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/drill_sprite"
+          "model": "item/pickaxe/sprites/drill"
         },
         "when": [
           "gui",
@@ -15,7 +15,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "item/pickaxe/drill"
+      "model": "item/pickaxe/2xhand_drill"
     },
     "property": "minecraft:display_context"
   }

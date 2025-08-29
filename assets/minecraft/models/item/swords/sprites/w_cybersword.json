@@ -1,0 +1,8 @@
+{
+  "parent": "item/source_models/1xhand",
+  "textures": {
+          "layer0": "item/swords/sprites/w_cybersword",
+    "layer1": "item/swords/sprites/w_cybersword_1"}
+
+
+}

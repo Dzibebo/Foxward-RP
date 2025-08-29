@@ -208,101 +208,12 @@
         "validate": false
       },
       {
-        "regex": "(?iu)чёрная кепка",
-        "substitution": "cap_bl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)синяя кепка",
-        "substitution": "cap_blu",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)коричневая кепка",
-        "substitution": "cap_br",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бирюзовая кепка",
-        "substitution": "cap_cy",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)серая кепка",
-        "substitution": "cap_gr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зелёная кепка",
-        "substitution": "cap_grn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)голубая кепка",
-        "substitution": "cap_lbl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)светло серая кепка",
-        "substitution": "cap_lgr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лаймовая кепка",
-        "substitution": "cap_lim",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пурпурная кепка",
-        "substitution": "cap_mg",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)оранжевая кепка",
-        "substitution": "cap_or",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)розовая кепка",
-        "substitution": "cap_pn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)фиолетовая кепка",
-        "substitution": "cap_pu",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красная кепка",
-        "substitution": "cap_rd",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)белая кепка",
+        "regex": "(?iu)кепка",
         "substitution": "cap_wh",
         "matchAll": true,
         "validate": false
       },
-      {
-        "regex": "(?iu)жёлтая кепка",
-        "substitution": "cap_yel",
-        "matchAll": true,
-        "validate": false
-      },
+
       {
         "regex": "(?iu)морковка",
         "substitution": "carrot",
@@ -556,104 +467,14 @@
         "validate": false
       },
       {
-        "regex": "(?iu)федора",
+        "regex": "(?iu)крутая федора",
         "substitution": "fedora_hat",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)синяя федора",
-        "substitution": "fedora_hat_bl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)чёрная федора",
-        "substitution": "fedora_hat_blc",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)коричневая федора",
-        "substitution": "fedora_hat_br",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бирюзовая федора",
-        "substitution": "fedora_hat_cy",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)серая федора",
-        "substitution": "fedora_hat_gr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зелёная федора",
-        "substitution": "fedora_hat_grn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)голубая федора",
-        "substitution": "fedora_hat_lb",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)светло серая федора",
-        "substitution": "fedora_hat_lgr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лаймовая федора",
-        "substitution": "fedora_hat_lg",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пурпурная федора",
-        "substitution": "fedora_hat_mg",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)оранжевая федора",
-        "substitution": "fedora_hat_or",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)розовая федора",
-        "substitution": "fedora_hat_pn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)фиолетовая федора",
-        "substitution": "fedora_hat_pu",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красная федора",
-        "substitution": "fedora_hat_rd",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)белая федора",
+        "regex": "(?iu)федора",
         "substitution": "fedora_hat_wh",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)жёлтая федора",
-        "substitution": "fedora_hat_ye",
         "matchAll": true,
         "validate": false
       },
@@ -796,7 +617,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)очки",
+        "regex": "(?iu)крутые очки",
         "substitution": "glasses",
         "matchAll": true,
         "validate": false
@@ -808,200 +629,20 @@
         "validate": false
       },
       {
-        "regex": "(?iu)синие очки",
-        "substitution": "glasses_color_bl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)чёрные очки",
-        "substitution": "glasses_color_blk",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)коричневые очки",
-        "substitution": "glasses_color_br",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бирюзовые очки",
-        "substitution": "glasses_color_cy",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)серые очки",
-        "substitution": "glasses_color_gr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зелёные очки",
-        "substitution": "glasses_color_grn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)голубые очки",
-        "substitution": "glasses_color_lbl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)светло серые очки",
-        "substitution": "glasses_color_lgr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лаймовые очки",
-        "substitution": "glasses_color_lim",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пурпурные очки",
-        "substitution": "glasses_color_mg",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)оранжевые очки",
-        "substitution": "glasses_color_or",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)розовые очки",
-        "substitution": "glasses_color_pn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)фиолетовые очки",
-        "substitution": "glasses_color_pu",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красные очки",
-        "substitution": "glasses_color_rd",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)белые очки",
+        "regex": "(?iu)очки",
         "substitution": "glasses_color_wh",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)жёлтые очки",
-        "substitution": "glasses_color_yl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)тёмные очки",
+        "regex": "(?iu)крутые тёмные очки",
         "substitution": "glasses_dark",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)синие тёмные очки",
-        "substitution": "glasses_dark_bl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)чёрные тёмные очки",
-        "substitution": "glasses_dark_blk",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)коричневые тёмные очки",
-        "substitution": "glasses_dark_br",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бирюзовые тёмные очки",
-        "substitution": "glasses_dark_cy",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)серые тёмные очки",
-        "substitution": "glasses_dark_gr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зелёные тёмные очки",
-        "substitution": "glasses_dark_grn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)голубые тёмные очки",
-        "substitution": "glasses_dark_lbl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)светло серые тёмные очки",
-        "substitution": "glasses_dark_lgr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лаймовые тёмные очки",
-        "substitution": "glasses_dark_lim",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пурпурные тёмные очки",
-        "substitution": "glasses_dark_mg",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)оранжевые тёмные очки",
-        "substitution": "glasses_dark_or",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)розовые тёмные очки",
-        "substitution": "glasses_dark_pn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)фиолетовые тёмные очки",
-        "substitution": "glasses_dark_pu",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красные тёмные очки",
-        "substitution": "glasses_dark_rd",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)белые тёмные очки",
+        "regex": "(?iu)тёмные очки",
         "substitution": "glasses_dark_wh",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)жёлтые тёмные очки",
-        "substitution": "glasses_dark_yl",
         "matchAll": true,
         "validate": false
       },
@@ -1954,104 +1595,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)зимняя шапка",
+        "regex": "(?iu)крутая зимняя шапка",
         "substitution": "winter_hat",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)чёрная зимняя шапка",
-        "substitution": "winter_hat_bl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)синяя зимняя шапка",
-        "substitution": "winter_hat_blu",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)коричневая зимняя шапка",
-        "substitution": "winter_hat_br",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бирюзовая зимняя шапка",
-        "substitution": "winter_hat_cy",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)серая зимняя шапка",
-        "substitution": "winter_hat_gr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зелёная зимняя шапка",
-        "substitution": "winter_hat_grn",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)голубая зимняя шапка",
-        "substitution": "winter_hat_lbl",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)светло серая зимняя шапка",
-        "substitution": "winter_hat_lgr",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лаймовая зимняя шапка",
-        "substitution": "winter_hat_lim",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пурпурная зимняя шапка",
-        "substitution": "winter_hat_mg",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)оранжевая зимняя шапка",
-        "substitution": "winter_hat_or",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)розовая зимняя шапка",
-        "substitution": "winter_hat_pi",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)фиолетовая зимняя шапка",
-        "substitution": "winter_hat_pu",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красная зимняя шапка",
-        "substitution": "winter_hat_rd",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)белая зимняя шапка",
-        "substitution": "winter_hat_wh",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)жёлтая зимняя шапка",
-        "substitution": "winter_hat_yel",
         "matchAll": true,
         "validate": false
       },
@@ -2062,13 +1607,19 @@
         "validate": false
       },
       {
+        "regex": "(?iu)зимняя шапка",
+        "substitution": "winter_hat_wh",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu)ушанка",
         "substitution": "ysh",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)кепка",
+        "regex": "(?iu)крутая кепка",
         "substitution": "yuri",
         "matchAll": true,
         "validate": false

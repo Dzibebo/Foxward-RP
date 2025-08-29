@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/cherpalk_sprite"
+          "model": "item/swords/sprites/cherpalk"
         },
         "when": [
           "gui",

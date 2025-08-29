@@ -169,6 +169,12 @@
         "validate": false
       },
       {
+        "regex": "(?iu)кирка из луносталина",
+        "substitution": "moonsteelin_pickaxe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu)ледоруб",
         "substitution": "mountaineer_pick",
         "matchAll": true,

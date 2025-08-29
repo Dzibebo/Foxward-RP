@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/bone_scythe_sprite"
+          "model": "item/swords/sprites/bone_scythe"
         },
         "when": [
           "gui",

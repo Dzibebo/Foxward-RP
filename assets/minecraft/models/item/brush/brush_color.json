@@ -1,0 +1,8 @@
+{
+  "parent": "item/source_models/1xhand",
+  "textures": {
+          "layer0": "item/brush/brush_color",
+    "layer1": "item/brush/brush_color_1"}
+
+
+}

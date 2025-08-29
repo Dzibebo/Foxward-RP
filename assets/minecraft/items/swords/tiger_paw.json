@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/tiger_paw_sprite"
+          "model": "item/swords/sprites/tiger_paw"
         },
         "when": [
           "gui",

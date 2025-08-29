@@ -1676,12 +1676,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)розовая ёлочная игрушка",
-        "substitution": "pink_tree_decoration",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)настенный флаг пиратского рейха",
         "substitution": "pirate_reich_wall_flag",
         "matchAll": true,
@@ -1852,12 +1846,6 @@
       {
         "regex": "(?iu)красный круг для плавания",
         "substitution": "red_pool_ring",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красная ёлочная игрушка",
-        "substitution": "red_tree_decoration",
         "matchAll": true,
         "validate": false
       },
@@ -2510,12 +2498,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)белая ёлочная игрушка",
-        "substitution": "white_tree_decoration",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)уитли",
         "substitution": "whitley",
         "matchAll": true,
@@ -2588,104 +2570,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пряжа чёрная",
-        "substitution": "yarn_black",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа синяя",
-        "substitution": "yarn_blue",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа коричневая",
-        "substitution": "yarn_brown",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа бирюзовая",
-        "substitution": "yarn_cyan",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа серая",
-        "substitution": "yarn_gray",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа зелёная",
-        "substitution": "yarn_green",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа голубая",
-        "substitution": "yarn_light_blue",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа светло-серая",
-        "substitution": "yarn_light_gray",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа лаймовая",
-        "substitution": "yarn_lime",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа пурпурная",
-        "substitution": "yarn_magenta",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа оранжевая",
-        "substitution": "yarn_orange",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа розовая",
-        "substitution": "yarn_pink",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа фиолетовая",
-        "substitution": "yarn_purple",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа красная",
-        "substitution": "yarn_red",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа белая",
+        "regex": "(?iu)пряжа",
         "substitution": "yarn_white",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пряжа жёлтая",
-        "substitution": "yarn_yellow",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)жёлтая ёлочная игрушка",
-        "substitution": "yellow_tree_decoration",
         "matchAll": true,
         "validate": false
       },

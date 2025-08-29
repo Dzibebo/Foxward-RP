@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/jousting_lance_sprite"
+          "model": "item/swords/sprites/jousting_lance"
         },
         "when": [
           "gui",

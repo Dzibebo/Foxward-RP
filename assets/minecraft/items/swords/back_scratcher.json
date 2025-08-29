@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/back_scratcher_sprite"
+          "model": "item/swords/sprites/back_scratcher"
         },
         "when": [
           "gui",

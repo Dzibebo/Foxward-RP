@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/harvest_scythe_sprite"
+          "model": "item/swords/sprites/harvest_scythe"
         },
         "when": [
           "gui",

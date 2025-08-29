@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/bread_monster_sprite"
+          "model": "item/swords/sprites/bread_monster"
         },
         "when": [
           "gui",

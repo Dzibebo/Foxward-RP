@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/pirate_hook_sprite"
+          "model": "item/swords/sprites/pirate_hook"
         },
         "when": [
           "gui",

@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/bonesaw_sprite"
+          "model": "item/swords/sprites/bonesaw"
         },
         "when": [
           "gui",

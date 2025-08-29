@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/swordstick_sprite"
+          "model": "item/swords/sprites/swordstick"
         },
         "when": [
           "gui",

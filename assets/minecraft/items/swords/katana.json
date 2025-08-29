@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/katana_sprite"
+          "model": "item/swords/sprites/katana"
         },
         "when": [
           "gui",

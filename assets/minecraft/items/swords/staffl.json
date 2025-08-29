@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/staffl_sprite"
+          "model": "item/swords/sprites/staffl"
         },
         "when": [
           "gui",

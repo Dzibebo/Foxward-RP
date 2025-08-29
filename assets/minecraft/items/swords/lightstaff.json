@@ -1,22 +1,31 @@
 {
   "model": {
     "type": "minecraft:select",
+    "property": "minecraft:display_context",
     "cases": [
       {
+        "when": ["gui", "ground"],
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/lightstaff_sprite"
-        },
-        "when": [
-          "gui",
-          "ground"
-        ]
+          "model": "item/swords/sprites/lightstaff",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -1950116
+            }
+          ]
+        }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "item/swords/lightstaff"
-    },
-    "property": "minecraft:display_context"
+      "model": "item/swords/lightstaff",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -1950116
+        }
+      ]
+    }
   }
 }

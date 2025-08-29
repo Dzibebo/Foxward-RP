@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/cheese_pickaxe_sprite"
+          "model": "item/pickaxe/sprites/cheese_pickaxe"
         },
         "when": [
           "gui",

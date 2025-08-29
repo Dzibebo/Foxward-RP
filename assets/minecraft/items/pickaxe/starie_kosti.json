@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/starie_kosti_sprite"
+          "model": "item/pickaxe/sprites/starie_kosti"
         },
         "when": [
           "gui",

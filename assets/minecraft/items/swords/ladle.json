@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/ladle_sprite"
+          "model": "item/swords/sprites/ladle"
         },
         "when": [
           "gui",

@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/leneyka_sprite"
+          "model": "item/swords/sprites/leneyka"
         },
         "when": [
           "gui",

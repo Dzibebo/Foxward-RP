@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "item/carved_pumpkin/glasses_color_wh",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1950116
+      }
+    ]
+  }
+}

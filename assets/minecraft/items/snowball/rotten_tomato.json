@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/rotten_tomato_sprite"
+          "model": "item/snowball/sprites/rotten_tomato"
         },
         "when": [
           "gui"
@@ -14,7 +14,7 @@
       },{
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/rotten_tomato_sprite2"
+          "model": "item/snowball/sprites/rotten_tomato2"
         },
         "when": [
           "ground"

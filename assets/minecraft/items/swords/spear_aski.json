@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/spear_aski_sprite"
+          "model": "item/swords/sprites/spear_aski"
         },
         "when": [
           "gui",

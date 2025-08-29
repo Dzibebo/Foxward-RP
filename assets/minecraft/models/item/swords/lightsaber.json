@@ -1,0 +1,7 @@
+{
+  "parent": "item/source_models/2xhand",
+  "textures": {
+    "layer0": "item/swords/lightsaber",
+	    "layer1": "item/swords/lightsaber_1"
+  }
+}

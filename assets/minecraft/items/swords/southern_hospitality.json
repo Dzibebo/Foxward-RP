@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/southern_hospitality_sprite"
+          "model": "item/swords/sprites/southern_hospitality"
         },
         "when": [
           "gui",

@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/double_blade_sword_sprite"
+          "model": "item/swords/sprites/double_blade_sword"
         },
         "when": [
           "gui",

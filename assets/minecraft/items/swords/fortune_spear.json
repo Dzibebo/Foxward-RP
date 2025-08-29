@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/fortune_spear_sprite"
+          "model": "item/swords/sprites/fortune_spear"
         },
         "when": [
           "gui",

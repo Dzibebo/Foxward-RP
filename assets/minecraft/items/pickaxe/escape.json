@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/escape_sprite"
+          "model": "item/pickaxe/sprites/escape"
         },
         "when": [
           "gui",

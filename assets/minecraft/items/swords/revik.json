@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/revik_sprite"
+          "model": "item/swords/sprites/revik"
         },
         "when": [
           "gui",

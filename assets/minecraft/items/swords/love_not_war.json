@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/love_not_war_sprite"
+          "model": "item/swords/sprites/love_not_war"
         },
         "when": [
           "gui",

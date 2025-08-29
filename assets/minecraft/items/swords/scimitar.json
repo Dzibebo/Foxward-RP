@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/scimitar_sprite"
+          "model": "item/swords/sprites/scimitar"
         },
         "when": [
           "gui",

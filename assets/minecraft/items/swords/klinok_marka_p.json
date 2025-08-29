@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/klinok_marka_sprite"
+          "model": "item/swords/sprites/klinok_marka"
         },
         "when": [
           "gui",

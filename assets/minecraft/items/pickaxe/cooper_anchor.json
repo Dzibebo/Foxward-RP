@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/cooper_anchor_sprite"
+          "model": "item/pickaxe/sprites/cooper_anchor"
         },
         "when": [
           "gui",

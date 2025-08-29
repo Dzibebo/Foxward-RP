@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/entrenching_tool_sprite"
+          "model": "item/pickaxe/sprites/entrenching_tool"
         },
         "when": [
           "gui",

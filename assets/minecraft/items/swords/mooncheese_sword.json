@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/mooncheese_sword_sprite"
+          "model": "item/swords/sprites/mooncheese_sword"
         },
         "when": [
           "gui",

@@ -7,7 +7,7 @@
         "when": ["gui", "ground"],
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/white_boxing_glove_sprite",
+          "model": "item/swords/sprites/white_boxing_glove",
           "tints": [
             {
               "type": "minecraft:dye",

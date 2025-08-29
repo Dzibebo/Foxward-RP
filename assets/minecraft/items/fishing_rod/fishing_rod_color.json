@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "item/fishing_rod/fishing_rod_color",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -1950116
+        }
+      ]
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "item/fishing_rodpull/fishing_rod_cast_color",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -1950116
+        }
+      ]
+    },
+    "property": "minecraft:fishing_rod/cast"
+  }
+}

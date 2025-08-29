@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/bowie_knife_sprite"
+          "model": "item/swords/sprites/bowie_knife"
         },
         "when": [
           "gui",

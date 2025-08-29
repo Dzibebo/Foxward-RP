@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/flip_knife_sprite"
+          "model": "item/swords/sprites/flip_knife"
         },
         "when": [
           "gui",

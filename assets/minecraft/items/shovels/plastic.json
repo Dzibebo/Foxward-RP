@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": ["gui", "ground"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/shovels/sprites/plastic",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -1950116
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/shovels/plastic",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -1950116
+        }
+      ]
+    }
+  }
+}

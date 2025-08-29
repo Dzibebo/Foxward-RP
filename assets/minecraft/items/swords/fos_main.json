@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/fos_main_sprite"
+          "model": "item/swords/sprites/fos_main"
         },
         "when": [
           "gui",

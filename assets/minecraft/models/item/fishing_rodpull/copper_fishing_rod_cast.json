@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/fishing_rod",
-  "textures": {
-    "layer0": "item/fishing_rodpull/copper_fishing_rod_cast"
-  }
-}

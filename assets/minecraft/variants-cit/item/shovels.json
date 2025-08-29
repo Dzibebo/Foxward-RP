@@ -42,14 +42,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)синяя пластиковая лопатка",
-        "substitution": "plastic_b",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красная пластиковая лопатка",
-        "substitution": "plastic_r",
+        "regex": "(?iu)пластиковая лопатка",
+        "substitution": "plastic",
         "matchAll": true,
         "validate": false
       },

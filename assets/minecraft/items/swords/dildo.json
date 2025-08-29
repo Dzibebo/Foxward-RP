@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/dildo_sprite"
+          "model": "item/swords/sprites/dildo"
         },
         "when": [
           "gui",

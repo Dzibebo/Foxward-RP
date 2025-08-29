@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/iron_saber_sprite"
+          "model": "item/swords/sprites/iron_saber"
         },
         "when": [
           "gui",

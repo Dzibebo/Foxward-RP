@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/rapire_sprite"
+          "model": "item/swords/sprites/rapire"
         },
         "when": [
           "gui",

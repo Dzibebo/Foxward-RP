@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/encrusted_anchor_sprite"
+          "model": "item/pickaxe/sprites/encrusted_anchor"
         },
         "when": [
           "gui",

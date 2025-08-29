@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/your_eternal_reward_sprite"
+          "model": "item/swords/sprites/your_eternal_reward"
         },
         "when": [
           "gui",

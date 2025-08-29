@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/skalka_for_mroladushek69_sprite"
+          "model": "item/swords/sprites/skalka_for_mroladushek69"
         },
         "when": [
           "gui",

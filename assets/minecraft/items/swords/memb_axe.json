@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/memb_axe_sprite"
+          "model": "item/swords/sprites/memb_axe"
         },
         "when": [
           "gui",

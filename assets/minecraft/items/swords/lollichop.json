@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/lollichop_sprite"
+          "model": "item/swords/sprites/lollichop"
         },
         "when": [
           "gui",

@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/heartstealer_sprite"
+          "model": "item/swords/sprites/heartstealer"
         },
         "when": [
           "gui",

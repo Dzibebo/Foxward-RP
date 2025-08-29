@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/iron_halberd_sprite"
+          "model": "item/swords/sprites/iron_halberd"
         },
         "when": [
           "gui",

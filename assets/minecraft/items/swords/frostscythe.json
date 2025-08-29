@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/frostscythe_sprite"
+          "model": "item/swords/sprites/frostscythe"
         },
         "when": [
           "gui",

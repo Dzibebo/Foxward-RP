@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/red_ubersaw_sprite"
+          "model": "item/swords/sprites/red_ubersaw"
         },
         "when": [
           "gui",

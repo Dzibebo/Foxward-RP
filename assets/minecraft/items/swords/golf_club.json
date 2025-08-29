@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/golf_club_sprite"
+          "model": "item/swords/sprites/golf_club"
         },
         "when": [
           "gui",

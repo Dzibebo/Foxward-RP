@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/lomik_sprite"
+          "model": "item/pickaxe/sprites/lomik"
         },
         "when": [
           "gui",

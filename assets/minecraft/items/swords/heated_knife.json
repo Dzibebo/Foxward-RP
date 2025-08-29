@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/heated_knife_sprite"
+          "model": "item/swords/sprites/heated_knife"
         },
         "when": [
           "gui",

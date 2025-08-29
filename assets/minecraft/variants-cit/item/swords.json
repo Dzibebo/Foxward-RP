@@ -87,38 +87,14 @@
         "validate": false
       },
       {
-        "regex": "(?iu)синяя боксёрская перчатка",
-        "substitution": "blue_boxing_glove",
+        "regex": "(?iu)боксёрская перчатка",
+        "substitution": "white_boxing_glove",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)голубой световой меч",
-        "substitution": "blue_lightsaber",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зелёный световой меч",
-        "substitution": "green_lightsaber",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красный световой меч",
-        "substitution": "red_lightsaber",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)фиолетовый световой меч",
-        "substitution": "violet_lightsaber",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)жёлтый световой меч",
-        "substitution": "yellow_lightsaber",
+        "regex": "(?iu)световой меч",
+        "substitution": "lightsaber",
         "matchAll": true,
         "validate": false
       },
@@ -191,18 +167,6 @@
       {
         "regex": "(?iu)шумный улей",
         "substitution": "buzzy_nest",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)синий киберкулак",
-        "substitution": "b_cyberpunch",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)синий кибернетический меч",
-        "substitution": "b_cybersword",
         "matchAll": true,
         "validate": false
       },
@@ -441,18 +405,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)зелёный киберкулак",
-        "substitution": "g_cyberpunch",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зеленый кибернетический меч",
-        "substitution": "g_cybersword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мясная дубина",
         "substitution": "ham_bat",
         "matchAll": true,
@@ -555,18 +507,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)голубой киберкулак",
-        "substitution": "lb_cyberpunch",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)голубой кибернетический меч",
-        "substitution": "lb_cybersword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)кусок трубы",
         "substitution": "lead_pipe",
         "matchAll": true,
@@ -645,18 +585,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)оранжевый киберкулак",
-        "substitution": "o_cyberpunch",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)оранжевый кибернетический меч",
-        "substitution": "o_cybersword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)калыван младший",
         "substitution": "pablosword",
         "matchAll": true,
@@ -717,26 +645,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)фиолетовый киберкулак",
-        "substitution": "p_cyberpunch",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)фиолетовый кибернетический меч",
-        "substitution": "p_cybersword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)рапира",
         "substitution": "rapire",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красная боксёрская перчатка",
-        "substitution": "red_boxing_glove",
         "matchAll": true,
         "validate": false
       },
@@ -755,18 +665,6 @@
       {
         "regex": "(?iu)скалка",
         "substitution": "rolling_pin",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красный киберкулак",
-        "substitution": "r_cyberpunch",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)красный кибернетический меч",
-        "substitution": "r_cybersword",
         "matchAll": true,
         "validate": false
       },
@@ -921,14 +819,14 @@
         "validate": false
       },
       {
-        "regex": "(?iu)жёлтый киберкулак",
-        "substitution": "y_cyberpunch",
+        "regex": "(?iu)киберкулак",
+        "substitution": "cyberpunch",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)желтый кибернетический меч",
-        "substitution": "y_cybersword",
+        "regex": "(?iu)кибернетический меч",
+        "substitution": "w_cybersword",
         "matchAll": true,
         "validate": false
       },

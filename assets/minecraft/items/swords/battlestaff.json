@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/sprites/battlestaff_sprite"
+          "model": "item/swords/sprites/battlestaff"
         },
         "when": [
           "gui",

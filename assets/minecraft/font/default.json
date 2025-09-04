@@ -622,6 +622,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u07F8"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/dzinko.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u09B8"]
 		}
 	]
 }

@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"3": "item/eats/stripped_spruce_poleno"
+		"3": "item/eats/stripped_spruce_poleno",
+		"particle": "item/eats/stripped_spruce_poleno"
 	},
 	"elements": [
 		{

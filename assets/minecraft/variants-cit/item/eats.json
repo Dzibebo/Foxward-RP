@@ -610,6 +610,12 @@
         "substitution": "berry_pie",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)шоколадный ленин",
+        "substitution": "chocolate_lenin",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

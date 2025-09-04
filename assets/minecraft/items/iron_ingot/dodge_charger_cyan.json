@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "item/iron_ingot/dodge_charger_cyan",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1950116
+      }
+    ]
+  }
+}

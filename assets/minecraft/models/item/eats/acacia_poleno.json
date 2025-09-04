@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"3": "item/eats/acacia_poleno"
+		"3": "item/eats/acacia_poleno",
+		"particle": "item/eats/acacia_poleno"
 	},
 	"elements": [
 		{

@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"3": "item/eats/cherry_poleno"
+		"3": "item/eats/cherry_poleno",
+		"particle": "item/eats/cherry_poleno"
 	},
 	"elements": [
 		{

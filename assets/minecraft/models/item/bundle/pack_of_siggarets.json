@@ -1,9 +1,10 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/iron_ingot/pack_of_siggarets",
-		"particle": "item/iron_ingot/pack_of_siggarets"
+		"0": "item/bundle/pack_of_siggarets",
+		"particle": "item/bundle/pack_of_siggarets"
 	},
 	"elements": [
 		{

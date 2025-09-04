@@ -1,0 +1,37 @@
+{
+  "type": "component_data",
+  "items": [
+    "minecraft:bundle",
+    "minecraft:white_bundle",
+    "minecraft:orange_bundle",
+    "minecraft:magenta_bundle",
+    "minecraft:light_blue_bundle",
+    "minecraft:yellow_bundle",
+    "minecraft:lime_bundle",
+    "minecraft:pink_bundle",
+    "minecraft:gray_bundle",
+    "minecraft:light_gray_bundle",
+    "minecraft:cyan_bundle",
+    "minecraft:purple_bundle",
+    "minecraft:blue_bundle",
+    "minecraft:brown_bundle",
+    "minecraft:green_bundle",
+    "minecraft:red_bundle",
+    "minecraft:black_bundle"
+  ],
+  "modelPrefix": "item/bundle/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "custom_name",
+    "debug": true,
+    "transform": [
+      {
+        "regex": "(?iu)три маффина с вишенкой",
+        "substitution": "3cherrymaffin",
+        "matchAll": true,
+        "validate": false
+      }
+
+    ]
+  }
+}

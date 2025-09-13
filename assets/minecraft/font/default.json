@@ -629,6 +629,20 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u09B8"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/nonrp.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\uA917"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/rp.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\uA916"]
 		}
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/eats/ponch",
+	"textures": {
+		"5": "item/eats/chocolate_donut",
+				"particle": "item/eats/chocolate_donut"
+	}
+}

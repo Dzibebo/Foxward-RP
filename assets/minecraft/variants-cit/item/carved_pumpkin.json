@@ -1659,6 +1659,24 @@
         "substitution": "doomhuy",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)совёнок",
+        "substitution": "owl",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)грибочек",
+        "substitution": "mushroom",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лисичка",
+        "substitution": "foxward_fox",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

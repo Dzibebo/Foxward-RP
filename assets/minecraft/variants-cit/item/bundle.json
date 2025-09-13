@@ -26,8 +26,32 @@
     "debug": true,
     "transform": [
       {
-        "regex": "(?iu)три маффина с вишенкой",
-        "substitution": "3cherrymaffin",
+        "regex": "(?iu)поднос",
+        "substitution": "platter",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)горшочек",
+        "substitution": "pot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пачка сигарет",
+        "substitution": "pack_of_siggarets",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)колода карт",
+        "substitution": "deck",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наплечная сумка",
+        "substitution": "handbag",
         "matchAll": true,
         "validate": false
       }

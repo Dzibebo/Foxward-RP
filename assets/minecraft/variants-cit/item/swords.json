@@ -777,12 +777,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)убер-шприц",
-        "substitution": "uber_syringe4",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)вита-пила",
         "substitution": "vita_saw",
         "matchAll": true,
@@ -1019,6 +1013,18 @@
       {
         "regex": "(?iu)горнило",
         "substitution": "crucible",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полный убер шприц",
+        "substitution": "uber_syringe4",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)убер шприц",
+        "substitution": "uber_syringe0",
         "matchAll": true,
         "validate": false
       }

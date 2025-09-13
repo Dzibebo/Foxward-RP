@@ -2618,12 +2618,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пачка сигарет",
-        "substitution": "pack_of_siggarets",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)лупа",
         "substitution": "loupe",
         "matchAll": true,

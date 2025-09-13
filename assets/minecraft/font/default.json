@@ -632,14 +632,14 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/foxicons/purchase/nonrp.png",
+			"file": "minecraft:gui/foxicons/logo/nonrp.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA917"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:gui/foxicons/purchase/rp.png",
+			"file": "minecraft:gui/foxicons/logo/rp.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA916"]

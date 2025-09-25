@@ -479,6 +479,12 @@
         "substitution": "bunch_of_books",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)документ петрозаводска",
+        "substitution": "petrozavodsk_document",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

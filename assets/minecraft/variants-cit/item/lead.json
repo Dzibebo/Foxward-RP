@@ -18,6 +18,12 @@
         "substitution": "lasso",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)бдсм наручники",
+        "substitution": "bdsm_kandal",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

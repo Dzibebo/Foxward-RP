@@ -3,7 +3,8 @@
 	"credit": "by ZzemOxyz",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "item/iron_ingot/vaz_2103_bordo"
+		"1": "item/iron_ingot/vaz_2103_bordo",
+		"particle": "item/iron_ingot/vaz_2103_bordo"
 	},
 	"elements": [
 		{

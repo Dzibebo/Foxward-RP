@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/iron_ingot/iron_cabinet"
+		"1": "item/iron_ingot/iron_cabinet",
+		"particle": "item/iron_ingot/iron_cabinet"
 	},
 	"elements": [
 		{

@@ -60,6 +60,37 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -64, 0],
+			"translation": [-1, 2.75, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 122, 0],
+			"translation": [-0.5, 2.75, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 21.25, -13.75],
+			"translation": [2.25, 6.75, 0.75],
+			"scale": [0.83984, 0.83984, 0.83984]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -171, 14],
+			"translation": [2.25, 7.5, 0.75],
+			"scale": [0.83984, 0.83984, 0.83984]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [2.75, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",

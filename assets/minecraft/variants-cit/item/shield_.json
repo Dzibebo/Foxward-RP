@@ -1,0 +1,109 @@
+{
+  "type": "component_data",
+  "items": "minecraft:shield",
+  "modelPrefix": "item/shield/",
+  "modelParent": "item/source_models/gen_shield",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)щит кэпа",
+        "substitution": "cap_shield",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)штурмовой щит",
+        "substitution": "charging_tire",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)выбитая дверь",
+        "substitution": "door_shield",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)выбитая сетчатая дверь",
+        "substitution": "door_shield_setka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шелленбаум",
+        "substitution": "d_musik",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)геральдический щит",
+        "substitution": "gerald",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)роскошное прикрытие",
+        "substitution": "great_shield",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)крышка кастрюли",
+        "substitution": "kastrkrish",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)энергетический щит",
+        "substitution": "med_shield",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полицейский щит",
+        "substitution": "police_shield",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)козий щит",
+        "substitution": "rogatiy_shield",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вьетнамская оборона",
+        "substitution": "shield_balzam",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ручной щиток",
+        "substitution": "shield_hand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)щит свиночеловека",
+        "substitution": "shield_piglin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бывалый рулевой",
+        "substitution": "shield_wheel",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верный штурвал",
+        "substitution": "shield_wheel_2",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

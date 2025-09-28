@@ -5,8 +5,9 @@
   "modelParent": "minecraft:item/generated",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
+    "transform": ["lowercase",
       {
         "regex": "(?iu)канделябр с 1 свечой",
         "substitution": "1_candle_candelabra",

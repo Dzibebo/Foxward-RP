@@ -1,0 +1,2707 @@
+{
+  "type": "component_data",
+  "items": "minecraft:iron_ingot",
+  "modelPrefix": "item/iron_ingot/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)канделябр с 1 свечой",
+        "substitution": "1_candle_candelabra",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный канделябр с 1 свечой",
+        "substitution": "1_candle_wall_candelabra",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)канделябр с 3 свечами",
+        "substitution": "3_candle_candelabra",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный канделябр с 3 свечами",
+        "substitution": "3_candle_wall_candelabra",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)акациевый шкаф с 2 ящиками",
+        "substitution": "acacia_2_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)акациевый шкаф с 3 папками",
+        "substitution": "acacia_3_folders_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний акациевый шкаф с 6 ящиками",
+        "substitution": "acacia_6_drawers_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)акациевый шкаф с коробкой",
+        "substitution": "acacia_box_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)акациевый шкаф с зеркалом",
+        "substitution": "acacia_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)акациевая раковина",
+        "substitution": "acacia_sink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старинный глобус",
+        "substitution": "ancient_globe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)антикварный телефон",
+        "substitution": "antique_phone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)антикварная тарелка",
+        "substitution": "antique_plate",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)антикварная настольная лампа",
+        "substitution": "antique_table_lamp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)антикварный столовый набор",
+        "substitution": "antique_table_set",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)антикварный чайник",
+        "substitution": "antique_teapot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)антикварный чайный сервиз",
+        "substitution": "antique_tea_set",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ребёнок",
+        "substitution": "baby",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шарик",
+        "substitution": "balloon",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бамбуковый шкаф с 2 полками",
+        "substitution": "bamboo_2_shelfs_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний бамбуковый шкаф с 3 полками",
+        "substitution": "bamboo_3_shelfs_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бамбуковый шкаф с 9 полками",
+        "substitution": "bamboo_9_shelfs_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бамбуковый шкаф с решёткой",
+        "substitution": "bamboo_bars_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бамбуковый шкаф с узором",
+        "substitution": "bamboo_decorated_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)штанга",
+        "substitution": "barbell",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бочка с копьями",
+        "substitution": "barrel_of_spears",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бочка с мечами",
+        "substitution": "barrel_of_swords",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)басс",
+        "substitution": "bass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)bdsm уточка",
+        "substitution": "bdsm_duck",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скамейка",
+        "substitution": "bench",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левая часть скамейки",
+        "substitution": "bench_left_side",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правая часть скамейки",
+        "substitution": "bench_right_side",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большая вязанка дров",
+        "substitution": "big_cord_of_wood",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большая пробковая доска",
+        "substitution": "big_cork_board",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большое зеркало",
+        "substitution": "big_mirror",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой старый телевизор",
+        "substitution": "big_old_tv",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой мешок",
+        "substitution": "big_pack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)планшет",
+        "substitution": "big_smart",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой вентильный кран",
+        "substitution": "big_valve_faucet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бинокль",
+        "substitution": "binoculars",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)берёзовый шкаф с 2 ящиками",
+        "substitution": "birch_2_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний берёзовый шкаф с 2 ящиками",
+        "substitution": "birch_2_drawers_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)берёзовый шкаф с ящиком",
+        "substitution": "birch_drawer_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)берёзовый шкаф с зеркалом с 6 секциями",
+        "substitution": "birch_mirror_6_sections_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)берёзовый шкаф с зеркалом",
+        "substitution": "birch_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)берёзовая раковина",
+        "substitution": "birch_sink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)школьная доска",
+        "substitution": "blackboard",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)голубой пакет с мусором",
+        "substitution": "bluetrashbag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)малый голубой пакет с мусором",
+        "substitution": "bluetrashbag2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синий круг для плавания",
+        "substitution": "blue_pool_ring",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)котёл с жижей",
+        "substitution": "boiler",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ограждение",
+        "substitution": "bordur",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большая коробка",
+        "substitution": "box1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большая закрытая коробка",
+        "substitution": "box2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)коробки",
+        "substitution": "box3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мозг в банке",
+        "substitution": "brain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)разбитое зеркало",
+        "substitution": "broken_mirror",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)коричневая кофе машина",
+        "substitution": "brown_espressomachine",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)коричневые грибы",
+        "substitution": "brown_mushrooms",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пустое ведро",
+        "substitution": "bucket",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)строительные ящики",
+        "substitution": "buildbox",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)куча лабораторных пробирок",
+        "substitution": "bunch_of_test_tubes",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотая кнопка",
+        "substitution": "button_yt",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)камера",
+        "substitution": "camerapenis",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)банановая камера видеонаблюдения",
+        "substitution": "camera_bananas",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)банановая камера видеонаблюдения left",
+        "substitution": "camera_bananas_left",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)банановая камера видеонаблюдения right",
+        "substitution": "camera_bananas_right",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тёмная купольная камера",
+        "substitution": "cameracd",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)какишная купольная камера",
+        "substitution": "camerack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)купольная камера",
+        "substitution": "camerac",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тёмная камера видеонаблюдения",
+        "substitution": "camera_dark",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тёмная камера видеонаблюдения left",
+        "substitution": "camera_dark_left",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тёмная камера видеонаблюдения right",
+        "substitution": "camera_dark_right",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)камера видеонаблюдения",
+        "substitution": "camera",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)камера видеонаблюдения left",
+        "substitution": "camera_left",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)камера видеонаблюдения right",
+        "substitution": "camera_right",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)подсвечник",
+        "substitution": "candlestick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)автомобильная покрышка",
+        "substitution": "car_tire",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)колонна из автомобильных покрышек",
+        "substitution": "car_tire_column",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стена из автомобильных покрышек",
+        "substitution": "car_tire_wall",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)автомобильное колесо",
+        "substitution": "car_wheel",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большое автомобильное колесо",
+        "substitution": "car_wheel_big",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кассовый аппарат",
+        "substitution": "cash_register",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)потолочный вентилятор",
+        "substitution": "ceiling_fan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)выключенный потолочный вентилятор",
+        "substitution": "ceiling_fan_off",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)потолочная лампа",
+        "substitution": "ceiling_lamp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)центрифуга",
+        "substitution": "centrifuge",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)цепная подпорка",
+        "substitution": "chain_bracing",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плафон на цепи",
+        "substitution": "chain_ceiling_lamp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)керосиновая лампа на цепи",
+        "substitution": "chain_oil_lantern",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)керосиновая лампа душ на цепи",
+        "substitution": "chain_soul_oil_lantern",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стул",
+        "substitution": "chair",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)люстра со свечами",
+        "substitution": "chandelier",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева с 4 секциями",
+        "substitution": "cherry_4_section_shoji_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева с 6 секциями",
+        "substitution": "cherry_6_section_shoji_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева с росписью",
+        "substitution": "cherry_painting_shoji_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева",
+        "substitution": "cherry_shoji_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний шкаф сёдзи из вишнёвого дерева",
+        "substitution": "cherry_shoji_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шевроле хэви ван мистическая машина",
+        "substitution": "chevrolet_chevy_van_mystery_machine",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шевроле корвет барби",
+        "substitution": "chevrolet_corvette_barbie",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фишка \\$i",
+        "substitution": "token",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фишка \\$x",
+        "substitution": "token3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фишка \\$c",
+        "substitution": "token5",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фишка \\$m",
+        "substitution": "token7",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фишка \\$v",
+        "substitution": "token2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фишка \\$l",
+        "substitution": "token4",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фишка \\$d",
+        "substitution": "token6",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красный рождественский носок",
+        "substitution": "christmas_sock_red",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)телефон раскладушка",
+        "substitution": "clamshell_phone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мешок глины",
+        "substitution": "clay_bag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой мешок глины",
+        "substitution": "clay_pack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)часы",
+        "substitution": "clock",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)простыня",
+        "substitution": "cloth",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кофейный набор",
+        "substitution": "coffee_set",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)командный блок",
+        "substitution": "command_block",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вязанка дров",
+        "substitution": "cord_of_wood",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пробковая доска",
+        "substitution": "cork_board",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)косметика",
+        "substitution": "cosmetic",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)расколотое драконье яйцо",
+        "substitution": "crackegg",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)краштест арсен",
+        "substitution": "crashtest_arsen",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)краштест карен",
+        "substitution": "crashtest_karen",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)краштест вахтанг",
+        "substitution": "crashtest_vahtang",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скелет крипера",
+        "substitution": "creeper_anatomy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка крипер",
+        "substitution": "creeper_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка разбойник",
+        "substitution": "crossbow_illager",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гейм куб",
+        "substitution": "cube",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)утяжеленный грузовой куб",
+        "substitution": "cube1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)утяжеленный грузовой куб компаньон",
+        "substitution": "cube2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старая камера видеонаблюдения",
+        "substitution": "cumera",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старая камера видеонаблюдения left",
+        "substitution": "cumera_left",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старая камера видеонаблюдения right",
+        "substitution": "cumera_right",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тёмного дуба с 2 ящиками",
+        "substitution": "dark_oak_2_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний шкаф из тёмного дуба с 2 ящиками",
+        "substitution": "dark_oak_2_drawers_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тёмного дуба с 6 ящиками",
+        "substitution": "dark_oak_6_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тёмного дуба с буазери",
+        "substitution": "dark_oak_boiserie_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тёмного дуба с зеркалом",
+        "substitution": "dark_oak_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)раковина из тёмного дуба",
+        "substitution": "dark_oak_sink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дэн дэн муши трафальгар д\\. ватер ло",
+        "substitution": "ddm_torafarugaro",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мёртвое тело",
+        "substitution": "dead_body",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мёртвый зомби",
+        "substitution": "dead_zombie",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)декоративный горшок",
+        "substitution": "decorated_pot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мешок земли",
+        "substitution": "dirt_bag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой мешок земли",
+        "substitution": "dirt_pack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)делориан-12",
+        "substitution": "dms_classic",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)делориан-12 плюс",
+        "substitution": "dms_future",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)додж чарджер чёрный v8",
+        "substitution": "dodge_charger_black_v8",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)додж чарджер чёрный",
+        "substitution": "dodge_charger_black",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)додж чарджер циан",
+        "substitution": "dodge_charger_cyan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)додж чарджер оранжевый",
+        "substitution": "dodge_charger_orange",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дрон",
+        "substitution": "drone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кейс с дроном",
+        "substitution": "drone_case_off",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пульт управления дроном",
+        "substitution": "drone_remote",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)капельница",
+        "substitution": "dropper",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка утопленник",
+        "substitution": "drowned_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)барабанная палочка",
+        "substitution": "drum_stick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)уточка",
+        "substitution": "duck",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)уточка люцифер",
+        "substitution": "duck_lucifer",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гантель",
+        "substitution": "dumbbell",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мольберт",
+        "substitution": "easel",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мольберт с рисунком",
+        "substitution": "easel_with_painting",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка странник",
+        "substitution": "ender",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)хорникс клубничный",
+        "substitution": "ero_lube_strawberry",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)wd-40",
+        "substitution": "ero_lube_wd40",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вибратор",
+        "substitution": "ero_vib_mini",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)распорка",
+        "substitution": "ero_x",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кофе машина",
+        "substitution": "espressomachine",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)огнетушитель",
+        "substitution": "extinguisher",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)смеситель",
+        "substitution": "faucet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полное мусорное ведро",
+        "substitution": "filled_trash_can",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бочка для разведения огня",
+        "substitution": "fire_barrel",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бочка с рыбой",
+        "substitution": "fish_barrel",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)розовый круг для плавания",
+        "substitution": "flamingo_pool_ring",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полицейская машина",
+        "substitution": "ford_corwn_victoria_police",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бобик полицейский",
+        "substitution": "ford_corwn_victoria_police_w",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)форд краун виктория такси",
+        "substitution": "ford_corwn_victoria_taxi",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)холодильник",
+        "substitution": "freezer",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гейм бой",
+        "substitution": "gameboy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)генератор",
+        "substitution": "generator",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гладос",
+        "substitution": "glados",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)глобус",
+        "substitution": "globe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)светящийся спрут игрушка",
+        "substitution": "glow_squid_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)граммофон",
+        "substitution": "gramophone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мешок гравия",
+        "substitution": "gravel_bag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой мешок гравия",
+        "substitution": "gravel_pack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)серая кофе машина",
+        "substitution": "gray_espressomachine",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гитара",
+        "substitution": "guitar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)комбоусилитель",
+        "substitution": "guitar_amplifier",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бочка с порохом",
+        "substitution": "gunpowder_barrel",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)самодельный граммофон",
+        "substitution": "handmade_gramophone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)самодельный терминал",
+        "substitution": "handmade_terminal",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка кадавр",
+        "substitution": "husk_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)благовония",
+        "substitution": "incense",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)промышленный вентилятор",
+        "substitution": "industrial_fan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)выключенный промышленный вентилятор",
+        "substitution": "industrial_fan_off",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с 2 полками",
+        "substitution": "iron_2_shelfs_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с 6 ящиками",
+        "substitution": "iron_6_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с коробкой",
+        "substitution": "iron_box_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с кардиографом",
+        "substitution": "iron_cardio_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с экраном",
+        "substitution": "iron_display_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с ящиком",
+        "substitution": "iron_drawer_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с вентилятором",
+        "substitution": "iron_fan_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)противотанковый ёж",
+        "substitution": "iron_hedgehog",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с зеркалом",
+        "substitution": "iron_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с радаром",
+        "substitution": "iron_radar_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с бобинами",
+        "substitution": "iron_tape_drive_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железный шкаф с вентиляцией",
+        "substitution": "iron_ventilation_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тропического дерева с 2 ящиками",
+        "substitution": "jungle_2_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний шкаф из тропического дерева с 4 ящиками",
+        "substitution": "jungle_4_drawers_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тропического дерева с 6 полками",
+        "substitution": "jungle_6_shelfs_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тропического дерева с ящиком",
+        "substitution": "jungle_drawer_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из тропического дерева с зеркалом",
+        "substitution": "jungle_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)раковина из тропического дерева",
+        "substitution": "jungle_sink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кухонный смеситель",
+        "substitution": "kitchen_faucet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ноутбук",
+        "substitution": "laptop",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)закрытый ноутбук",
+        "substitution": "laptop_left_hand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)статуя ленина",
+        "substitution": "lenin_statue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лампочка",
+        "substitution": "light_bulb",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лаймовый плавательный матрас",
+        "substitution": "lime_pool_mattres",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)длинная цепная подпорка",
+        "substitution": "long_chain_bracing",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лорнет",
+        "substitution": "lorgnette",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лежащий мёртвый зомби",
+        "substitution": "lying_dead_zombie",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шар наблюдателя",
+        "substitution": "magiccamera",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний шкаф из мангрового дерева с 2 ящиками",
+        "substitution": "mangrove_2_drawers_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из мангрового дерева с 3 ящиками",
+        "substitution": "mangrove_3_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из мангрового дерева с 4 ящиками",
+        "substitution": "mangrove_4_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из мангрового дерева с ящиком",
+        "substitution": "mangrove_drawer_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шкаф из мангрового дерева с зеркалом",
+        "substitution": "mangrove_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ароматическая свеча медиум",
+        "substitution": "medium",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)памятная фотография",
+        "substitution": "memorable_picture",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ящик с артефактами",
+        "substitution": "metalbox",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)металлический ящик",
+        "substitution": "metal_box0",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)потемневший металлический ящик",
+        "substitution": "metal_box1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)состаренный металлический ящик",
+        "substitution": "metal_box2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)окисленный металлический ящик",
+        "substitution": "metal_box3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)микрофон",
+        "substitution": "microphone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стойка с микрофоном",
+        "substitution": "microphone_stand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)микроскоп",
+        "substitution": "microscope",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)военное радио",
+        "substitution": "military_radio",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)военная радиостанция",
+        "substitution": "military_radiostation",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ведро с молоком",
+        "substitution": "milk_bucket",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)жидкое мыло с апельсином",
+        "substitution": "milo_apesin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)жидкое мыло с киви",
+        "substitution": "milo_kiwi",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)жидкое мыло с лавандой",
+        "substitution": "milo_lavanda",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)жидкое мыло с розой",
+        "substitution": "milo_roza",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зеркало",
+        "substitution": "mirror",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)монитор",
+        "substitution": "monitor",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый монитор",
+        "substitution": "monitor_old",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый монитор с клавиатурой",
+        "substitution": "monitor_old_with_keyboard",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)монитор с клавиатурой",
+        "substitution": "monitor_with_keyboard",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)куча ящиков",
+        "substitution": "morebox",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)музыкальная колонка",
+        "substitution": "music_speaker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)приколоченные доски",
+        "substitution": "nailed_planks",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нес",
+        "substitution": "nes",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нетбук",
+        "substitution": "noutbuk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)новое радио",
+        "substitution": "nradio",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дубовый шкаф с 2 ящиками",
+        "substitution": "oak_2_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний дубовый шкаф с 2 ящиками",
+        "substitution": "oak_2_drawers_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дубовый шкаф с 3 полками",
+        "substitution": "oak_3_shelfs_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дубовый шкаф с 4 ящиками",
+        "substitution": "oak_4_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дубовый шкаф с зеркалом",
+        "substitution": "oak_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дубовая раковина",
+        "substitution": "oak_sink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)керосиновая лампа",
+        "substitution": "oil_lantern",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый компьютер",
+        "substitution": "oldnetbook",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старая бутылка",
+        "substitution": "old_bottle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый кассовый аппарат",
+        "substitution": "old_cash_register",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый самодельный терминал",
+        "substitution": "old_handmade_terminal",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый ноутбук",
+        "substitution": "old_laptop",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый закрытый ноутбук",
+        "substitution": "old_laptop_left_hand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый телефон",
+        "substitution": "old_phone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый чайник",
+        "substitution": "old_teapot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый телевизор",
+        "substitution": "old_tv",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)оранжевый плавательный матрас",
+        "substitution": "orange_pool_mattres",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)осциллограф",
+        "substitution": "oscilloscope",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)грязная картонка",
+        "substitution": "papertrash",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка фантом",
+        "substitution": "phantom",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)телефон",
+        "substitution": "phone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фотоаппарат",
+        "substitution": "photocamera",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)груда костей",
+        "substitution": "pile_of_bones",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг пиратского рейха",
+        "substitution": "pirate_reich_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиратская подзорная труба",
+        "substitution": "pirate_spyglass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный пиратский флаг",
+        "substitution": "pirate_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вилы в сене",
+        "substitution": "pitchfork_in_hay",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тарелка",
+        "substitution": "plate",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)перри утконос",
+        "substitution": "platypus",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)розовая помада",
+        "substitution": "pomadka1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пурпурная помада",
+        "substitution": "pomadka2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красная помада",
+        "substitution": "pomadka3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бильярдный шар",
+        "substitution": "pool_ball",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пирамида бильярдных шаров",
+        "substitution": "pool_triangle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)порше 911 чёрный",
+        "substitution": "porsche_911_carrera_black",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)порше 911 лайм",
+        "substitution": "porsche_911_carrera_lime",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)порше 911 красный",
+        "substitution": "porsche_911_carrera_red",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)порше 911",
+        "substitution": "porsche_911_carrera_silverhand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)порше 911 каррера жёлтый",
+        "substitution": "porsche_911_carrera_yellow",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)патефон",
+        "substitution": "portable_gramophone_left_hand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)переносной радиоприёмник",
+        "substitution": "portable_radio",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)уличный фонарь",
+        "substitution": "post_lamp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)картофельная мина",
+        "substitution": "potato_mine",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)убранные шторы",
+        "substitution": "pulled_curtain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)радиоприёмник",
+        "substitution": "radio",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ральзей",
+        "substitution": "ralsei",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка поборник",
+        "substitution": "range_illager",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редкий декоративный горшок",
+        "substitution": "rare_decorated_pot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)расчёска",
+        "substitution": "rascheska",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красная кнопка",
+        "substitution": "red_button",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красная кофе машина",
+        "substitution": "red_espressomachine",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красный круг для плавания",
+        "substitution": "red_pool_ring",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг рейхсмахта",
+        "substitution": "reichmacht_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сейф",
+        "substitution": "safe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)самовар",
+        "substitution": "samovar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)песочный замок",
+        "substitution": "sandcastle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мешок песка",
+        "substitution": "sand_bag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой мешок песка",
+        "substitution": "sand_pack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)электронный жучок",
+        "substitution": "sapper",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)саксофон",
+        "substitution": "saxophone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алые паруса",
+        "substitution": "scarletsails",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)когтеточка",
+        "substitution": "scratching_post",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сервер1x1_1",
+        "substitution": "server1x1_1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сервер1x1_2",
+        "substitution": "server1x1_2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сервер1x2_1",
+        "substitution": "server1x2_1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сервер1x2_2",
+        "substitution": "server1x2_2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сервер1x2_3",
+        "substitution": "server1x2_3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сервер1x2_4",
+        "substitution": "server1x2_4",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полка",
+        "substitution": "shelf",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)корабль в большой бутылке",
+        "substitution": "ship_in_big_bottle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)корабль в бутылке",
+        "substitution": "ship_in_bottle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)корабль в круглой бутылке",
+        "substitution": "ship_in_round_bottle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)раковина",
+        "substitution": "sink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скейтборд",
+        "substitution": "skateboard",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка скелет",
+        "substitution": "skeleton_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игровой автомат 1",
+        "substitution": "slot_machine",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игровой автомат 2",
+        "substitution": "slot_machine_1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игровой автомат 3",
+        "substitution": "slot_machine_2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игровой автомат выкл",
+        "substitution": "slot_machine_off",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)маленькая школьная доска",
+        "substitution": "small_blackboard",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)маленькая вязанка дров",
+        "substitution": "small_cord_of_wood",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)маленький старый телевизор",
+        "substitution": "small_old_tv",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)маленький динамик",
+        "substitution": "small_speaker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)маленький необожжённый горшок",
+        "substitution": "small_unfired_pot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)смартфон",
+        "substitution": "smart",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)смартфон vivo",
+        "substitution": "smartphone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка сниффер",
+        "substitution": "sniffer_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)снеговик",
+        "substitution": "snowman",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мешок удобрений",
+        "substitution": "soil_bag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой мешок удобрений",
+        "substitution": "soil_pack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)керосиновая лампа душ",
+        "substitution": "soul_oil_lantern",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бенгальский огонь",
+        "substitution": "sparkler",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)динамик",
+        "substitution": "speaker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)прожектор",
+        "substitution": "spotlight_on",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)прожектор выкл",
+        "substitution": "spotlight_off",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)еловый шкаф с 2 ящиками",
+        "substitution": "spruce_2_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)верхний еловый шкаф с 2 ящиками",
+        "substitution": "spruce_2_drawers_cabinet_top",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)еловый шкаф с 3 ящиками",
+        "substitution": "spruce_3_drawers_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)еловый шкаф с ящиком",
+        "substitution": "spruce_drawer_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)еловый шкаф с зеркалом",
+        "substitution": "spruce_mirror_cabinet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)еловая раковина",
+        "substitution": "spruce_sink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)спрут игрушка",
+        "substitution": "squid_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка холстов",
+        "substitution": "stack_of_canvases",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка приколоченных досок",
+        "substitution": "stack_of_nailed_planks",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка досок",
+        "substitution": "stack_of_planks",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стопка лабораторных пробирок",
+        "substitution": "stack_of_test_tubes",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка зимогор",
+        "substitution": "stray_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полосатый бильярдный шар",
+        "substitution": "striped_pool_ball",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нинтендо свитч",
+        "substitution": "switch",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нинтендо свитч в станции",
+        "substitution": "switch3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стойка с мечом",
+        "substitution": "sword_stand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синтезатор",
+        "substitution": "synthesizer",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настольный звонок",
+        "substitution": "table_bell",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настольная лампа",
+        "substitution": "table_lamp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)столовый набор",
+        "substitution": "table_set",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)магнитофон",
+        "substitution": "tape_recorder",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чайник",
+        "substitution": "teapot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)подвешенный чайник",
+        "substitution": "teapot_tripod",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плюшевый медведь",
+        "substitution": "teddy_bear",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)телескоп",
+        "substitution": "telescope",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)терминал",
+        "substitution": "terminal",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лабораторные пробирки",
+        "substitution": "test_tubes",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)унитаз",
+        "substitution": "toilet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)туалетная бумага",
+        "substitution": "toilet_paper",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)держатель для факела",
+        "substitution": "torch_sconce",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дорожное ограждение",
+        "substitution": "traffic_barrier",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)рация",
+        "substitution": "transmitter",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мусор",
+        "substitution": "trash",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)средний мусор",
+        "substitution": "trash2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)большой мусор",
+        "substitution": "trash3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мешок с мусором",
+        "substitution": "trashbag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)малый мешок с мусором",
+        "substitution": "trashbag2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мусорные мешки",
+        "substitution": "trashbags",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мусорное ведро",
+        "substitution": "trash_can",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)древесные грибы",
+        "substitution": "tree_mushrooms",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)цой жив",
+        "substitution": "tsoi_jiv",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тазик",
+        "substitution": "tub",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тазик с водой",
+        "substitution": "tub_water",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)телевизор выкл",
+        "substitution": "tv",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)смарт тв",
+        "substitution": "tvs",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)телевизор",
+        "substitution": "tv_on",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный телевизор",
+        "substitution": "tv_wall",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пишущая машинка",
+        "substitution": "typewriter",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)необожжённый горшок",
+        "substitution": "unfired_pot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вентильный кран",
+        "substitution": "valve_faucet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ваз-2103 бордо",
+        "substitution": "vaz_2103_bordo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чем ниже таз тем выше полёт",
+        "substitution": "vaz_2103_fly_mode",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ваз-2103 индиго",
+        "substitution": "vaz_2103_indigo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ваз-2103 строитель коммунизма",
+        "substitution": "vaz_2103_ksepsp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ваз-2103 олива",
+        "substitution": "vaz_2103_olive",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)видеокамера",
+        "substitution": "video_camera_on_ground",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вильфор альварадо небесный",
+        "substitution": "villefort_alvarado_blue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вильфор альварадо служебный белый",
+        "substitution": "villefort_alvarado_white",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скрипка",
+        "substitution": "violin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)смычок",
+        "substitution": "violin_stick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный уличный фонарь",
+        "substitution": "wall_post_lamp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный выключатель",
+        "substitution": "wall_switch",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сигнальная лампа",
+        "substitution": "warning_lamp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ведро с водой",
+        "substitution": "water_bucket",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)весы",
+        "substitution": "weighing_scales",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)уитли",
+        "substitution": "whitley",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)модули смягчения интеллекта",
+        "substitution": "whitleyalotof",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянная баррикада с колючей проволокой",
+        "substitution": "wired_wooden_barricade",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка ведьма",
+        "substitution": "witch_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянная баррикада",
+        "substitution": "wooden_barricade",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянная подпорка",
+        "substitution": "wooden_bracing",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянный ящик 1",
+        "substitution": "wood_box0",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянный ящик 2",
+        "substitution": "wood_box1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянный ящик 3",
+        "substitution": "wood_box2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянный ящик 4",
+        "substitution": "wood_box3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянный ящик с аметистами",
+        "substitution": "wood_box_amethyst",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)деревянный ящик с аметистами 2",
+        "substitution": "wood_box_amethyst_1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пряжа",
+        "substitution": "yarn_white",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)рука зомби",
+        "substitution": "zombie_hand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)игрушка зомбу",
+        "substitution": "zombie_toy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пепельница",
+        "substitution": "ashtray",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ножовка",
+        "substitution": "hacksaw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовая ножовка",
+        "substitution": "netherite_hacksaw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)инвертор",
+        "substitution": "invertor",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)рулетка смерти",
+        "substitution": "koleso",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лупа",
+        "substitution": "loupe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ритуальный нож",
+        "substitution": "ritual_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наручники",
+        "substitution": "handcuffs",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зубастая пепельница",
+        "substitution": "toothy_ashtray",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)блок земли",
+        "substitution": "spec_grass_block_for_benjanin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)t-34",
+        "substitution": "t34_tank_kpspsp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)t-26",
+        "substitution": "t26_tank_kpspsp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)серый танк",
+        "substitution": "sery_tank_kpspsp",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)p-2",
+        "substitution": "pablossska_tank_p2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)артиллерия",
+        "substitution": "artillery",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)труп в мешке",
+        "substitution": "trup_v_meshke",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кастрюля",
+        "substitution": "kastrulka_for_ovotarich",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сковородка",
+        "substitution": "skovourodka_for_ovotarich",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тарелка с приборами",
+        "substitution": "tarelka_for_ovotarich",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

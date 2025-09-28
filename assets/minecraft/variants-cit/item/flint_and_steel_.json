@@ -1,0 +1,47 @@
+{
+  "type": "component_data",
+  "items": "minecraft:flint_and_steel",
+  "modelPrefix": "item/flint_and_steel/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)дешёвая зажигалка",
+        "substitution": "cheap_lighter",
+        "matchAll": true,
+        "validate": false
+      },
+
+      {
+        "regex": "(?iu)золотая зажигалка",
+        "substitution": "golden_lighter",
+        "matchAll": true,
+        "validate": false
+      },
+
+      {
+        "regex": "(?iu)зажигалка",
+        "substitution": "lighter",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)спички",
+        "substitution": "matches",
+        "matchAll": true,
+        "validate": false
+      },
+
+      {
+        "regex": "(?iu)канистра с бензином",
+        "substitution": "petrol_canister",
+        "matchAll": true,
+        "validate": false
+      }
+
+    ]
+  }
+}

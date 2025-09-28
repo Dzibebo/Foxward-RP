@@ -1,0 +1,91 @@
+{
+  "type": "component_data",
+  "items": "minecraft:mace",
+  "modelPrefix": "item/mace/",
+  "modelParent": "minecraft:item/handheld",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)аметистовая булава",
+        "substitution": "amethyst_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольная булава",
+        "substitution": "coal_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медная булава",
+        "substitution": "copper_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алмазная булава",
+        "substitution": "diamond_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)изумрудная булава",
+        "substitution": "emerald_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотая булава",
+        "substitution": "golden_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)железная булава",
+        "substitution": "iron_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазуритовая булава",
+        "substitution": "lapis_lazuli_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовая булава",
+        "substitution": "netherite_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кварцевая булава",
+        "substitution": "quartz_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)редстоуновая булава",
+        "substitution": "redstone_mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)булава 3d",
+        "substitution": "3d_mace_by_pablossska",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)молот судьи",
+        "substitution": "molot",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

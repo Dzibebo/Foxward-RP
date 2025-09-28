@@ -1,0 +1,25 @@
+{
+  "type": "component_data",
+  "items": "minecraft:snowball",
+  "modelPrefix": "item/snowball/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)камень",
+        "substitution": "stone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гнилой помидор",
+        "substitution": "rotten_tomato",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

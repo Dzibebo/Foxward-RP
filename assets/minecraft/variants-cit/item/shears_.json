@@ -1,0 +1,70 @@
+{
+  "type": "component_data",
+  "items": "minecraft:shears",
+  "modelPrefix": "item/shears/",
+  "modelParent": "minecraft:item/handheld",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)кусачки",
+        "substitution": "cutters",
+        "matchAll": true,
+        "validate": false
+      },
+
+      {
+        "regex": "(?iu)секатор",
+        "substitution": "pruner",
+        "matchAll": true,
+        "validate": false
+      },
+
+      {
+        "regex": "(?iu)бритва",
+        "substitution": "razor",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лезвие бритвы",
+        "substitution": "razor_blade",
+        "matchAll": true,
+        "validate": false
+      },
+
+      {
+        "regex": "(?iu)канцелярские ножницы",
+        "substitution": "scissors",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)серп",
+        "substitution": "sickle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кузнечные щипцы",
+        "substitution": "smithing_tongs",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ложка-веретено",
+        "substitution": "spindle_spoon",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пружинные ножницы",
+        "substitution": "spring_shears",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

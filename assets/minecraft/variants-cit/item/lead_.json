@@ -1,0 +1,31 @@
+{
+  "type": "component_data",
+  "items": "minecraft:lead",
+  "modelPrefix": "item/lead/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)наручники",
+        "substitution": "kandal_icon",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лассо",
+        "substitution": "lasso",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бдсм наручники",
+        "substitution": "bdsm_kandal",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

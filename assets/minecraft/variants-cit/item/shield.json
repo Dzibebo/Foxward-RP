@@ -5,8 +5,9 @@
   "modelParent": "item/source_models/gen_shield",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
+    "transform": ["lowercase",
       {
         "regex": "(?iu)щит кэпа",
         "substitution": "cap_shield",

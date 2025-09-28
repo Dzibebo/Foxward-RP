@@ -12,9 +12,9 @@
   "modelParent": "minecraft:item/handheld",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
-
+    "transform": ["lowercase",
       {
         "regex": "(?iu)тёмная лопата",
         "substitution": "dark_shovel",

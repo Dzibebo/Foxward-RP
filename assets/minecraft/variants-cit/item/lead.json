@@ -5,8 +5,9 @@
   "modelParent": "minecraft:item/generated",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
+    "transform": ["lowercase",
       {
         "regex": "(?iu)наручники",
         "substitution": "kandal_icon",

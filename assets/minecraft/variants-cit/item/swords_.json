@@ -1,0 +1,1539 @@
+{
+  "type": "component_data",
+  "items": [
+    "minecraft:wooden_sword",
+    "minecraft:stone_sword",
+    "minecraft:iron_sword",
+    "minecraft:golden_sword",
+    "minecraft:diamond_sword",
+    "minecraft:netherite_sword",
+    "minecraft:wooden_axe",
+    "minecraft:stone_axe",
+    "minecraft:iron_axe",
+    "minecraft:golden_axe",
+    "minecraft:diamond_axe",
+    "minecraft:netherite_axe"
+  ],
+  "modelPrefix": "item/swords/",
+  "modelParent": "minecraft:item/handheld",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)антиквариат",
+        "substitution": "antikvar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)клинок мудрости",
+        "substitution": "klinmud",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)био клинок",
+        "substitution": "alien_klinok",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алюминиевая бейсбольная бита",
+        "substitution": "aluminium_baseball_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)спиночёс",
+        "substitution": "back_scratcher",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бамбуковый посох",
+        "substitution": "bamboo_staff",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бейсбольная бита",
+        "substitution": "baseball_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бейсбольная бита с гвоздями",
+        "substitution": "baseball_bat_with_nails",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)боевой посох",
+        "substitution": "battlestaff",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)боевой серп",
+        "substitution": "battle_sickle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)штык-нож",
+        "substitution": "bayonet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)боксёрская перчатка",
+        "substitution": "white_boxing_glove",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)световой меч",
+        "substitution": "lightsaber",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бо",
+        "substitution": "bo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)болгарка",
+        "substitution": "bolgar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)могильник",
+        "substitution": "boneyard",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)костяной меч",
+        "substitution": "dop_bone_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нож боуи",
+        "substitution": "bowie_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кастет",
+        "substitution": "brass_knuckles",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)хлебный монстр",
+        "substitution": "bread_monster",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)опасная бритва",
+        "substitution": "britva",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)палаш ярости",
+        "substitution": "broad_iron_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)разбитая бутылка",
+        "substitution": "broken_bottle1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нож-бабочка",
+        "substitution": "butterfly_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шумный улей",
+        "substitution": "buzzy_nest",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)карамельная трость",
+        "substitution": "candy_cane",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бензопила выкл",
+        "substitution": "chainsaw2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бензопила",
+        "substitution": "chainsaw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)клеймор",
+        "substitution": "claymore",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тесак",
+        "substitution": "cleaver",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)палица",
+        "substitution": "club",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)угольный утюг",
+        "substitution": "coal_iron",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)витой меч",
+        "substitution": "coiled_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)казачья шашка",
+        "substitution": "cossack_saber",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лом",
+        "substitution": "crowbar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)абордажная сабля",
+        "substitution": "cutlass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)палаш",
+        "substitution": "iron_broadsword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кинжал",
+        "substitution": "iron_dagger",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сабля",
+        "substitution": "iron_saber",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шпага",
+        "substitution": "iron_small_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лесной удар",
+        "substitution": "dikiy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плётка",
+        "substitution": "dop_whip",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)двух-клинковый меч",
+        "substitution": "double_blade_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)электрошоковая дубинка",
+        "substitution": "electroshock_baton",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)диковинный скимитар",
+        "substitution": "exotic_scimitar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стальные кулаки",
+        "substitution": "fos_main",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)веер войны",
+        "substitution": "fan_o_war",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бойцовские бинты",
+        "substitution": "fighter_wraps",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)огненный меч",
+        "substitution": "fire_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кистень",
+        "substitution": "flail",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фламберг",
+        "substitution": "flamberge",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)складной нож",
+        "substitution": "flip_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ледяная коса",
+        "substitution": "frostscythe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сковорода",
+        "substitution": "frying_pan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотая сковорода",
+        "substitution": "golden_frying_pan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)клинок гендзи",
+        "substitution": "genji_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гладиус",
+        "substitution": "gladius",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)глефа",
+        "substitution": "glaive",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотое зеркало",
+        "substitution": "golden_mirror",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гаечный ключ",
+        "substitution": "golden_wrench",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кулак голема",
+        "substitution": "golem_fist",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)клюшка для гольфа",
+        "substitution": "golf_club",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медиатор",
+        "substitution": "guitar_pick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)оружейник",
+        "substitution": "gunslinger",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мясная дубина",
+        "substitution": "ham_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)головотяп",
+        "substitution": "headslash",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кровосос",
+        "substitution": "heartstealer",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)раскалённый нож",
+        "substitution": "heated_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ежепалка",
+        "substitution": "hedgehog_stick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)хоккейная клюшка",
+        "substitution": "hockey_stick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)веретено",
+        "substitution": "honey_stick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)горячая рука",
+        "substitution": "hot_hand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)состязательный ланс",
+        "substitution": "jousting_lance",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)керамбит",
+        "substitution": "karambit",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)катана",
+        "substitution": "katana",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кухонный нож",
+        "substitution": "kitchen_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)заточенный нож",
+        "substitution": "knife_first",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)заточка",
+        "substitution": "knife_third",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)повелитель кошмаров",
+        "substitution": "koshmarik",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кунай",
+        "substitution": "kunai",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)черпак",
+        "substitution": "ladle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кусок трубы",
+        "substitution": "lead_pipe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)линейка учителя",
+        "substitution": "leneyka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)световой посох",
+        "substitution": "lightstaff",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)идейный уклонист",
+        "substitution": "love_not_war",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)булава",
+        "substitution": "mace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мачете",
+        "substitution": "machete",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)клинки богомола",
+        "substitution": "mantis_blades",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мембранный меч",
+        "substitution": "memb_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)молоток судьи",
+        "substitution": "molot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сырнолунный меч",
+        "substitution": "mooncheese_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)меч из луностали",
+        "substitution": "moonsteel_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)швабра",
+        "substitution": "mop",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мурамаса",
+        "substitution": "muramasa",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)калыван младший",
+        "substitution": "pablosword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бейсбольная перчатка",
+        "substitution": "perctka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)разводной ключ",
+        "substitution": "pipe_wrench",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиратский крюк",
+        "substitution": "pirate_hook",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плазменный меч",
+        "substitution": "plasma_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пластиковый нож",
+        "substitution": "plastic_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полицейская дубинка",
+        "substitution": "police_baton",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)половник",
+        "substitution": "polovnik",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бильярдный кий",
+        "substitution": "pool_cue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фугулак",
+        "substitution": "pufferfist",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)рапира",
+        "substitution": "rapire",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)убер-пила",
+        "substitution": "red_ubersaw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)семейная реликвия",
+        "substitution": "revik",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скалка",
+        "substitution": "rolling_pin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)священная глефа",
+        "substitution": "sacred_glaive",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лосось",
+        "substitution": "salmon",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиломеч",
+        "substitution": "sawblade",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скимитар",
+        "substitution": "scimitar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)острая бритва",
+        "substitution": "sharp_razor",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)щупальце",
+        "substitution": "shupalka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)южное гостеприимство",
+        "substitution": "southern_hospitality",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)копьё лонгина",
+        "substitution": "spear_aski",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)аметистовый посох",
+        "substitution": "staffa",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)посох леса",
+        "substitution": "staffl",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)каменная дубина",
+        "substitution": "stone_club",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скальпель",
+        "substitution": "surgical_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)соколиное перо",
+        "substitution": "sword1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)меч-трость",
+        "substitution": "swordstick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нож бури",
+        "substitution": "tempest_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тигровая лапа",
+        "substitution": "tiger_paw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)траншейная дубина",
+        "substitution": "trench_club",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бита трюкача",
+        "substitution": "trick_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вита-пила",
+        "substitution": "vita_saw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)волкобой",
+        "substitution": "volkoboy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)рукавица воина",
+        "substitution": "warrior_gauntlet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)хлыст",
+        "substitution": "whip",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ёру",
+        "substitution": "yoru",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вечный покой",
+        "substitution": "your_eternal_reward",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)киберкулак",
+        "substitution": "cyberpunch",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кибернетический меч",
+        "substitution": "w_cybersword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)цвайхендер",
+        "substitution": "zweihander",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ампутатор",
+        "substitution": "amputator",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)меч-секира",
+        "substitution": "axeblade",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)топор тысячи металлов",
+        "substitution": "axe_of_thousand_metals",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)боевой топор",
+        "substitution": "battle_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)медицинская пила",
+        "substitution": "bonesaw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)костяная коса",
+        "substitution": "bone_scythe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)черпалка",
+        "substitution": "cherpalk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)аварийный топор",
+        "substitution": "crash_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алебарда",
+        "substitution": "iron_halberd",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)копьё",
+        "substitution": "iron_spear",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пожарный топор",
+        "substitution": "fire_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)копьё удачи",
+        "substitution": "fortune_spear",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)жатвенная коса",
+        "substitution": "harvest_scythe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)головорез",
+        "substitution": "headtaker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)топор горца",
+        "substitution": "highland_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)заражённое копьё",
+        "substitution": "infested_spear",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лобзик",
+        "substitution": "jigsaw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кледенец",
+        "substitution": "lollichop",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мембранный топор",
+        "substitution": "memb_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сырнолунный топор",
+        "substitution": "mooncheese_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)топор из луностали",
+        "substitution": "moonsteel_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)секира",
+        "substitution": "poleaxe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пила",
+        "substitution": "saw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)коса",
+        "substitution": "scythe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вихрь",
+        "substitution": "whirlwind",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шёпот смерти",
+        "substitution": "whisper_of_death",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)клинок мрк'грш'траклара",
+        "substitution": "klinok_marka_p",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)скалка 3d",
+        "substitution": "skalka_for_mroladushek69",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)picun f6",
+        "substitution": "fotoris_sword_super",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)резиновый пенис",
+        "substitution": "dildo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)горнило",
+        "substitution": "crucible",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)полный убер шприц",
+        "substitution": "uber_syringe4",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)убер шприц",
+        "substitution": "uber_syringe0",
+        "matchAll": true,
+        "validate": false
+      },
+
+      {
+        "regex": "(?iu)мини антиквариат",
+        "substitution": "sprites/antikvar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини клинок мудрости",
+        "substitution": "sprites/klinmud",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини алюминиевая бейсбольная бита",
+        "substitution": "sprites/aluminium_baseball_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бамбуковый посох",
+        "substitution": "sprites/bamboo_staff",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бейсбольная бита",
+        "substitution": "sprites/baseball_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бейсбольная бита с гвоздями",
+        "substitution": "sprites/baseball_bat_with_nails",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини боевой посох",
+        "substitution": "sprites/battlestaff",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини боевой серп",
+        "substitution": "sprites/battle_sickle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини световой меч",
+        "substitution": "sprites/lightsaber",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бо",
+        "substitution": "sprites/bo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини могильник",
+        "substitution": "sprites/boneyard",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини костяной меч",
+        "substitution": "sprites/dop_bone_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини палаш ярости",
+        "substitution": "sprites/broad_iron_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бензопила выкл",
+        "substitution": "sprites/chainsaw2",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бензопила",
+        "substitution": "sprites/chainsaw",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини клеймор",
+        "substitution": "sprites/claymore",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини палица",
+        "substitution": "sprites/club",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини витой меч",
+        "substitution": "sprites/coiled_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини казачья шашка",
+        "substitution": "sprites/cossack_saber",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини абордажная сабля",
+        "substitution": "sprites/cutlass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини палаш",
+        "substitution": "sprites/iron_broadsword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини сабля",
+        "substitution": "sprites/iron_saber",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини шпага",
+        "substitution": "sprites/iron_small_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини лесной удар",
+        "substitution": "sprites/dikiy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини диковинный скимитар",
+        "substitution": "sprites/exotic_scimitar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини веер войны",
+        "substitution": "sprites/fan_o_war",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини огненный меч",
+        "substitution": "sprites/fire_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини фламберг",
+        "substitution": "sprites/flamberge",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини клинок гендзи",
+        "substitution": "sprites/genji_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини глефа",
+        "substitution": "sprites/glaive",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини клюшка для гольфа",
+        "substitution": "sprites/golf_club",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини мясная дубина",
+        "substitution": "sprites/ham_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини головотяп",
+        "substitution": "sprites/headslash",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини кровосос",
+        "substitution": "sprites/heartstealer",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини хоккейная клюшка",
+        "substitution": "sprites/hockey_stick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини состязательный ланс",
+        "substitution": "sprites/jousting_lance",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини катана",
+        "substitution": "sprites/katana",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини повелитель кошмаров",
+        "substitution": "sprites/koshmarik",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини черпак",
+        "substitution": "sprites/ladle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини линейка учителя",
+        "substitution": "sprites/leneyka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини идейный уклонист",
+        "substitution": "sprites/love_not_war",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини мембранный меч",
+        "substitution": "sprites/memb_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини молоток судьи",
+        "substitution": "sprites/molot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини сырнолунный меч",
+        "substitution": "sprites/mooncheese_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини меч из луностали",
+        "substitution": "sprites/moonsteel_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини мурамаса",
+        "substitution": "sprites/muramasa",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини плазменный меч",
+        "substitution": "sprites/plasma_sword",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бильярдный кий",
+        "substitution": "sprites/pool_cue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини рапира",
+        "substitution": "sprites/rapire",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини семейная реликвия",
+        "substitution": "sprites/revik",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини священная глефа",
+        "substitution": "sprites/sacred_glaive",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини пиломеч",
+        "substitution": "sprites/sawblade",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини скимитар",
+        "substitution": "sprites/scimitar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини щупальце",
+        "substitution": "sprites/shupalka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини копьё лонгина",
+        "substitution": "sprites/spear_aski",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини аметистовый посох",
+        "substitution": "sprites/staffa",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини посох леса",
+        "substitution": "sprites/staffl",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини соколиное перо",
+        "substitution": "sprites/sword1",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини меч-трость",
+        "substitution": "sprites/swordstick",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини нож бури",
+        "substitution": "sprites/tempest_knife",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини траншейная дубина",
+        "substitution": "sprites/trench_club",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини бита трюкача",
+        "substitution": "sprites/trick_bat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини волкобой",
+        "substitution": "sprites/volkoboy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини хлыст",
+        "substitution": "sprites/whip",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини ёру",
+        "substitution": "sprites/yoru",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини цвайхендер",
+        "substitution": "sprites/zweihander",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини меч-секира",
+        "substitution": "sprites/axeblade",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини костяная коса",
+        "substitution": "sprites/bone_scythe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини черпалка",
+        "substitution": "sprites/cherpalk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини алебарда",
+        "substitution": "sprites/iron_halberd",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини копьё",
+        "substitution": "sprites/iron_spear",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини копьё удачи",
+        "substitution": "sprites/fortune_spear",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини жатвенная коса",
+        "substitution": "sprites/harvest_scythe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини головорез",
+        "substitution": "sprites/headtaker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини топор горца",
+        "substitution": "sprites/highland_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини кледенец",
+        "substitution": "sprites/lollichop",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини мембранный топор",
+        "substitution": "sprites/memb_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини сырнолунный топор",
+        "substitution": "sprites/mooncheese_axe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини секира",
+        "substitution": "sprites/poleaxe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини коса",
+        "substitution": "sprites/scythe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини вихрь",
+        "substitution": "sprites/whirlwind",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини шёпот смерти",
+        "substitution": "sprites/whisper_of_death",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини клинок мрк'грш'траклара",
+        "substitution": "sprites/klinok_marka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)мини picun f6",
+        "substitution": "sprites/fotoris_sword_super",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

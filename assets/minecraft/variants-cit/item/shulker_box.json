@@ -23,8 +23,9 @@
   "modelParent": "minecraft:item/generated",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
+    "transform": ["lowercase",
       {
         "regex": "(?iu)коробка с боеприпасами",
         "substitution": "ammo_box",

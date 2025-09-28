@@ -1,0 +1,325 @@
+{
+  "type": "component_data",
+  "items": "minecraft:leather_horse_armor",
+  "modelPrefix": "item/leather_horse_armor/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)кресло",
+        "substitution": "armchair",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ брони на табличке",
+        "substitution": "armor_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навес",
+        "substitution": "awning",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пляжный зонт",
+        "substitution": "beach_umbrella",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)жалюзи",
+        "substitution": "blinds",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нательный барабан",
+        "substitution": "body_drum",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)нательный барабан на левое плечо",
+        "substitution": "body_drum_left_hand",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ лука на табличке",
+        "substitution": "bow_arrow_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ клетки на табличке",
+        "substitution": "cage_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бабушкино кресло",
+        "substitution": "checker_chair",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ креста на табличке",
+        "substitution": "cross_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шторы",
+        "substitution": "curtain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левый край дивана из тёмного дуба",
+        "substitution": "dark_oak_couch_left",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)середина дивана из тёмного дуба",
+        "substitution": "dark_oak_couch_middle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правый край дивана из тёмного дуба",
+        "substitution": "dark_oak_couch_right",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ алмаза на табличке",
+        "substitution": "diamond_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки вниз на табличке",
+        "substitution": "down_arrow_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ударная установка",
+        "substitution": "drum_set",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)электрогитара",
+        "substitution": "electric_guitar",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ удочки на табличке",
+        "substitution": "fishing_rod_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)флагшток",
+        "substitution": "flagpole",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ молота на табличке",
+        "substitution": "hammer_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ шляпы на табличке",
+        "substitution": "hat_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ сердца на табличке",
+        "substitution": "heart_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)высокие жалюзи",
+        "substitution": "high_blinds",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)высокие шторы",
+        "substitution": "high_curtain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки влево на табличке",
+        "substitution": "left_arrow_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левая часть штор",
+        "substitution": "left_side_curtain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левая часть высоких штор",
+        "substitution": "left_side_high_curtain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ линии на табличке",
+        "substitution": "line_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шезлонг",
+        "substitution": "lounger",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лежак",
+        "substitution": "lounge_chair",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ решётки на табличке",
+        "substitution": "number_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)левый край дубового дивана",
+        "substitution": "oak_couch_left",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)середина дубового дивана",
+        "substitution": "oak_couch_middle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правый край дубового дивана",
+        "substitution": "oak_couch_right",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ кирки на табличке",
+        "substitution": "pickaxe_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ зелья на табличке",
+        "substitution": "potion_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пуф",
+        "substitution": "pouf",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки вправо на табличке",
+        "substitution": "right_arrow_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правая часть штор",
+        "substitution": "right_side_curtain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)правая часть высоких штор",
+        "substitution": "right_side_high_curtain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)свёрнутый окрашенный зонт",
+        "substitution": "rolled_up_stained_umbrella",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ черепа на табличке",
+        "substitution": "skull_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)окрашенный зонт в полоску",
+        "substitution": "stained_striped_umbrella",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)окрашенный зонт",
+        "substitution": "stained_umbrella",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ меча на табличке",
+        "substitution": "sword_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ таблицы на табличке",
+        "substitution": "table_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вешалка для полотенца",
+        "substitution": "towel_rack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)символ стрелки вверх на табличке",
+        "substitution": "up_arrow_sign_glyph",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)резиновый пенис",
+        "substitution": "dildo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг",
+        "substitution": "ksepsp_wall_flag",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

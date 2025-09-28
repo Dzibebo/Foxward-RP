@@ -1,0 +1,43 @@
+{
+  "type": "component_data",
+  "items": "minecraft:goat_horn",
+  "modelPrefix": "item/goat_horn/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)поддержка батальона",
+        "substitution": "battalion_backup",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фанфара",
+        "substitution": "fanfare",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мегафон",
+        "substitution": "megaphone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)саксофон",
+        "substitution": "saxophone",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)козике рога",
+        "substitution": "koziki_roga",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

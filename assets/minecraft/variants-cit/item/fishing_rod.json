@@ -5,8 +5,9 @@
   "modelParent": "minecraft:item/fishing_rod",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
+    "transform": ["lowercase",
       {
         "regex": "(?iu)аметистовая удочка",
         "substitution": "amethyst_fishing_rod",

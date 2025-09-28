@@ -5,9 +5,9 @@
   "modelParent": "minecraft:item/source_models/bow1x",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
-
+    "transform": ["lowercase",
       {
         "regex": "(?iu)импульсная винтовка",
         "substitution": "76gunn",

@@ -1,0 +1,306 @@
+{
+  "type": "component_data",
+  "items": [
+    "minecraft:mushroom_stew",
+    "minecraft:beetroot_soup",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew",
+    "minecraft:milk_bucket",
+    "minecraft:honey_bottle",
+    "minecraft:ominous_bottle",
+    "minecraft:potion",
+    "minecraft:lingering_potion",
+    "minecraft:splash_potion"
+  ],
+  "modelPrefix": "item/potion/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)абсент",
+        "substitution": "absent",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кружка boss",
+        "substitution": "boss_cup",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бренди",
+        "substitution": "brandy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пабло бутылка",
+        "substitution": "captainzakyyy_black",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)капучино",
+        "substitution": "coffee_for",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)добрый кола",
+        "substitution": "cola",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сгущёнка",
+        "substitution": "condensed_milk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)печенье с молоком",
+        "substitution": "cookie_milk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)круассан с кофе",
+        "substitution": "croissant_coffe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мёд",
+        "substitution": "honey",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)горячий шоколад",
+        "substitution": "hot_chocolate",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сироп",
+        "substitution": "jam",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бутылка коньяка",
+        "substitution": "kon",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кротовуха",
+        "substitution": "krotovuha",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)май тай",
+        "substitution": "maitai",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)молочный коктейль",
+        "substitution": "milkshake",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пачка молока",
+        "substitution": "milk_pack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кружка тёмного пива",
+        "substitution": "mug_dark",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кружка светлого пива",
+        "substitution": "mug_light",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кружка нефильтрованного пива",
+        "substitution": "mug_unfiltred",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фанта",
+        "substitution": "orange_drink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пепси",
+        "substitution": "pepsi",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пина колада",
+        "substitution": "pina_colada",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиво в кружке",
+        "substitution": "pivko",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиво",
+        "substitution": "pivo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бокал красного вина",
+        "substitution": "red_whine_glass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сосисочное пиво",
+        "substitution": "sausagepivo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шампанское",
+        "substitution": "sham",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сметана",
+        "substitution": "smetana",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бокал игристого вина",
+        "substitution": "sparkling_wine_glass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чайник",
+        "substitution": "teapot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чайная пара",
+        "substitution": "tea_couple",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сет чайных пар",
+        "substitution": "tea_couple_set",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чашка чая",
+        "substitution": "tea_cup",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чайная церемония",
+        "substitution": "tea_scene",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)текила",
+        "substitution": "tequila",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вино",
+        "substitution": "vino",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стакан виски",
+        "substitution": "whiskey_glass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бокал белого вина",
+        "substitution": "white_wine_glass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)латте",
+        "substitution": "coffee_for",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)эспрессо",
+        "substitution": "coffee_for",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)джин",
+        "substitution": "gin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)квас",
+        "substitution": "lidskiy_sas",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ликёр",
+        "substitution": "liqer",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ром",
+        "substitution": "rom",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)водка",
+        "substitution": "vodka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)виски",
+        "substitution": "whiskey",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

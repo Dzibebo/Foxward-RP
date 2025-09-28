@@ -1,0 +1,250 @@
+{
+  "type": "component_data",
+  "items": [
+    "minecraft:crossbow",
+    "minecraft:wind_charge"
+  ],
+  "modelPrefix": "item/crossbow/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)амбассадор",
+        "substitution": "ambas",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)средневековый арбалет",
+        "substitution": "arbal",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)слонобой",
+        "substitution": "awped",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)боевой дробовик",
+        "substitution": "battle_shot",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)базарная безделушка",
+        "substitution": "bazaar_bargain",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)базука бродяги",
+        "substitution": "beggars_bazooka",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)чёрный ящик",
+        "substitution": "black_box",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)hk g36",
+        "substitution": "classic",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кольт 1851",
+        "substitution": "coltrev",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)арбалет крестоносца",
+        "substitution": "crussbow",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кс-23",
+        "substitution": "cs23",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)двустволка",
+        "substitution": "db",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сигнальная ракетница",
+        "substitution": "flare",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)самосуд",
+        "substitution": "frontier",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)tool gun",
+        "substitution": "gm_toolgun",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гранатомёт",
+        "substitution": "granade_launcher",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лазерный мушкет",
+        "substitution": "laser_musket",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)подкидыш",
+        "substitution": "lochnload",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)револьвер",
+        "substitution": "magnum",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)винтовка маузера",
+        "substitution": "mauser98",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)винтовка мосина",
+        "substitution": "mosin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мушкет",
+        "substitution": "musket",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наган",
+        "substitution": "nagan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)старый шериф",
+        "substitution": "olsheriff",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фаустпатрон",
+        "substitution": "panzerfaust",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)прародитель",
+        "substitution": "quake",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тренировочный ракетомёт",
+        "substitution": "rocket_jumper",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ракетомёт",
+        "substitution": "rocket_launcher",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)обрез",
+        "substitution": "sawed",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)обрез разведчика",
+        "substitution": "scout_scat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дробовик",
+        "substitution": "shotgun",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)снайперская винтовка",
+        "substitution": "sniper_rifle",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тактический дробовик",
+        "substitution": "spas",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)тяжёлая ноша",
+        "substitution": "svk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)транквилизатор",
+        "substitution": "trank",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)траншейное ружьё",
+        "substitution": "trench_gun",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)винторез",
+        "substitution": "vss",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)винчестер",
+        "substitution": "winchester",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)44-ый специальный",
+        "substitution": "38sp",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "type": "component_data",
+  "items": "minecraft:painting",
+  "modelPrefix": "item/painting/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)братья",
+        "substitution": "brothers",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)карл маркс",
+        "substitution": "carl_marx",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный ковёр",
+        "substitution": "carpet",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фюрер",
+        "substitution": "hitler",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)владимир ленин",
+        "substitution": "lenin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)вождь октября",
+        "substitution": "megalenin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)владимир ленин 1x1",
+        "substitution": "minilenin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наполеон",
+        "substitution": "napoleonpaint",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)поле",
+        "substitution": "pole",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)революция",
+        "substitution": "revolut",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)иосиф сталин",
+        "substitution": "stalin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)троцкий, ленин и дзержинский",
+        "substitution": "tld",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лев троцкий",
+        "substitution": "trozkiy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плакат ты!",
+        "substitution": "tzd",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)плакат жители наш оплот!",
+        "substitution": "vod",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сталин и ворошилов",
+        "substitution": "walk",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)not бедность",
+        "substitution": "rich",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)Шёл дождь",
+        "substitution": "rain",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

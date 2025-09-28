@@ -1,0 +1,132 @@
+{
+  "type": "component_data",
+  "items": [
+    "minecraft:arrow",
+    "minecraft:spectral_arrow",
+    "minecraft:tipped_arrow",
+    "minecraft:firework_rocket",
+    "minecraft:wind_charge",
+    "minecraft:candle",
+    "minecraft:white_candle",
+    "minecraft:orange_candle",
+    "minecraft:magenta_candle",
+    "minecraft:light_blue_candle",
+    "minecraft:yellow_candle",
+    "minecraft:lime_candle",
+    "minecraft:pink_candle",
+    "minecraft:gray_candle",
+    "minecraft:light_gray_candle",
+    "minecraft:cyan_candle",
+    "minecraft:purple_candle",
+    "minecraft:blue_candle",
+    "minecraft:brown_candle",
+    "minecraft:green_candle",
+    "minecraft:red_candle",
+    "minecraft:black_candle"
+  ],
+  "modelPrefix": "item/arrow/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)стальной снаряд и светопыль",
+        "substitution": "bullet_and_glowstone_dust",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)стальной снаряд и порох",
+        "substitution": "bullet_and_gunpowder",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)патрон",
+        "substitution": "cartridge",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)топливо для огнемёта",
+        "substitution": "flamethrower_fuel",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ядерная батарея",
+        "substitution": "fusion_cell",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гвоздь",
+        "substitution": "nail",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гранатомётный снаряд",
+        "substitution": "pipe_grenade",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)винтовочный патрон",
+        "substitution": "rifle_cartridge",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)соль",
+        "substitution": "salt",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)дробовой патрон",
+        "substitution": "shotgun_shell",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)межпространственный разлом",
+        "substitution": "universal_clash",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бомба",
+        "substitution": "bomb",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)хлопушка",
+        "substitution": "firecrecker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)горючее",
+        "substitution": "gasoline",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ракета",
+        "substitution": "rocket",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)корсар",
+        "substitution": "firecracker",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

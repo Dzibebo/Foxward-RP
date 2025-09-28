@@ -18,8 +18,9 @@
   "modelParent": "minecraft:item/handheld",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
+    "transform": ["lowercase",
       {
         "regex": "(?iu)антиквариат",
         "substitution": "antikvar",
@@ -1042,20 +1043,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини био клинок",
-        "substitution": "sprites/alien_klinok",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини алюминиевая бейсбольная бита",
         "substitution": "sprites/aluminium_baseball_bat",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини спиночёс",
-        "substitution": "sprites/back_scratcher",
         "matchAll": true,
         "validate": false
       },
@@ -1090,18 +1079,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини штык-нож",
-        "substitution": "sprites/bayonet",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини боксёрская перчатка",
-        "substitution": "sprites/white_boxing_glove",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини световой меч",
         "substitution": "sprites/lightsaber",
         "matchAll": true,
@@ -1110,12 +1087,6 @@
       {
         "regex": "(?iu)мини бо",
         "substitution": "sprites/bo",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини болгарка",
-        "substitution": "sprites/bolgar",
         "matchAll": true,
         "validate": false
       },
@@ -1132,56 +1103,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини нож боуи",
-        "substitution": "sprites/bowie_knife",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини кастет",
-        "substitution": "sprites/brass_knuckles",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини хлебный монстр",
-        "substitution": "sprites/bread_monster",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини опасная бритва",
-        "substitution": "sprites/britva",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини палаш ярости",
         "substitution": "sprites/broad_iron_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини разбитая бутылка",
-        "substitution": "sprites/broken_bottle1",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини нож-бабочка",
-        "substitution": "sprites/butterfly_knife",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини шумный улей",
-        "substitution": "sprites/buzzy_nest",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини карамельная трость",
-        "substitution": "sprites/candy_cane",
         "matchAll": true,
         "validate": false
       },
@@ -1204,20 +1127,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини тесак",
-        "substitution": "sprites/cleaver",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини палица",
         "substitution": "sprites/club",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини угольный утюг",
-        "substitution": "sprites/coal_iron",
         "matchAll": true,
         "validate": false
       },
@@ -1234,12 +1145,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини лом",
-        "substitution": "sprites/crowbar",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини абордажная сабля",
         "substitution": "sprites/cutlass",
         "matchAll": true,
@@ -1248,12 +1153,6 @@
       {
         "regex": "(?iu)мини палаш",
         "substitution": "sprites/iron_broadsword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини кинжал",
-        "substitution": "sprites/iron_dagger",
         "matchAll": true,
         "validate": false
       },
@@ -1276,32 +1175,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини плётка",
-        "substitution": "sprites/dop_whip",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини двух-клинковый меч",
-        "substitution": "sprites/double_blade_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини электрошоковая дубинка",
-        "substitution": "sprites/electroshock_baton",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини диковинный скимитар",
         "substitution": "sprites/exotic_scimitar",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини стальные кулаки",
-        "substitution": "sprites/fos_main",
         "matchAll": true,
         "validate": false
       },
@@ -1312,20 +1187,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини бойцовские бинты",
-        "substitution": "sprites/fighter_wraps",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини огненный меч",
         "substitution": "sprites/fire_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини кистень",
-        "substitution": "sprites/flail",
         "matchAll": true,
         "validate": false
       },
@@ -1336,38 +1199,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини складной нож",
-        "substitution": "sprites/flip_knife",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини ледяная коса",
-        "substitution": "sprites/frostscythe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини сковорода",
-        "substitution": "sprites/frying_pan",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини золотая сковорода",
-        "substitution": "sprites/golden_frying_pan",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини клинок гендзи",
         "substitution": "sprites/genji_sword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини гладиус",
-        "substitution": "sprites/gladius",
         "matchAll": true,
         "validate": false
       },
@@ -1378,38 +1211,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини золотое зеркало",
-        "substitution": "sprites/golden_mirror",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини гаечный ключ",
-        "substitution": "sprites/golden_wrench",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини кулак голема",
-        "substitution": "sprites/golem_fist",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини клюшка для гольфа",
         "substitution": "sprites/golf_club",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини медиатор",
-        "substitution": "sprites/guitar_pick",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини оружейник",
-        "substitution": "sprites/gunslinger",
         "matchAll": true,
         "validate": false
       },
@@ -1432,32 +1235,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини раскалённый нож",
-        "substitution": "sprites/heated_knife",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини ежепалка",
-        "substitution": "sprites/hedgehog_stick",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини хоккейная клюшка",
         "substitution": "sprites/hockey_stick",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини веретено",
-        "substitution": "sprites/honey_stick",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини горячая рука",
-        "substitution": "sprites/hot_hand",
         "matchAll": true,
         "validate": false
       },
@@ -1468,32 +1247,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини керамбит",
-        "substitution": "sprites/karambit",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини катана",
         "substitution": "sprites/katana",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини кухонный нож",
-        "substitution": "sprites/kitchen_knife",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини заточенный нож",
-        "substitution": "sprites/knife_first",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини заточка",
-        "substitution": "sprites/knife_third",
         "matchAll": true,
         "validate": false
       },
@@ -1504,20 +1259,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини кунай",
-        "substitution": "sprites/kunai",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини черпак",
         "substitution": "sprites/ladle",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини кусок трубы",
-        "substitution": "sprites/lead_pipe",
         "matchAll": true,
         "validate": false
       },
@@ -1528,32 +1271,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини световой посох",
-        "substitution": "sprites/lightstaff",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини идейный уклонист",
         "substitution": "sprites/love_not_war",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини булава",
-        "substitution": "sprites/mace",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини мачете",
-        "substitution": "sprites/machete",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини клинки богомола",
-        "substitution": "sprites/mantis_blades",
         "matchAll": true,
         "validate": false
       },
@@ -1582,38 +1301,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини швабра",
-        "substitution": "sprites/mop",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини мурамаса",
         "substitution": "sprites/muramasa",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини калыван младший",
-        "substitution": "sprites/pablosword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини бейсбольная перчатка",
-        "substitution": "sprites/perctka",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини разводной ключ",
-        "substitution": "sprites/pipe_wrench",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини пиратский крюк",
-        "substitution": "sprites/pirate_hook",
         "matchAll": true,
         "validate": false
       },
@@ -1624,32 +1313,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини пластиковый нож",
-        "substitution": "sprites/plastic_knife",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини полицейская дубинка",
-        "substitution": "sprites/police_baton",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини половник",
-        "substitution": "sprites/polovnik",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини бильярдный кий",
         "substitution": "sprites/pool_cue",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини фугулак",
-        "substitution": "sprites/pufferfist",
         "matchAll": true,
         "validate": false
       },
@@ -1660,32 +1325,14 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини убер-пила",
-        "substitution": "sprites/red_ubersaw",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини семейная реликвия",
         "substitution": "sprites/revik",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)мини скалка",
-        "substitution": "sprites/rolling_pin",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини священная глефа",
         "substitution": "sprites/sacred_glaive",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини лосось",
-        "substitution": "sprites/salmon",
         "matchAll": true,
         "validate": false
       },
@@ -1702,20 +1349,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини острая бритва",
-        "substitution": "sprites/sharp_razor",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини щупальце",
         "substitution": "sprites/shupalka",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини южное гостеприимство",
-        "substitution": "sprites/southern_hospitality",
         "matchAll": true,
         "validate": false
       },
@@ -1738,18 +1373,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини каменная дубина",
-        "substitution": "sprites/stone_club",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини скальпель",
-        "substitution": "sprites/surgical_knife",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини соколиное перо",
         "substitution": "sprites/sword1",
         "matchAll": true,
@@ -1768,12 +1391,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини тигровая лапа",
-        "substitution": "sprites/tiger_paw",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини траншейная дубина",
         "substitution": "sprites/trench_club",
         "matchAll": true,
@@ -1786,20 +1403,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини вита-пила",
-        "substitution": "sprites/vita_saw",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини волкобой",
         "substitution": "sprites/volkoboy",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини рукавица воина",
-        "substitution": "sprites/warrior_gauntlet",
         "matchAll": true,
         "validate": false
       },
@@ -1816,56 +1421,14 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини вечный покой",
-        "substitution": "sprites/your_eternal_reward",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини киберкулак",
-        "substitution": "sprites/cyberpunch",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини кибернетический меч",
-        "substitution": "sprites/w_cybersword",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини цвайхендер",
         "substitution": "sprites/zweihander",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)мини ампутатор",
-        "substitution": "sprites/amputator",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини меч-секира",
         "substitution": "sprites/axeblade",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини топор тысячи металлов",
-        "substitution": "sprites/axe_of_thousand_metals",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини боевой топор",
-        "substitution": "sprites/battle_axe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини медицинская пила",
-        "substitution": "sprites/bonesaw",
         "matchAll": true,
         "validate": false
       },
@@ -1882,12 +1445,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини аварийный топор",
-        "substitution": "sprites/crash_axe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини алебарда",
         "substitution": "sprites/iron_halberd",
         "matchAll": true,
@@ -1896,12 +1453,6 @@
       {
         "regex": "(?iu)мини копьё",
         "substitution": "sprites/iron_spear",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини пожарный топор",
-        "substitution": "sprites/fire_axe",
         "matchAll": true,
         "validate": false
       },
@@ -1930,18 +1481,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини заражённое копьё",
-        "substitution": "sprites/infested_spear",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини лобзик",
-        "substitution": "sprites/jigsaw",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини кледенец",
         "substitution": "sprites/lollichop",
         "matchAll": true,
@@ -1960,20 +1499,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини топор из луностали",
-        "substitution": "sprites/moonsteel_axe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)мини секира",
         "substitution": "sprites/poleaxe",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини пила",
-        "substitution": "sprites/saw",
         "matchAll": true,
         "validate": false
       },
@@ -1997,43 +1524,13 @@
       },
       {
         "regex": "(?iu)мини клинок мрк'грш'траклара",
-        "substitution": "sprites/klinok_marka_p",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини скалка 3d",
-        "substitution": "sprites/skalka_for_mroladushek69",
+        "substitution": "sprites/klinok_marka",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?i)мини picun f6",
         "substitution": "sprites/fotoris_sword_super",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини резиновый пенис",
-        "substitution": "sprites/dildo",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини горнило",
-        "substitution": "sprites/crucible",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини полный убер шприц",
-        "substitution": "sprites/uber_syringe4",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)мини убер шприц",
-        "substitution": "sprites/uber_syringe0",
         "matchAll": true,
         "validate": false
       }

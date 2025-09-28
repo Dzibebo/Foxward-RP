@@ -16,10 +16,11 @@
   "modelParent": "minecraft:item/generated",
   "parameters": {
     "componentType": "custom_name",
+    "expect": "rich_text",
     "debug": true,
-    "transform": [
+    "transform": ["lowercase",
       {
-        "regex": "(?iu)абсент",
+        "regex": "(?i)абсент",
         "substitution": "absent",
         "matchAll": true,
         "validate": false
@@ -170,7 +171,7 @@
       },
       {
         "regex": "(?iu)бокал красного вина",
-        "substitution": "red_wine_glass",
+        "substitution": "red_whine_glass",
         "matchAll": true,
         "validate": false
       },

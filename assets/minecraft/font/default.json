@@ -632,6 +632,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/kirill.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u09AD"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:gui/foxicons/logo/nonrp.png",
 			"ascent": 7,
 			"height": 9,

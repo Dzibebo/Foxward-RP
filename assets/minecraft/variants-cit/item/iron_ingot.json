@@ -896,7 +896,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)додж чарджер циан",
+        "regex": "(?iu)додж чарджер цветной",
         "substitution": "dodge_charger_cyan",
         "matchAll": true,
         "validate": false

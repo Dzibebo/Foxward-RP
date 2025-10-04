@@ -1,0 +1,58 @@
+{
+  "type": "component_format",
+  "items": [
+    "minecraft:bundle",
+    "minecraft:white_bundle",
+    "minecraft:black_bundle"
+  ],
+  "modelPrefix": "item/bundle/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "format": "${content}_${name}",
+    "variables": {
+      "content": {
+        "componentType": "bundle_contents",
+        "nbtPath": "[0].id"
+      },
+      "name": {
+        "componentType": "custom_name",
+        "expect": "rich_text",
+        "debug": true,
+        "transform": ["lowercase",
+          {
+            "regex": "(?iu)ё",
+            "substitution": "е",
+            "matchAll": false,
+            "validate": false
+          },      {
+            "regex": "(?iu)кошелек",
+            "substitution": "koshelek",
+            "matchAll": true,
+            "validate": false
+          }
+        ]
+      }
+    },
+    "expect": "string",
+    "debug": true,
+    "fallbackModel": "item/bundle/empty.json"
+  },
+  "variants": {
+    "deepslate_diamond_ore_koshelek": {
+      "texture": "textures/item/bundle/deepslate_diamond_ore_koshelek.png",
+      "model": "item/bundle/deepslate_diamond_ore_koshelek.json"
+    },
+    "diamond_ore_koshelek": {
+      "texture": "textures/item/bundle/diamond_ore_koshelek.png",
+      "model": "item/bundle/diamond_ore_koshelek.json"
+    },
+    "empty_koshelek": {
+      "texture": "textures/item/bundle/_koshelek.png",
+      "model": "item/bundle/_koshelek.json"
+    },
+
+    "default": {
+      "model": "minecraft:item/stick"
+    }
+  }
+}

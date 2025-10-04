@@ -9,7 +9,12 @@
     "debug": true,
     "transform": ["lowercase",
       {
-        "regex": "(?iu)дешёвая зажигалка",
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
+        "regex": "(?iu)дешевая зажигалка",
         "substitution": "cheap_lighter",
         "matchAll": true,
         "validate": false

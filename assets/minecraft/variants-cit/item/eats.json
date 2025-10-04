@@ -49,6 +49,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)три маффина с вишенкой",
         "substitution": "3cherrymaffin",
         "matchAll": true,
@@ -91,8 +96,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)большой чёрный бургер",
-        "substitution": "big_burger",
+        "regex": "(?iu)большой черный бургер",
+        "substitution": "big_black_burger",
         "matchAll": true,
         "validate": false
       },
@@ -109,14 +114,14 @@
         "validate": false
       },
       {
-        "regex": "(?iu)берёзовое полено",
+        "regex": "(?iu)березовое полено",
         "substitution": "birch_poleno",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)черный бургер",
-        "substitution": "burger",
+        "substitution": "black_burger",
         "matchAll": true,
         "validate": false
       },
@@ -139,7 +144,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)вишнёвое полено",
+        "regex": "(?iu)вишневое полено",
         "substitution": "cherry_poleno",
         "matchAll": true,
         "validate": false
@@ -229,7 +234,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)полено тёмного дуба",
+        "regex": "(?iu)полено темного дуба",
         "substitution": "dark_oak_poleno",
         "matchAll": true,
         "validate": false
@@ -271,7 +276,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)блины с мёдом",
+        "regex": "(?iu)блины с медом",
         "substitution": "honey_pancakes",
         "matchAll": true,
         "validate": false
@@ -433,19 +438,19 @@
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное акациевое полено",
+        "regex": "(?iu)обтесанное акациевое полено",
         "substitution": "stripped_acacia_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное берёзовое полено",
+        "regex": "(?iu)обтесанное березовое полено",
         "substitution": "stripped_birch_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное вишнёвое полено",
+        "regex": "(?iu)обтесанное вишневое полено",
         "substitution": "stripped_cherry_poleno",
         "matchAll": true,
         "validate": false
@@ -457,43 +462,43 @@
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное полено тёмного дуба",
+        "regex": "(?iu)обтесанное полено темного дуба",
         "substitution": "stripped_dark_oak_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное полено тропического дерева",
+        "regex": "(?iu)обтесанное полено тропического дерева",
         "substitution": "stripped_jungle_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное мангровое полено",
+        "regex": "(?iu)обтесанное мангровое полено",
         "substitution": "stripped_mangrove_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное дубовое полено",
+        "regex": "(?iu)обтесанное дубовое полено",
         "substitution": "stripped_oak_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное полено бледного дуба",
+        "regex": "(?iu)обтесанное полено бледного дуба",
         "substitution": "stripped_pale_oak_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)обтёсанное еловое полено",
+        "regex": "(?iu)обтесанное еловое полено",
         "substitution": "stripped_spruce_poleno",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)очищенное искажённое полено",
+        "regex": "(?iu)очищенное искаженное полено",
         "substitution": "stripped_warped_poleno",
         "matchAll": true,
         "validate": false
@@ -523,7 +528,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)искажённое полено",
+        "regex": "(?iu)искаженное полено",
         "substitution": "warped_poleno",
         "matchAll": true,
         "validate": false
@@ -617,7 +622,26 @@
         "substitution": "chocolate_lenin",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)ганджубасик",
+        "substitution": "gandgubasik",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сосиска в тесте",
+        "substitution": "sosisa_testo",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)сосиска в тесте как обычно",
+        "substitution": "sosiza_testo",
+        "matchAll": true,
+        "validate": false
       }
+
     ]
   }
 }

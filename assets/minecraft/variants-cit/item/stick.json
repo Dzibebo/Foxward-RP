@@ -9,6 +9,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)костыль",
         "substitution": "crutch",
         "matchAll": true,
@@ -51,13 +56,13 @@
         "validate": false
       },
       {
-        "regex": "(?iu)свёрнутый старый зонт",
+        "regex": "(?iu)свернутый старый зонт",
         "substitution": "rolled_up_old_umbrella",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)свёрнутый зонт",
+        "regex": "(?iu)свернутый зонт",
         "substitution": "rolled_up_umbrella",
         "matchAll": true,
         "validate": false

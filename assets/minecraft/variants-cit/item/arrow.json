@@ -32,6 +32,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)стальной снаряд и светопыль",
         "substitution": "bullet_and_glowstone_dust",
         "matchAll": true,
@@ -50,7 +55,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)топливо для огнемёта",
+        "regex": "(?iu)топливо для огнемета",
         "substitution": "flamethrower_fuel",
         "matchAll": true,
         "validate": false
@@ -68,7 +73,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)гранатомётный снаряд",
+        "regex": "(?iu)гранатометный снаряд",
         "substitution": "pipe_grenade",
         "matchAll": true,
         "validate": false

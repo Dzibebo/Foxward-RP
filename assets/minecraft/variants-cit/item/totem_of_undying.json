@@ -9,13 +9,18 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)живой тотем",
         "substitution": "live_totem",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)тёмный живой тотем",
+        "regex": "(?iu)темный живой тотем",
         "substitution": "live_totem_dark",
         "matchAll": true,
         "validate": false
@@ -87,12 +92,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)какащке мольвине",
-        "substitution": "molvbin_gey",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)нейтралка",
         "substitution": "ne1tralka",
         "matchAll": true,
@@ -135,8 +134,14 @@
         "validate": false
       },
       {
-        "regex": "(?iu)кошенция",
-        "substitution": "serezhka",
+        "regex": "(?iu)чай",
+        "substitution": "tea_bobr",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шар наблюдателя",
+        "substitution": "magiccamera",
         "matchAll": true,
         "validate": false
       }

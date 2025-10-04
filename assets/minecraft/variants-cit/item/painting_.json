@@ -9,6 +9,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)братья",
         "substitution": "brothers",
         "matchAll": true,
@@ -21,7 +26,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)настенный ковёр",
+        "regex": "(?iu)настенный ковер",
         "substitution": "carpet",
         "matchAll": true,
         "validate": false
@@ -111,7 +116,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)Шёл дождь",
+        "regex": "(?iu)Шел дождь",
         "substitution": "rain",
         "matchAll": true,
         "validate": false

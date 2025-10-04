@@ -20,6 +20,12 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },
+      {
         "regex": "(?i)абсент",
         "substitution": "absent",
         "matchAll": true,
@@ -50,13 +56,19 @@
         "validate": false
       },
       {
+        "regex": "(?iu)американо",
+        "substitution": "coffee_for",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu)добрый кола",
         "substitution": "cola",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)сгущёнка",
+        "regex": "(?iu)сгущенка",
         "substitution": "condensed_milk",
         "matchAll": true,
         "validate": false
@@ -74,7 +86,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мёд",
+        "regex": "(?iu)мед",
         "substitution": "honey",
         "matchAll": true,
         "validate": false
@@ -122,7 +134,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)кружка тёмного пива",
+        "regex": "(?iu)кружка темного пива",
         "substitution": "mug_dark",
         "matchAll": true,
         "validate": false
@@ -164,7 +176,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пиво",
+        "regex": "(?iu)бутылка пива",
         "substitution": "pivo",
         "matchAll": true,
         "validate": false
@@ -236,7 +248,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)вино",
+        "regex": "(?iu)бутылка вина",
         "substitution": "vino",
         "matchAll": true,
         "validate": false
@@ -278,7 +290,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)ликёр",
+        "regex": "(?iu)ликер",
         "substitution": "liqer",
         "matchAll": true,
         "validate": false
@@ -296,7 +308,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)виски",
+        "regex": "(?iu)бутылка виски",
         "substitution": "whiskey",
         "matchAll": true,
         "validate": false

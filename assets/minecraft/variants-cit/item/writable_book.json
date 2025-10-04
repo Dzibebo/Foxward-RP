@@ -14,6 +14,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)закрытый атлас",
         "substitution": "atlas",
         "matchAll": true,
@@ -32,7 +37,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)завёрнутый чертёж",
+        "regex": "(?iu)завернутый чертеж",
         "substitution": "blueprint",
         "matchAll": true,
         "validate": false
@@ -338,7 +343,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)завёрнутая пиратская карта",
+        "regex": "(?iu)завернутая пиратская карта",
         "substitution": "pirate_map_left_hand",
         "matchAll": true,
         "validate": false
@@ -356,7 +361,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)завёрнутый свиток",
+        "regex": "(?iu)завернутый свиток",
         "substitution": "scroll",
         "matchAll": true,
         "validate": false
@@ -410,7 +415,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)завёрнутый свиток досаждателя",
+        "regex": "(?iu)завернутый свиток досаждателя",
         "substitution": "vexing_chant_left_hand",
         "matchAll": true,
         "validate": false

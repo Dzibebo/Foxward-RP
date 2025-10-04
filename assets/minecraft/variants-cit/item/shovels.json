@@ -16,7 +16,12 @@
     "debug": true,
     "transform": ["lowercase",
       {
-        "regex": "(?iu)тёмная лопата",
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
+        "regex": "(?iu)темная лопата",
         "substitution": "dark_shovel",
         "matchAll": true,
         "validate": false

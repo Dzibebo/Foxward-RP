@@ -9,6 +9,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)дубовый банный веник",
         "substitution": "ban_broom_oak",
         "matchAll": true,
@@ -39,67 +44,13 @@
         "validate": false
       },
       {
-        "regex": "(?iu)кисть с аметистом",
-        "substitution": "brush_with_amethyst",
+        "regex": "(?iu)цветная кисть",
+        "substitution": "brush_color",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)кисть с углём",
-        "substitution": "brush_with_coal",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с алмазом",
-        "substitution": "brush_with_diamond",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с изумрудом",
-        "substitution": "brush_with_emerald",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с золотом",
-        "substitution": "brush_with_gold",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с железом",
-        "substitution": "brush_with_iron",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с лазуритом",
-        "substitution": "brush_with_lapis_lazuli",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с незеритом",
-        "substitution": "brush_with_netherite",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с кварцем",
-        "substitution": "brush_with_quartz",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)кисть с редстоуном",
-        "substitution": "brush_with_redstone",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)перьевая метёлка",
+        "regex": "(?iu)перьевая метелка",
         "substitution": "feather_duster",
         "matchAll": true,
         "validate": false
@@ -117,7 +68,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)ёршик",
+        "regex": "(?iu)ершик",
         "substitution": "toilet_brush",
         "matchAll": true,
         "validate": false

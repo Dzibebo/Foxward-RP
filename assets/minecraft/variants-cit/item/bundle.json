@@ -27,11 +27,23 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)поднос",
         "substitution": "platter",
         "matchAll": true,
         "validate": false
       },
+      {
+        "regex": "(?iu)кошелек",
+        "substitution": "_koshelek",
+        "matchAll": true,
+        "validate": false
+      },
+
       {
         "regex": "(?iu)горшочек",
         "substitution": "pot",

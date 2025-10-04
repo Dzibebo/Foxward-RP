@@ -643,6 +643,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\uA916"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/kirill.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u09AD"]
 		}
 	]
 }

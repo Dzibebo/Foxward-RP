@@ -9,6 +9,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)импульсная винтовка",
         "substitution": "76gunn",
         "matchAll": true,
@@ -40,7 +45,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пустынный орёл",
+        "regex": "(?iu)пустынный орел",
         "substitution": "deagle",
         "matchAll": true,
         "validate": false
@@ -70,7 +75,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)огнемёт",
+        "regex": "(?iu)огнемет",
         "substitution": "flamethrower",
         "matchAll": true,
         "validate": false
@@ -100,7 +105,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)гвоздомёт",
+        "regex": "(?iu)гвоздомет",
         "substitution": "gvozd",
         "matchAll": true,
         "validate": false
@@ -112,7 +117,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пулемёт льюиса",
+        "regex": "(?iu)пулемет льюиса",
         "substitution": "lewis",
         "matchAll": true,
         "validate": false
@@ -166,7 +171,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пулемёт",
+        "regex": "(?iu)пулемет",
         "substitution": "minigun",
         "matchAll": true,
         "validate": false
@@ -226,7 +231,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)быстромёт",
+        "regex": "(?iu)быстромет",
         "substitution": "quick",
         "matchAll": true,
         "validate": false
@@ -244,7 +249,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)пулемёт шоша",
+        "regex": "(?iu)пулемет шоша",
         "substitution": "shausha",
         "matchAll": true,
         "validate": false
@@ -274,13 +279,13 @@
         "validate": false
       },
       {
-        "regex": "(?iu)липучкомёт",
+        "regex": "(?iu)липучкомет",
         "substitution": "stickybomb_launcher",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)шприцемёт",
+        "regex": "(?iu)шприцемет",
         "substitution": "syr",
         "matchAll": true,
         "validate": false

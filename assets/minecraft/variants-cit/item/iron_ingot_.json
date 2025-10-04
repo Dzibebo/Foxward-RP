@@ -9,6 +9,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)канделябр с 1 свечой",
         "substitution": "1_candle_candelabra",
         "matchAll": true,
@@ -111,7 +116,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)ребёнок",
+        "regex": "(?iu)ребенок",
         "substitution": "baby",
         "matchAll": true,
         "validate": false
@@ -141,7 +146,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)бамбуковый шкаф с решёткой",
+        "regex": "(?iu)бамбуковый шкаф с решеткой",
         "substitution": "bamboo_bars_cabinet",
         "matchAll": true,
         "validate": false
@@ -249,37 +254,37 @@
         "validate": false
       },
       {
-        "regex": "(?iu)берёзовый шкаф с 2 ящиками",
+        "regex": "(?iu)березовый шкаф с 2 ящиками",
         "substitution": "birch_2_drawers_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)верхний берёзовый шкаф с 2 ящиками",
+        "regex": "(?iu)верхний березовый шкаф с 2 ящиками",
         "substitution": "birch_2_drawers_cabinet_top",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)берёзовый шкаф с ящиком",
+        "regex": "(?iu)березовый шкаф с ящиком",
         "substitution": "birch_drawer_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)берёзовый шкаф с зеркалом с 6 секциями",
+        "regex": "(?iu)березовый шкаф с зеркалом с 6 секциями",
         "substitution": "birch_mirror_6_sections_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)берёзовый шкаф с зеркалом",
+        "regex": "(?iu)березовый шкаф с зеркалом",
         "substitution": "birch_mirror_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)берёзовая раковина",
+        "regex": "(?iu)березовая раковина",
         "substitution": "birch_sink",
         "matchAll": true,
         "validate": false
@@ -309,7 +314,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)котёл с жижей",
+        "regex": "(?iu)котел с жижей",
         "substitution": "boiler",
         "matchAll": true,
         "validate": false
@@ -411,7 +416,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)тёмная купольная камера",
+        "regex": "(?iu)темная купольная камера",
         "substitution": "cameracd",
         "matchAll": true,
         "validate": false
@@ -429,19 +434,19 @@
         "validate": false
       },
       {
-        "regex": "(?iu)тёмная камера видеонаблюдения",
+        "regex": "(?iu)темная камера видеонаблюдения",
         "substitution": "camera_dark",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)тёмная камера видеонаблюдения left",
+        "regex": "(?iu)темная камера видеонаблюдения left",
         "substitution": "camera_dark_left",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)тёмная камера видеонаблюдения right",
+        "regex": "(?iu)темная камера видеонаблюдения right",
         "substitution": "camera_dark_right",
         "matchAll": true,
         "validate": false
@@ -567,31 +572,31 @@
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева с 4 секциями",
+        "regex": "(?iu)шкаф седзи из вишневого дерева с 4 секциями",
         "substitution": "cherry_4_section_shoji_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева с 6 секциями",
+        "regex": "(?iu)шкаф седзи из вишневого дерева с 6 секциями",
         "substitution": "cherry_6_section_shoji_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева с росписью",
+        "regex": "(?iu)шкаф седзи из вишневого дерева с росписью",
         "substitution": "cherry_painting_shoji_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф сёдзи из вишнёвого дерева",
+        "regex": "(?iu)шкаф седзи из вишневого дерева",
         "substitution": "cherry_shoji_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)верхний шкаф сёдзи из вишнёвого дерева",
+        "regex": "(?iu)верхний шкаф седзи из вишневого дерева",
         "substitution": "cherry_shoji_cabinet_top",
         "matchAll": true,
         "validate": false
@@ -795,37 +800,37 @@
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф из тёмного дуба с 2 ящиками",
+        "regex": "(?iu)шкаф из темного дуба с 2 ящиками",
         "substitution": "dark_oak_2_drawers_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)верхний шкаф из тёмного дуба с 2 ящиками",
+        "regex": "(?iu)верхний шкаф из темного дуба с 2 ящиками",
         "substitution": "dark_oak_2_drawers_cabinet_top",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф из тёмного дуба с 6 ящиками",
+        "regex": "(?iu)шкаф из темного дуба с 6 ящиками",
         "substitution": "dark_oak_6_drawers_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф из тёмного дуба с буазери",
+        "regex": "(?iu)шкаф из темного дуба с буазери",
         "substitution": "dark_oak_boiserie_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)шкаф из тёмного дуба с зеркалом",
+        "regex": "(?iu)шкаф из темного дуба с зеркалом",
         "substitution": "dark_oak_mirror_cabinet",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)раковина из тёмного дуба",
+        "regex": "(?iu)раковина из темного дуба",
         "substitution": "dark_oak_sink",
         "matchAll": true,
         "validate": false
@@ -837,13 +842,13 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мёртвое тело",
+        "regex": "(?iu)мертвое тело",
         "substitution": "dead_body",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)мёртвый зомби",
+        "regex": "(?iu)мертвый зомби",
         "substitution": "dead_zombie",
         "matchAll": true,
         "validate": false
@@ -879,13 +884,13 @@
         "validate": false
       },
       {
-        "regex": "(?iu)додж чарджер чёрный v8",
+        "regex": "(?iu)додж чарджер черный v8",
         "substitution": "dodge_charger_black_v8",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)додж чарджер чёрный",
+        "regex": "(?iu)додж чарджер черный",
         "substitution": "dodge_charger_black",
         "matchAll": true,
         "validate": false
@@ -1215,7 +1220,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)противотанковый ёж",
+        "regex": "(?iu)противотанковый еж",
         "substitution": "iron_hedgehog",
         "matchAll": true,
         "validate": false
@@ -1329,7 +1334,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)лежащий мёртвый зомби",
+        "regex": "(?iu)лежащий мертвый зомби",
         "substitution": "lying_dead_zombie",
         "matchAll": true,
         "validate": false
@@ -1743,7 +1748,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)порше 911 чёрный",
+        "regex": "(?iu)порше 911 черный",
         "substitution": "porsche_911_carrera_black",
         "matchAll": true,
         "validate": false
@@ -1767,7 +1772,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)порше 911 каррера жёлтый",
+        "regex": "(?iu)порше 911 каррера желтый",
         "substitution": "porsche_911_carrera_yellow",
         "matchAll": true,
         "validate": false
@@ -1779,7 +1784,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)переносной радиоприёмник",
+        "regex": "(?iu)переносной радиоприемник",
         "substitution": "portable_radio",
         "matchAll": true,
         "validate": false
@@ -1803,7 +1808,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)радиоприёмник",
+        "regex": "(?iu)радиоприемник",
         "substitution": "radio",
         "matchAll": true,
         "validate": false
@@ -1827,7 +1832,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)расчёска",
+        "regex": "(?iu)расческа",
         "substitution": "rascheska",
         "matchAll": true,
         "validate": false
@@ -2037,7 +2042,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)маленький необожжённый горшок",
+        "regex": "(?iu)маленький необожженный горшок",
         "substitution": "small_unfired_pot",
         "matchAll": true,
         "validate": false
@@ -2397,7 +2402,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)необожжённый горшок",
+        "regex": "(?iu)необожженный горшок",
         "substitution": "unfired_pot",
         "matchAll": true,
         "validate": false
@@ -2415,7 +2420,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)чем ниже таз тем выше полёт",
+        "regex": "(?iu)чем ниже таз тем выше полет",
         "substitution": "vaz_2103_fly_mode",
         "matchAll": true,
         "validate": false
@@ -2699,6 +2704,12 @@
       {
         "regex": "(?iu)тарелка с приборами",
         "substitution": "tarelka_for_ovotarich",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мшистая статуя",
+        "substitution": "statue_huaue",
         "matchAll": true,
         "validate": false
       }

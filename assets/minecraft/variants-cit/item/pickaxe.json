@@ -16,6 +16,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)якорь",
         "substitution": "anchor",
         "matchAll": true,
@@ -114,7 +119,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)заражённая кирка",
+        "regex": "(?iu)зараженная кирка",
         "substitution": "infested_pickaxe",
         "matchAll": true,
         "validate": false
@@ -193,7 +198,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)отвёртка",
+        "regex": "(?iu)отвертка",
         "substitution": "screwdriver",
         "matchAll": true,
         "validate": false

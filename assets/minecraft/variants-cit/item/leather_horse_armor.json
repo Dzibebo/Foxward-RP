@@ -9,6 +9,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)кресло",
         "substitution": "armchair",
         "matchAll": true,
@@ -81,19 +86,19 @@
         "validate": false
       },
       {
-        "regex": "(?iu)левый край дивана из тёмного дуба",
+        "regex": "(?iu)левый край дивана из темного дуба",
         "substitution": "dark_oak_couch_left",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)середина дивана из тёмного дуба",
+        "regex": "(?iu)середина дивана из темного дуба",
         "substitution": "dark_oak_couch_middle",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)правый край дивана из тёмного дуба",
+        "regex": "(?iu)правый край дивана из темного дуба",
         "substitution": "dark_oak_couch_right",
         "matchAll": true,
         "validate": false
@@ -201,7 +206,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)символ решётки на табличке",
+        "regex": "(?iu)символ решетки на табличке",
         "substitution": "number_sign_glyph",
         "matchAll": true,
         "validate": false
@@ -261,7 +266,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)свёрнутый окрашенный зонт",
+        "regex": "(?iu)свернутый окрашенный зонт",
         "substitution": "rolled_up_stained_umbrella",
         "matchAll": true,
         "validate": false

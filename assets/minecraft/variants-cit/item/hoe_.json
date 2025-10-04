@@ -16,6 +16,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)мотыга из луностали",
         "substitution": "moonsteel_hoe",
         "matchAll": true,

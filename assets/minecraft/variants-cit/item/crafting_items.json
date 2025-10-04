@@ -34,6 +34,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)brusko",
         "substitution": "brusko",
         "matchAll": true,
@@ -94,7 +99,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)свёрнутый зонт",
+        "regex": "(?iu)свернутый зонт",
         "substitution": "rolled_up_umbrella",
         "matchAll": true,
         "validate": false

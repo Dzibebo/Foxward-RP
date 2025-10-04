@@ -9,6 +9,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)10 треф",
         "substitution": "10clubs",
         "matchAll": true,
@@ -225,37 +230,37 @@
         "validate": false
       },
       {
-        "regex": "(?iu)чёрный слон",
+        "regex": "(?iu)черный слон",
         "substitution": "black_bishop",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)чёрный король",
+        "regex": "(?iu)черный король",
         "substitution": "black_king",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)чёрный конь",
+        "regex": "(?iu)черный конь",
         "substitution": "black_knight",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)чёрная пешка",
+        "regex": "(?iu)черная пешка",
         "substitution": "black_pawn",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)чёрный ферзь",
+        "regex": "(?iu)черный ферзь",
         "substitution": "black_queen",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)чёрная ладья",
+        "regex": "(?iu)черная ладья",
         "substitution": "black_rook",
         "matchAll": true,
         "validate": false

@@ -22,6 +22,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)антиквариат",
         "substitution": "antikvar",
         "matchAll": true,
@@ -46,7 +51,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)спиночёс",
+        "regex": "(?iu)спиночес",
         "substitution": "back_scratcher",
         "matchAll": true,
         "validate": false
@@ -88,7 +93,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)боксёрская перчатка",
+        "regex": "(?iu)боксерская перчатка",
         "substitution": "white_boxing_glove",
         "matchAll": true,
         "validate": false
@@ -268,7 +273,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)плётка",
+        "regex": "(?iu)плетка",
         "substitution": "dop_whip",
         "matchAll": true,
         "validate": false
@@ -424,7 +429,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)раскалённый нож",
+        "regex": "(?iu)раскаленный нож",
         "substitution": "heated_knife",
         "matchAll": true,
         "validate": false
@@ -586,6 +591,12 @@
         "validate": false
       },
       {
+        "regex": "(?iu)мурасама",
+        "substitution": "murasama",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu)калыван младший",
         "substitution": "pablosword",
         "matchAll": true,
@@ -712,7 +723,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)копьё лонгина",
+        "regex": "(?iu)копье лонгина",
         "substitution": "spear_aski",
         "matchAll": true,
         "validate": false
@@ -802,7 +813,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)ёру",
+        "regex": "(?iu)еру",
         "substitution": "yoru",
         "matchAll": true,
         "validate": false
@@ -886,7 +897,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)копьё",
+        "regex": "(?iu)копье",
         "substitution": "iron_spear",
         "matchAll": true,
         "validate": false
@@ -898,7 +909,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)копьё удачи",
+        "regex": "(?iu)копье удачи",
         "substitution": "fortune_spear",
         "matchAll": true,
         "validate": false
@@ -922,7 +933,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)заражённое копьё",
+        "regex": "(?iu)зараженное копье",
         "substitution": "infested_spear",
         "matchAll": true,
         "validate": false
@@ -982,7 +993,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)шёпот смерти",
+        "regex": "(?iu)шепот смерти",
         "substitution": "whisper_of_death",
         "matchAll": true,
         "validate": false
@@ -1147,6 +1158,12 @@
       {
         "regex": "(?iu)мини абордажная сабля",
         "substitution": "sprites/cutlass",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мини мурасама",
+        "substitution": "sprites/murasama",
         "matchAll": true,
         "validate": false
       },
@@ -1355,7 +1372,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини копьё лонгина",
+        "regex": "(?iu)мини копье лонгина",
         "substitution": "sprites/spear_aski",
         "matchAll": true,
         "validate": false
@@ -1415,7 +1432,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини ёру",
+        "regex": "(?iu)мини еру",
         "substitution": "sprites/yoru",
         "matchAll": true,
         "validate": false
@@ -1451,13 +1468,13 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини копьё",
+        "regex": "(?iu)мини копье",
         "substitution": "sprites/iron_spear",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)мини копьё удачи",
+        "regex": "(?iu)мини копье удачи",
         "substitution": "sprites/fortune_spear",
         "matchAll": true,
         "validate": false
@@ -1517,7 +1534,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)мини шёпот смерти",
+        "regex": "(?iu)мини шепот смерти",
         "substitution": "sprites/whisper_of_death",
         "matchAll": true,
         "validate": false

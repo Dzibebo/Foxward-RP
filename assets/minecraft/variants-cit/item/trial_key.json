@@ -12,6 +12,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)ключ испытаний 3d",
         "substitution": "key",
         "matchAll": true,

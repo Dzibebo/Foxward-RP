@@ -12,6 +12,11 @@
     "debug": true,
     "transform": ["lowercase",
       {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },{
         "regex": "(?iu)амбассадор",
         "substitution": "ambas",
         "matchAll": true,
@@ -48,7 +53,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)чёрный ящик",
+        "regex": "(?iu)черный ящик",
         "substitution": "black_box",
         "matchAll": true,
         "validate": false
@@ -102,7 +107,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)гранатомёт",
+        "regex": "(?iu)гранатомет",
         "substitution": "granade_launcher",
         "matchAll": true,
         "validate": false
@@ -168,13 +173,13 @@
         "validate": false
       },
       {
-        "regex": "(?iu)тренировочный ракетомёт",
+        "regex": "(?iu)тренировочный ракетомет",
         "substitution": "rocket_jumper",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)ракетомёт",
+        "regex": "(?iu)ракетомет",
         "substitution": "rocket_launcher",
         "matchAll": true,
         "validate": false
@@ -210,7 +215,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)тяжёлая ноша",
+        "regex": "(?iu)тяжелая ноша",
         "substitution": "svk",
         "matchAll": true,
         "validate": false
@@ -222,7 +227,7 @@
         "validate": false
       },
       {
-        "regex": "(?iu)траншейное ружьё",
+        "regex": "(?iu)траншейное ружье",
         "substitution": "trench_gun",
         "matchAll": true,
         "validate": false

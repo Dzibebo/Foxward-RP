@@ -1,0 +1,6 @@
+{
+	"parent": "item/source_models/totem",
+	"textures": {
+	  "1": "item/totem_of_undying/ovotarich_herobrine"
+	}
+  }

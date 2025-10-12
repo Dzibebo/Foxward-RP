@@ -657,6 +657,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u09AD"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/famohe.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2D03"]
 		}
 	]
 }

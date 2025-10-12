@@ -128,6 +128,12 @@
         "validate": false
       },
       {
+        "regex": "(?iu)пошел нахуй",
+        "substitution": "ne1tral_deputat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu)никита говновоз",
         "substitution": "koziki_roga",
         "matchAll": true,
@@ -142,6 +148,30 @@
       {
         "regex": "(?iu)шар наблюдателя",
         "substitution": "magiccamera",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)раком-саком",
+        "substitution": "_mazr_",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бенжи школьник",
+        "substitution": "benji_school",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)раком-встал",
+        "substitution": "_mazr_",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)я заебался",
+        "substitution": "ovotarich",
         "matchAll": true,
         "validate": false
       }

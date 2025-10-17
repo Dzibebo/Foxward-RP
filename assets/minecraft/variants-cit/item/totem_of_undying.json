@@ -175,7 +175,14 @@
         "substitution": "ovotarich",
         "matchAll": true,
         "validate": false
-      },{
+      },
+      {
+        "regex": "(?iu)sfefses цветной",
+        "substitution": "sfefses_color",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

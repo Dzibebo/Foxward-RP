@@ -13,7 +13,8 @@
         "substitution": "е",
         "matchAll": false,
         "validate": false
-      },{
+      },
+      {
         "regex": "(?iu)живой тотем",
         "substitution": "live_totem",
         "matchAll": true,
@@ -173,6 +174,11 @@
         "regex": "(?iu)я заебался",
         "substitution": "ovotarich",
         "matchAll": true,
+        "validate": false
+      },{
+        "regex": "(?iu) ",
+        "substitution": "_",
+        "matchAll": false,
         "validate": false
       }
     ]

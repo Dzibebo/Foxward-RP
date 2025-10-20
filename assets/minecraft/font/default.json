@@ -664,6 +664,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2D03"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/smile.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1724"]
 		}
 	]
 }

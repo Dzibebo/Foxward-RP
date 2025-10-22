@@ -1,0 +1,18 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/papers/missing_person_paper_big",
+		"particle": "item/papers/missing_person_paper_big"
+	},
+	"elements": [
+		{
+			"from": [0.75, -0.3, 8],
+			"to": [14.75, 17.95, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.75, 2, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 4.5625], "texture": "#0"},
+				"south": {"uv": [3.5, 0, 0, 4.5625], "texture": "#0"}
+			}
+		}
+	]
+}

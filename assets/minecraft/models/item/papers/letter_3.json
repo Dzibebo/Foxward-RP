@@ -14,13 +14,8 @@
 			}
 		}
 	],
+
 	"overrides": [
-		"predicate": {
-			"custom_model_data": 202
-		},
-		"model":"item/letter_3"
-
-
-
+		{"predicate": {"custom_model_data":1234567}, "model": "item/papers/letter_3"}
 	]
 }

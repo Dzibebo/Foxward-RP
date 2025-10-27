@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 200.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/papers/letter_clear"
+        }
+      },
+      {
+        "threshold": 201.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/papers/letter_big"
+        }
+      },
+      {
+        "threshold": 202.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/papers/letter_1"
+        }
+      },
+      {
+        "threshold": 203.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/papers/letter_2"
+        }
+      },
+      {
+        "threshold": 204.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/papers/letter_3"
+        }
+      },
+      {
+        "threshold": 205.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/papers/letter_4"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

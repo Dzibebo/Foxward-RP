@@ -13,5 +13,14 @@
 				"south": {"uv": [5.5625, 1.0625, 6.1875, 2], "texture": "#1"}
 			}
 		}
+	],
+	"overrides": [
+		"predicate": {
+			"custom_model_data": 203
+		},
+		"model":"item/letter_2"
+
+
+
 	]
 }

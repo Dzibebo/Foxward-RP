@@ -182,6 +182,18 @@
         "validate": false
       },
       {
+        "regex": "(?iu)игрушка адама",
+        "substitution": "adam",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пушистик",
+        "substitution": "fluffy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

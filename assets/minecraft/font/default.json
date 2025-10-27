@@ -671,6 +671,20 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1724"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/hel.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u017D"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/content.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u01EC"]
 		}
 	]
 }

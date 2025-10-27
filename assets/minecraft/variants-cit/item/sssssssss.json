@@ -1,0 +1,19 @@
+{
+  "type": "component_data",
+  "items": "minecraft:bundle",
+  "modelPrefix": "item/bundle/fullness_",
+  "parameters": {
+    "debug": true,
+    "componentType": "bundle_contents",
+    "nbtPath": ".count",
+    "transforms": [
+      {
+        "type": "length"
+      },
+      {
+        "type": "sanitize",
+        "pattern": "{value}"
+      }
+    ]
+  }
+}

@@ -671,6 +671,20 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1724"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/conditions/content.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u13EB"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/bruh.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2C98"]
 		}
 	]
 }

@@ -685,6 +685,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u2C98"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/delta.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u211E"]
 		}
 	]
 }

@@ -13,219 +13,364 @@
         "substitution": "е",
         "matchAll": false,
         "validate": false
-      },{
-        "regex": "(?iu)10 треф",
-        "substitution": "10clubs",
-        "matchAll": true,
-        "validate": false
       },
       {
-        "regex": "(?iu)10 бубен",
-        "substitution": "10diamonds",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)10 червей",
-        "substitution": "10hearts",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)10 пик",
-        "substitution": "10spades",
+        "regex": "(?iu)2 бубен",
+        "substitution": "diamonds_2",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)2 треф",
-        "substitution": "2clubs",
+        "substitution": "clubs_2",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)2 бубен",
-        "substitution": "2diamonds",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)2 червей",
-        "substitution": "2hearts",
+        "regex": "(?iu)2 черви",
+        "substitution": "hearts_2",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)2 пик",
-        "substitution": "2spades",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)3 треф",
-        "substitution": "3clubs",
+        "substitution": "spades_2",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)3 бубен",
-        "substitution": "3diamonds",
+        "substitution": "diamonds_3",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)3 червей",
-        "substitution": "3hearts",
+        "regex": "(?iu)3 треф",
+        "substitution": "clubs_3",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)3 черви",
+        "substitution": "hearts_3",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)3 пик",
-        "substitution": "3spades",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)4 треф",
-        "substitution": "4clubs",
+        "substitution": "spades_3",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)4 бубен",
-        "substitution": "4diamonds",
+        "substitution": "diamonds_4",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)4 червей",
-        "substitution": "4hearts",
+        "regex": "(?iu)4 треф",
+        "substitution": "clubs_4",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)4 черви",
+        "substitution": "hearts_4",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)4 пик",
-        "substitution": "4spades",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)5 треф",
-        "substitution": "5clubs",
+        "substitution": "spades_4",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)5 бубен",
-        "substitution": "5diamonds",
+        "substitution": "diamonds_5",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)5 червей",
-        "substitution": "5hearts",
+        "regex": "(?iu)5 треф",
+        "substitution": "clubs_5",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)5 черви",
+        "substitution": "hearts_5",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)5 пик",
-        "substitution": "5spades",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)6 треф",
-        "substitution": "6clubs",
+        "substitution": "spades_5",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)6 бубен",
-        "substitution": "6diamonds",
+        "substitution": "diamonds_6",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)6 червей",
-        "substitution": "6hearts",
+        "regex": "(?iu)6 треф",
+        "substitution": "clubs_6",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)6 черви",
+        "substitution": "hearts_6",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)6 пик",
-        "substitution": "6spades",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)7 треф",
-        "substitution": "7clubs",
+        "substitution": "spades_6",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)7 бубен",
-        "substitution": "7diamonds",
+        "substitution": "diamonds_7",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)7 червей",
-        "substitution": "7hearts",
+        "regex": "(?iu)7 треф",
+        "substitution": "clubs_7",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)7 черви",
+        "substitution": "hearts_7",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)7 пик",
-        "substitution": "7spades",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)8 треф",
-        "substitution": "8clubs",
+        "substitution": "spades_7",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)8 бубен",
-        "substitution": "8diamonds",
+        "substitution": "diamonds_8",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)8 червей",
-        "substitution": "8hearts",
+        "regex": "(?iu)8 треф",
+        "substitution": "clubs_8",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)8 черви",
+        "substitution": "hearts_8",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)8 пик",
-        "substitution": "8spades",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)9 треф",
-        "substitution": "9clubs",
+        "substitution": "spades_8",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)9 бубен",
-        "substitution": "9diamonds",
+        "substitution": "diamonds_9",
         "matchAll": true,
         "validate": false
       },
       {
-        "regex": "(?iu)9 червей",
-        "substitution": "9hearts",
+        "regex": "(?iu)9 треф",
+        "substitution": "clubs_9",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)9 черви",
+        "substitution": "hearts_9",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)9 пик",
-        "substitution": "9spades",
+        "substitution": "spades_9",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)10 бубен",
+        "substitution": "diamonds_10",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)10 треф",
+        "substitution": "clubs_10",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)10 черви",
+        "substitution": "hearts_10",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)10 пик",
+        "substitution": "spades_10",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бубовый туз",
+        "substitution": "diamonds_ace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трефовый туз",
+        "substitution": "clubs_ace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)червовый туз",
+        "substitution": "hearts_ace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиковый туз",
+        "substitution": "spades_ace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бубовый валет",
+        "substitution": "diamonds_jack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трефовый валет",
+        "substitution": "clubs_jack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)червовый валет",
+        "substitution": "hearts_jack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиковый валет",
+        "substitution": "spades_jack",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бубовый джокер",
+        "substitution": "diamonds_jocker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трефовый джокер",
+        "substitution": "clubs_jocker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)червовый джокер",
+        "substitution": "hearts_jocker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиковый джокер",
+        "substitution": "spades_jocker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бубовый король",
+        "substitution": "diamonds_king",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трефовый король",
+        "substitution": "clubs_king",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)червовый король",
+        "substitution": "hearts_king",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиковый король",
+        "substitution": "spades_king",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бубовая дама",
+        "substitution": "diamonds_queen",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трефовая дама",
+        "substitution": "clubs_queen",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)червовая дама",
+        "substitution": "hearts_queen",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиковая дама",
+        "substitution": "spades_queen",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)бубовый еблан",
+        "substitution": "diamonds_eblan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)трефовый еблан",
+        "substitution": "clubs_eblan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)червовый еблан",
+        "substitution": "hearts_eblan",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)пиковый еблан",
+        "substitution": "spades_eblan",
         "matchAll": true,
         "validate": false
       },
@@ -266,78 +411,6 @@
         "validate": false
       },
       {
-        "regex": "(?iu)трефовая дама",
-        "substitution": "clubs_dama",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)трефовый король",
-        "substitution": "clubs_korol",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)трефовый туз",
-        "substitution": "clubs_tuz",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)трефовый вальт",
-        "substitution": "clubs_valt",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бубновая дама",
-        "substitution": "diamonds_dama",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бубновый король",
-        "substitution": "diamonds_korol",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бубновый туз",
-        "substitution": "diamonds_tuz",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бубновый вальт",
-        "substitution": "diamonds_valt",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)червонная дама",
-        "substitution": "heart_dama",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)червонный король",
-        "substitution": "heart_korol",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)червонный туз",
-        "substitution": "heart_tuz",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)червонный вальт",
-        "substitution": "heart_valt",
-        "matchAll": true,
-        "validate": false
-      },
-      {
         "regex": "(?iu)коробка из-под пиццы",
         "substitution": "pizza_box",
         "matchAll": true,
@@ -346,30 +419,6 @@
       {
         "regex": "(?iu)прокладка",
         "substitution": "prokladka",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пиковая дама",
-        "substitution": "spades_dama",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пиковый король",
-        "substitution": "spades_korol",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пиковый туз",
-        "substitution": "spades_tuz",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пиковый вальт",
-        "substitution": "spades_valt",
         "matchAll": true,
         "validate": false
       },

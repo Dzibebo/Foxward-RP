@@ -1,0 +1,32 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/paper/clubs_queen"
+        },
+        "when": [
+          "firstperson_righthand",
+          "thirdperson_lefthand",
+		  "fixed"
+        ]
+      },
+	  {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/paper/sprites/clubs_queen"
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/paper/karta"
+    },
+    "property": "minecraft:display_context"
+  }
+}

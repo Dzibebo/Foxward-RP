@@ -195,6 +195,18 @@
         "validate": false
       },
       {
+        "regex": "(?iu)фамоха",
+        "substitution": "famohe",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фамоха в платье",
+        "substitution": "famohe_platie",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

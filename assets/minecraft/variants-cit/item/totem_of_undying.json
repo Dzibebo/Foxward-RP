@@ -207,6 +207,24 @@
         "validate": false
       },
       {
+        "regex": "(?iu)кирилл сегун",
+        "substitution": "kirill_nos_",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кирюшка",
+        "substitution": "kirill_nos",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)купитмашка",
+        "substitution": "kirill_nos",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

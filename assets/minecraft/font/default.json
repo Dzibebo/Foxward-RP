@@ -692,6 +692,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u211E"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/nikto.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u16A7"]
 		}
 	]
 }

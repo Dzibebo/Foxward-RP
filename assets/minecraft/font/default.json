@@ -699,6 +699,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u16A7"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/infinity.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u07CB"]
 		}
 	]
 }

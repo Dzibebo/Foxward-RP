@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "item/iron_ingot/petrozav_balon_right"
+          "model": "item/iron_ingot/nya_grafity_balon_right"
         },
         "when": [
           "firstperson_righthand"
@@ -13,7 +13,7 @@
       },{
         "model": {
           "type": "minecraft:model",
-          "model": "item/iron_ingot/petrozav_balon_left"
+          "model": "item/iron_ingot/nya_grafity_balon_left"
         },
         "when": [
 
@@ -22,7 +22,7 @@
       },{
         "model": {
           "type": "minecraft:model",
-          "model": "item/iron_ingot/petrozav_balon"
+          "model": "item/iron_ingot/nya_grafity_balon"
         },
         "when": [
           "thirdperson_righthand",
@@ -33,7 +33,7 @@
 	  {
         "model": {
           "type": "minecraft:model",
-          "model": "item/iron_ingot/petrozav"
+          "model": "item/iron_ingot/nya_grafity"
         },
         "when": [
           "gui",
@@ -43,7 +43,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "item/iron_ingot/petrozav"
+      "model": "item/iron_ingot/nya_grafity"
     },
     "property": "minecraft:display_context"
   }

@@ -2,6 +2,7 @@
   "type": "component_data",
   "items": [
     "minecraft:wooden_sword",
+    "minecraft:breeze_rod",
     "minecraft:raw_iron",
     "minecraft:stick",
     "minecraft:lead",
@@ -113,6 +114,12 @@
       {
         "regex": "(?iu)чертеж",
         "substitution": "blueprint",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)отталкивающая дубинка",
+        "substitution": "dubinka_knockback",
         "matchAll": true,
         "validate": false
       }

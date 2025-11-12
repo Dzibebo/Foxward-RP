@@ -24,7 +24,8 @@
     "minecraft:brown_candle",
     "minecraft:green_candle",
     "minecraft:red_candle",
-    "minecraft:black_candle"
+    "minecraft:black_candle",
+    "minecraft:breeze_rod"
   ],
   "modelPrefix": "item/crafting_items/",
   "modelParent": "minecraft:item/handheld",
@@ -113,6 +114,12 @@
       {
         "regex": "(?iu)чертеж",
         "substitution": "blueprint",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)отталкивающая дубинка",
+        "substitution": "dubinka_knockback",
         "matchAll": true,
         "validate": false
       }

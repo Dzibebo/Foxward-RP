@@ -2718,6 +2718,36 @@
         "substitution": "petrozav",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)флаг мпп",
+        "substitution": "mpp_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг мпп",
+        "substitution": "mpp_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)граффити мпп",
+        "substitution": "mpp_grafity",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навесной флаг мпп",
+        "substitution": "mpp_flag_ves",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)граффити новая япония",
+        "substitution": "nya_grafity",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

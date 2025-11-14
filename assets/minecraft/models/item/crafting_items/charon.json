@@ -1,6 +1,0 @@
-{
-  "parent": "item/crafting_items/vapesos",
-  "textures": {
-    "2": "item/crafting_items/charon"
-  }
-}

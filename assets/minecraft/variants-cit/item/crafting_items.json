@@ -2,7 +2,6 @@
   "type": "component_data",
   "items": [
     "minecraft:wooden_sword",
-    "minecraft:breeze_rod",
     "minecraft:raw_iron",
     "minecraft:stick",
     "minecraft:lead",
@@ -25,7 +24,8 @@
     "minecraft:brown_candle",
     "minecraft:green_candle",
     "minecraft:red_candle",
-    "minecraft:black_candle"
+    "minecraft:black_candle",
+    "minecraft:breeze_rod"
   ],
   "modelPrefix": "item/crafting_items/",
   "modelParent": "minecraft:item/handheld",
@@ -39,21 +39,10 @@
         "substitution": "е",
         "matchAll": false,
         "validate": false
-      },{
-        "regex": "(?iu)brusko",
-        "substitution": "brusko",
-        "matchAll": true,
-        "validate": false
       },
       {
         "regex": "(?iu)лупа",
         "substitution": "magnifying_glass",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)charon",
-        "substitution": "charon",
         "matchAll": true,
         "validate": false
       },
@@ -70,8 +59,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)vaporesso",
-        "substitution": "vaporesso",
+        "regex": "(?iu)пыхалка",
+        "substitution": "vape",
         "matchAll": true,
         "validate": false
       },

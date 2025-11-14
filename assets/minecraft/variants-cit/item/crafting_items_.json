@@ -39,21 +39,10 @@
         "substitution": "е",
         "matchAll": false,
         "validate": false
-      },{
-        "regex": "(?iu)brusko",
-        "substitution": "brusko",
-        "matchAll": true,
-        "validate": false
       },
       {
         "regex": "(?iu)лупа",
         "substitution": "magnifying_glass",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)charon",
-        "substitution": "charon",
         "matchAll": true,
         "validate": false
       },
@@ -70,8 +59,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)vaporesso",
-        "substitution": "vaporesso",
+        "regex": "(?iu)пыхалка",
+        "substitution": "vape",
         "matchAll": true,
         "validate": false
       },

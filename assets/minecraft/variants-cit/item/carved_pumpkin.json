@@ -1683,6 +1683,12 @@
         "substitution": "foxward_fox",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)очки дока",
+        "substitution": "docs_glasses",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

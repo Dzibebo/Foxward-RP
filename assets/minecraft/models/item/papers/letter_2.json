@@ -16,6 +16,6 @@
 	],
 
 	"overrides": [
-		{"predicate": {"custom_model_data":201}, "model": "item/papers/letter_2"}
+		{"predicate": {"custom_model_data":701}, "model": "item/papers/letter_2"}
 	]
 }

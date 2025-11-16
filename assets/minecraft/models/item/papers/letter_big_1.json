@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/papers/missing_person_paper_big",
+		"particle": "item/papers/missing_person_paper_big"
+	},
+	"elements": [
+		{
+			"from": [-6.25, -15.3, 8],
+			"to": [21.75, 31.2, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.75, -13, 7]},
+			"faces": {
+				"north": {"uv": [9.0625, 9.4375, 12.5625, 15.25], "texture": "#0"},
+				"south": {"uv": [12.5625, 9.4375, 9.0625, 15.25], "texture": "#0"}
+			}
+		}
+	],
+	"overrides": [
+		{"predicate": {"custom_model_data": 708}, "model": "item/papers/letter_big_1"}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, -3.5, 0]
+		}
+	}
+}

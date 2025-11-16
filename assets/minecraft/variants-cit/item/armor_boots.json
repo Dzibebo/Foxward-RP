@@ -1,0 +1,49 @@
+{
+  "type": "component_data",
+  "items": [ "minecraft:diamond_boots",
+    "minecraft:netherite_boots",
+     "minecraft:golden_boots",
+    "minecraft:leather_boots",
+    "minecraft:iron_boots",
+    "minecraft:chainmail_boots"
+  ],
+  "modelPrefix": "item/armor/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "custom_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)невидимка",
+        "substitution": "invisible_boots",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шнурки",
+        "substitution": "shoelaces",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)невидимка alt",
+        "substitution": "invisible_boots_alt",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)цокли",
+        "substitution": "cokli",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "invisible"
+            }
+        ],
+        "humanoid_leggings": [
+            {
+                "texture": "invisible"
+            }
+        ]
+    }
+}

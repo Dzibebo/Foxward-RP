@@ -1,0 +1,49 @@
+{
+  "type": "component_data",
+  "items": [ "minecraft:diamond_leggings",
+     "minecraft:netherite_leggings",
+    "minecraft:golden_leggings",
+"minecraft:leather_leggings",
+    "minecraft:iron_leggings",
+ "minecraft:chainmail_leggings"
+  ],
+  "modelPrefix": "item/armor/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "custom_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)невидимка",
+        "substitution": "invisible_leggings",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наколенники",
+        "substitution": "kneepads",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)невидимка alt",
+        "substitution": "invisible_leggings_alt",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ремень",
+        "substitution": "belt",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

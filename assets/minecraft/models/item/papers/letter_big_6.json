@@ -9,15 +9,15 @@
 	"elements": [
 		{
 			"from": [-6.25, -9.3, 8],
-			"to": [21.75, 23, 8],
+			"to": [21.75, 27.2, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [5.75, -7, 7]},
 			"faces": {
-				"north": {"uv": [0, 0, 3.5, 4.5625], "texture": "#0"},
-				"south": {"uv": [3.5, 0, 0, 4.5625], "texture": "#0"}
+				"north": {"uv": [3.5, 4.6875, 7, 9.25], "texture": "#0"},
+				"south": {"uv": [3.5, 4.625, 0, 9.1875], "texture": "#0"}
 			}
 		}
 	],
 	"overrides": [
-		{"predicate": {"custom_model_data": 707}, "model": "item/papers/letter_big"}
+		{"predicate": {"custom_model_data": 713}, "model": "item/papers/letter_big_6"}
 	]
 }

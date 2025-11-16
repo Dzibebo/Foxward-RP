@@ -225,6 +225,12 @@
         "validate": false
       },
       {
+        "regex": "(?iu)деловой_caxarok",
+        "substitution": "delovoi_caxarok",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

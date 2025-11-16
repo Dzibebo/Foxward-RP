@@ -1,0 +1,49 @@
+{
+  "type": "component_data",
+  "items": [ "minecraft:diamond_chestplate",
+"minecraft:netherite_chestplate",
+ "minecraft:golden_chestplate",
+ "minecraft:leather_chestplate",
+ "minecraft:iron_chestplate",
+"minecraft:chainmail_chestplate"
+  ],
+  "modelPrefix": "item/armor/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "custom_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)невидимка",
+        "substitution": "invisible_chestplate",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наплечники",
+        "substitution": "shoulder_pads",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)невидимка alt",
+        "substitution": "invisible_chestplate_alt",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)перчатки",
+        "substitution": "gloves",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

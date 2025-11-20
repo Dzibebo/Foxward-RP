@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
@@ -226,7 +227,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [3.75, 2.5, -14.25],
+			"translation": [3.75, 2.5, -12.5],
 			"scale": [2, 2, 2]
 		}
 	},

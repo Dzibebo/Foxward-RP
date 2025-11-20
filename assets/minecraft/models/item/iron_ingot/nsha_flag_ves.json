@@ -1,0 +1,6 @@
+{
+	"parent": "item/iron_ingot/mpp_flag_ves",
+	"textures": {
+	  "0": "item/iron_ingot/flag_nsha"
+	}
+  }

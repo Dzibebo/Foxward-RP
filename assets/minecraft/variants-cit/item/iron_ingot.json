@@ -2748,6 +2748,42 @@
         "substitution": "nya_grafity",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг нсша",
+        "substitution": "nsha_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)граффити нсша",
+        "substitution": "nsha_grafity",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навесной флаг нсша",
+        "substitution": "nsha_flag_ves",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг империи",
+        "substitution": "impery_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)граффити империи",
+        "substitution": "impery_grafity",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навесной флаг империи",
+        "substitution": "impery_flag_ves",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

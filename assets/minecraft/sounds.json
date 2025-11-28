@@ -25,6 +25,10 @@
 			{
 				"name": "restart/sound6",
 				"stream": true
+			},
+			{
+				"name": "restart/sound7",
+				"stream": true
 			}
 		]
 	},

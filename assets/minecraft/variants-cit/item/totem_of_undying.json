@@ -231,6 +231,18 @@
         "validate": false
       },
       {
+        "regex": "(?iu)шмегуля",
+        "substitution": "shmegula",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)алекс фьючер",
+        "substitution": "minrik_scd",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

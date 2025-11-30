@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/command_block",
+	"parent": "minecraft:block/chain_command_block",
 
 		"display": {
 		"fixed": {

@@ -9,6 +9,12 @@
             {
                 "texture": "invisible"
             }
+        ],
+        "wings": [
+            {
+                "texture": "invisible",
+                "use_player_texture": true
+            }
         ]
     }
 }

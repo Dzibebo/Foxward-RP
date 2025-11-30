@@ -2756,8 +2756,8 @@
         "validate": false
       },
       {
-        "regex": "(?iu)граффити нсша",
-        "substitution": "nsha_grafity",
+        "regex": "(?iu)флаг нсша",
+        "substitution": "nsha_flag",
         "matchAll": true,
         "validate": false
       },
@@ -2782,6 +2782,42 @@
       {
         "regex": "(?iu)навесной флаг империи",
         "substitution": "impery_flag_ves",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навесной флаг weißhafen",
+        "substitution": "weishafen_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)флаг weißhafen",
+        "substitution": "weishafen_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг weißhafen",
+        "substitution": "weishafen_flag_ves",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навесной флаг weißhafen alt",
+        "substitution": "weishafen_wall_flag_alt",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)флаг weißhafen alt",
+        "substitution": "weishafen_flag_alt",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг weißhafen alt",
+        "substitution": "weishafen_flag_ves_alt",
         "matchAll": true,
         "validate": false
       }

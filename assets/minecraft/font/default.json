@@ -706,6 +706,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u07CB"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/nemesis.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1969"]
 		}
 	]
 }

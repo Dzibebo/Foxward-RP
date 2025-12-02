@@ -1,0 +1,6 @@
+{
+	"parent": "item/iron_ingot/mpp_flag",
+	"textures": {
+	  "0": "item/iron_ingot/nya_flag"
+	}
+  }

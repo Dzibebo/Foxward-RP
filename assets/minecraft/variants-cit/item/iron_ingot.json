@@ -2820,6 +2820,96 @@
         "substitution": "weishafen_flag_ves_alt",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)гирлянда",
+        "substitution": "rgb_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синяя гирлянда",
+        "substitution": "blue_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красная гирлянда",
+        "substitution": "red_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)желтая гирлянда",
+        "substitution": "yellow_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зеленая гирлянда",
+        "substitution": "green_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)лаймовая гирлянда",
+        "substitution": "lime_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фиолетовая гирлянда",
+        "substitution": "purple_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)розовая гирлянда",
+        "substitution": "pink_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)оранжевая гирлянда",
+        "substitution": "orange_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)голубая гирлянда",
+        "substitution": "light_blue_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)черная гирлянда",
+        "substitution": "black_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)белая гирлянда",
+        "substitution": "white_girland",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)навесной флаг новой японии",
+        "substitution": "nya_wall_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)флаг новой японии",
+        "substitution": "nya_flag",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)настенный флаг новой японии",
+        "substitution": "nya_flag_ves",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

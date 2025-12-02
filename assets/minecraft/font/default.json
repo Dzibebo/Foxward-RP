@@ -713,6 +713,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1969"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/furry_pride.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u07C9"]
 		}
 	]
 }

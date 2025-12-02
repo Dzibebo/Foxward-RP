@@ -1550,6 +1550,24 @@
         "substitution": "sprites/fotoris_sword_super",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)разделитель творений",
+        "substitution": "creationsplitter",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)милость феникса",
+        "substitution": "pheonixgrace",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)true excalibur",
+        "substitution": "excalibur",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

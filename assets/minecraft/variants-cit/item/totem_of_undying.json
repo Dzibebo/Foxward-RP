@@ -243,6 +243,18 @@
         "validate": false
       },
       {
+        "regex": "(?i)bruh momento",
+        "substitution": "bruh_momento",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)bruh moment",
+        "substitution": "bruh_moment",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

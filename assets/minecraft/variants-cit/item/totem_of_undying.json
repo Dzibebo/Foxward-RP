@@ -255,6 +255,24 @@
         "validate": false
       },
       {
+        "regex": "(?i)_rigbi_ имперские похождения",
+        "substitution": "_rigbi_impery",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)бог войны",
+        "substitution": "pridurky_premium_kupite",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)кратос",
+        "substitution": "pridurky_premium_kupite",
+        "matchAll": true,
+        "validate": false
+      },
+      {
         "regex": "(?iu) ",
         "substitution": "_",
         "matchAll": false,

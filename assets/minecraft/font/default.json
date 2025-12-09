@@ -719,7 +719,21 @@
 			"file": "minecraft:gui/foxicons/purchase/furry_pride.png",
 			"ascent": 7,
 			"height": 9,
-			"chars": ["\u07C9"]
+			"chars": ["\u07F7"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/konig.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1DBC"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/sharck.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u1DB5"]
 		}
 	]
 }

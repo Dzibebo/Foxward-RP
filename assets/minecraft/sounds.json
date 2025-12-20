@@ -40,5 +40,14 @@
 				"stream": true
 			}
 		]
+	},
+	"msonuds.barrels": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "barrels/konditsii",
+				"stream": true
+			}
+		]
 	}
 }

@@ -41,11 +41,29 @@
 			}
 		]
 	},
-	"msonuds.barrels": {
+	"msonuds.konditsii": {
 		"category": "master",
 		"sounds": [
 			{
-				"name": "barrels/konditsii",
+				"name": "konditsii/konditsii",
+				"stream": true
+			}
+		]
+	},
+	"msonuds.power": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "power/power",
+				"stream": true
+			}
+		]
+	},
+	"msonuds.super_power": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "super_power/super_power",
 				"stream": true
 			}
 		]

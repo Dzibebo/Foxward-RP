@@ -1,0 +1,32 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/armor/gloves3d_left"
+        },
+        "when": [
+          "firstperson_lefthand",
+		   "thirdperson_lefthand"
+        ]
+      },
+	  {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/armor/gloves3d_right"
+        },
+        "when": [
+          "firstperson_righthand",
+		  		   "thirdperson_righthand"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/armor/gloves"
+    },
+    "property": "minecraft:display_context"
+  }
+}

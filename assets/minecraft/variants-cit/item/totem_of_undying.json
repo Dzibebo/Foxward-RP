@@ -232,13 +232,13 @@
       },
       {
         "regex": "(?iu)шмегуля",
-        "substitution": "shmegula",
+        "substitution": "minrik_scd",
         "matchAll": true,
         "validate": false
       },
       {
         "regex": "(?iu)алекс фьючер",
-        "substitution": "minrik_scd",
+        "substitution": "shmegula",
         "matchAll": true,
         "validate": false
       },
@@ -269,6 +269,24 @@
       {
         "regex": "(?i)кратос",
         "substitution": "pridurky_premium_kupite",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)лабубу",
+        "substitution": "labubu",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)монро",
+        "substitution": "monro",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?i)макима",
+        "substitution": "makima",
         "matchAll": true,
         "validate": false
       },

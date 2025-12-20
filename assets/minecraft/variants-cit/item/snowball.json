@@ -24,6 +24,12 @@
         "substitution": "rotten_tomato",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)Игрушка фугу",
+        "substitution": "pufferfish_toy",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

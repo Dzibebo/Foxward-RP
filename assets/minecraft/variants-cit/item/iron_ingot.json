@@ -1,6 +1,6 @@
 {
   "type": "component_data",
-  "items": "minecraft:iron_ingot",
+  "items": ["minecraft:iron_ingot","spyglass"],
   "modelPrefix": "item/iron_ingot/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
@@ -2908,6 +2908,221 @@
       {
         "regex": "(?iu)настенный флаг новой японии",
         "substitution": "nya_flag_ves",
+        "matchAll": true,
+        "validate": false
+      },{
+        "regex": "(?iu)елочный шар",
+        "substitution": "chrstms_minitoy_ball",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)салатовый елочный шар",
+        "substitution": "chrstms_minitoy_ball_lime",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красный елочный шар",
+        "substitution": "chrstms_minitoy_ball_red",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синий елочный птенец",
+        "substitution": "chrstms_minitoy_bird_blue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зеленый елочный птенец",
+        "substitution": "chrstms_minitoy_bird_green",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синий елочный шар",
+        "substitution": "chrstms_minitoy_blue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочная конфета",
+        "substitution": "chrstms_minitoy_candy",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синяя елочная конфета",
+        "substitution": "chrstms_minitoy_candy_blue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотая елочная конфета",
+        "substitution": "chrstms_minitoy_candy_gold",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочный шар foxward",
+        "substitution": "chrstms_minitoy_foxward",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зеленый елочный шар",
+        "substitution": "chrstms_minitoy_green",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)розовый елочный шар",
+        "substitution": "chrstms_minitoy_pink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)фиолетовый елочный шар",
+        "substitution": "chrstms_minitoy_purple",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочный снеговик",
+        "substitution": "chrstms_minitoy_snowman",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочный снеговик в тыкве",
+        "substitution": "chrstms_minitoy_snowman_pumpkin",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)желтый елочный шар",
+        "substitution": "chrstms_minitoy_yellow",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)рождественский носок big",
+        "substitution": "chrstms_sock",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочный шар big",
+        "substitution": "chrstms_toy_ball",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синий елочный шар big",
+        "substitution": "chrstms_toy_ball_blue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочный шар foxward big",
+        "substitution": "chrstms_toy_ball_foxward",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зеленый елочный шар big",
+        "substitution": "chrstms_toy_ball_lime",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)красный елочный шар big",
+        "substitution": "chrstms_toy_ball_red",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)желтый елочный шар big",
+        "substitution": "chrstms_toy_ball_yellow",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синяя елочная птица big",
+        "substitution": "chrstms_toy_bird_blue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)зеленая елочная птица big",
+        "substitution": "chrstms_toy_bird_green",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)синяя елочная конфета big",
+        "substitution": "chrstms_toy_candy_blue",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)золотая елочная конфета big",
+        "substitution": "chrstms_toy_candy_gold",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мятная елочная конфета big",
+        "substitution": "chrstms_toy_candy_lime",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)розовая елочная конфета big",
+        "substitution": "chrstms_toy_candy_pink",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочная лиса big",
+        "substitution": "chrstms_toy_fox",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочная шляпа big",
+        "substitution": "chrstms_toy_hat",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)рождественский носок игрушка big",
+        "substitution": "chrstms_toy_sock",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елочная звезда big",
+        "substitution": "chrstms_toy_star",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)елка",
+        "substitution": "el",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)снежный шар",
+        "substitution": "ball_with_snow",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)Игрушка фугу",
+        "substitution": "pufferfish_toy",
         "matchAll": true,
         "validate": false
       }

@@ -1,0 +1,115 @@
+{
+  "type": "component_data",
+  "items": "minecraft:command_block",
+  "modelPrefix": "item/flare/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+    "componentType": "item_name",
+    "expect": "rich_text",
+    "debug": true,
+    "transform": ["lowercase",
+      {
+        "regex": "(?iu)ё",
+        "substitution": "е",
+        "matchAll": false,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)админ года",
+        "substitution": "admin_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)художник мира",
+        "substitution": "arter_of_world",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)город года",
+        "substitution": "city_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)content maker",
+        "substitution": "content_maker",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)fox queen",
+        "substitution": "fox_queen",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)fox king",
+        "substitution": "fox_king",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)fox года",
+        "substitution": "fox_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)кринж года",
+        "substitution": "kringe_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)мем года",
+        "substitution": "meme_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)наставник года",
+        "substitution": "nastavnik_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)прорыв года",
+        "substitution": "proriv_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)гений редстоуна",
+        "substitution": "redstone_genius",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)душа компании",
+        "substitution": "soul_of_company",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)завоз года",
+        "substitution": "zavoz_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)билдер года",
+        "substitution": "builder_of_year",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)админ года",
+        "substitution": "admin_of_year",
+        "matchAll": true,
+        "validate": false
+      }
+    ]
+  }
+}

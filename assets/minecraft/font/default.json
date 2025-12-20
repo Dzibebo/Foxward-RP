@@ -734,6 +734,20 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u1DB5"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/clans/mobiania.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u120A"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/purchase/tetotet.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u31D6"]
 		}
 	]
 }

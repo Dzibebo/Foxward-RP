@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/goat_horn/sprites/small_speaker"
+        },
+        "when": [
+          "gui",
+          "ground"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/goat_horn/small_speaker"
+    },
+    "property": "minecraft:display_context"
+  }
+}

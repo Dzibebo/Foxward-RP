@@ -1689,6 +1689,54 @@
         "substitution": "docs_glasses",
         "matchAll": true,
         "validate": false
+      },
+      {
+        "regex": "(?iu)японский шнобель",
+        "substitution": "kupitman_nose",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)купитнос",
+        "substitution": "kupitman_nose",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)ноздря купитмана",
+        "substitution": "kupitman_nose",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)шнобель кирилла",
+        "substitution": "kupitman_nose",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовый японский шнобель",
+        "substitution": "netherite_kupitman_nose",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовый купитнос",
+        "substitution": "netherite_kupitman_nose",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовый ноздря купитмана",
+        "substitution": "netherite_kupitman_nose",
+        "matchAll": true,
+        "validate": false
+      },
+      {
+        "regex": "(?iu)незеритовый шнобель кирилла",
+        "substitution": "netherite_kupitman_nose",
+        "matchAll": true,
+        "validate": false
       }
     ]
   }

@@ -15,7 +15,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "item/crafting_items/__pipewrench"
+      "model": "item/crafting_items/pipewrench"
     },
     "property": "minecraft:display_context"
   }

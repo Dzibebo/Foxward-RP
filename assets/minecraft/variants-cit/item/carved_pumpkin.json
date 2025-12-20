@@ -1734,7 +1734,7 @@
       },
       {
         "regex": "(?iu)незеритовый шнобель кирилла",
-        "substitution": "netherite_kupitman_nose",
+        "substitution": "netherite_уkupitman_nose",
         "matchAll": true,
         "validate": false
       }

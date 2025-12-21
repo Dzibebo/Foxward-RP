@@ -1,5 +1,6 @@
+
 {
-  "type": "component_data",
+  "type": "component_format",
   "items": [
     "minecraft:wooden_sword",
     "minecraft:raw_iron",
@@ -30,89 +31,118 @@
   "modelPrefix": "item/crafting_items/",
   "modelParent": "minecraft:item/handheld",
   "parameters": {
-    "componentType": "item_name",
-    "expect": "rich_text",
-    "debug": true,
-    "transform": ["lowercase",
-      {
-        "regex": "(?iu)ё",
-        "substitution": "е",
-        "matchAll": false,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)лупа",
-        "substitution": "magnifying_glass",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)корсар",
-        "substitution": "firecracker",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)хлопушка",
-        "substitution": "firecrecker",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)пыхалка",
-        "substitution": "vape",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)бдсм наручники",
-        "substitution": "bdsm_kandal",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)полицейская дубинка",
-        "substitution": "dubinka",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)разводной ключ",
-        "substitution": "pipewrench",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)зонт",
-        "substitution": "umbrella",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)свернутый зонт",
-        "substitution": "rolled_up_umbrella",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)наручники",
-        "substitution": "kandal_icon",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)чертеж",
-        "substitution": "blueprint",
-        "matchAll": true,
-        "validate": false
-      },
-      {
-        "regex": "(?iu)отталкивающая дубинка",
-        "substitution": "dubinka_knockback",
-        "matchAll": true,
-        "validate": false
-      }
+    "format": "${customname}_${itemname}",
+    "variables": {
+      "customname": {
+        "componentType": "custom_name",
+        "fallback": "_",
+        "transform": ["lowercase",{
+          "regex": "(?iu) ",
+          "substitution": "_",
+          "matchAll": false,
+          "validate": false
+        },{
+          "regex": "(?iu)пиздатенькая_дубинка",
+          "substitution": "pizda",
+          "matchAll": true,
+          "validate": false
+        },{
+          "regex": "(?iu)резиновый_пенис",
+          "substitution": "dildo",
+          "matchAll": true,
+          "validate": false
+        }]
 
-    ]
+      },
+      "itemname": {
+        "componentType": "item_name",
+        "fallback": "none",
+        "transform": ["lowercase",
+          {
+            "regex": "(?iu)ё",
+            "substitution": "е",
+            "matchAll": false,
+            "validate": false
+          },{
+            "regex": "(?iu)лупа",
+            "substitution": "magnifying_glass",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)корсар",
+            "substitution": "firecracker",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)хлопушка",
+            "substitution": "firecrecker",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)пыхалка",
+            "substitution": "vape",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)бдсм наручники",
+            "substitution": "bdsm_kandal",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)полицейская дубинка",
+            "substitution": "dubinka",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)разводной ключ",
+            "substitution": "pipewrench",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)зонт",
+            "substitution": "umbrella",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)свернутый зонт",
+            "substitution": "rolled_up_umbrella",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)наручники",
+            "substitution": "kandal_icon",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)чертеж",
+            "substitution": "blueprint",
+            "matchAll": true,
+            "validate": false
+          },
+          {
+            "regex": "(?iu)отталкивающая дубинка",
+            "substitution": "dubinka_knockback",
+            "matchAll": true,
+            "validate": false
+          },{
+            "regex": "(?iu) ",
+            "substitution": "_",
+            "matchAll": false,
+            "validate": false
+          }
+        ]
+      }
+    }
   }
 }
+

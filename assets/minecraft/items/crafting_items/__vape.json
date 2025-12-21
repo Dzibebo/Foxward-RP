@@ -19,7 +19,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "item/crafting_items/vape",
+      "model": "item/crafting_items/__vape",
       "tints": [
         {
           "type": "minecraft:dye",

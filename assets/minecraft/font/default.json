@@ -748,6 +748,55 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["\u31D6"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/tabskit/uwu.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2800"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/tabskit/thunderer.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2801"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/tabskit/steam_king.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2802"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/tabskit/sigma.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2803"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/tabskit/pridonia.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2804"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/tabskit/mouse.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2805"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/foxicons/tabskit/lucky.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["\u2806"]
 		}
 	]
 }

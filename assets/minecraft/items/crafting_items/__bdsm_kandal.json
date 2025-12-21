@@ -19,7 +19,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "item/crafting_items/bdsm_kandal",
+      "model": "item/crafting_items/__bdsm_kandal",
       "tints": [
         {
           "type": "minecraft:dye",

@@ -24,7 +24,7 @@
     "minecraft:brown_candle",
     "minecraft:green_candle",
     "minecraft:red_candle",
-    "minecraft:black_candle",
+    "minecraft:black_candle",.
     "minecraft:breeze_rod"
   ],
   "modelPrefix": "item/crafting_items/",
